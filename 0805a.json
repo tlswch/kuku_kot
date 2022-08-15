@@ -6,7 +6,7 @@
 ]}]}],
 	"sites": [
 		{"key": "csp_七七","name": "🍞七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-		"key": "AliPS",
+		{"key": "AliPS",
 		{"name": "🐞盘搜",
 		"type": 3,
 		"api": "csp_AliPanSou",
