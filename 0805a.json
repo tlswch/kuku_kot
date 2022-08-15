@@ -42,7 +42,7 @@
 {"key": "csp_低端","name": "😲低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_360官源","name": "🍩360官源(SP)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_厂长","name": "🐖厂长(SP)","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "csp_吾爱B站","name": "🅱吾爱B站(SP)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/kuku/kot/raw/branch/master/bilibili1.json;md:6243A51D98486043B53FA8F56C38D087"},
+{"key": "csp_吾爱B站","name": "🅱吾爱B站(SP)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/kuku/kot/raw/branch/master/bilibili1.json"},
 {"key": "csp_小纸条","name": "🐾小纸条(SP)","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":""},
 {"key": "csp_找资源","name": "🎲找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":""},
 {"key": "csp_阿里盘搜","name": "🦊喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":""},
