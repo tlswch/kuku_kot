@@ -33,8 +33,8 @@
 		"ext": "dcbc975ad0684eb5a498ecd1836272e6"
 	},
 	
-{"key": "Bili","name": "🅱️吾爱哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.bilnn.com/api/v3/file/sourcejump/egWE78SZ/-DZ09XP0e57xRgmmiH1XF46XTdtwxrFTiWWL5gNY-E4*"},
-	{"key": "戏曲","name": "戏曲套餐","type": 3,"api": "csp_Blixq","searchable": 0,"quickSearch": 0,"filterable": 1},
+{"key": "Bili","name": "🅱️吾爱哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/kuku/kot/src/commit/a97ab20e8f163d634bef30cabf2a677a5e55bbb1/bilibili.json"},
+{"key": "戏曲","name": "戏曲套餐","type": 3,"api": "csp_Blixq","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bliyc","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key": "csp_Blixs","name":"相声小品","type": 3,"api": "csp_Blixs","searchable": 0,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Lib","name": "👑Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
