@@ -2,7 +2,7 @@
 	"spider":"https://notabug.org/kuzniez/kot/raw/master/top95_0807.jpg;md5;653681825B0B4D20E8A9C0C8BA4EBD66",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9rdXpuaWV6L2tvdC9yYXcvbWFzdGVyL1RWQnhydXMudHh0"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2t1a3Uva290L3Jhdy9icmFuY2gvbWFzdGVyL1pFVEJMSVNULnR4dA=="
 ]}]}],
 	"sites": [
 		{"key": "csp_七七","name": "🍞七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
