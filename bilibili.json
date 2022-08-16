@@ -25,12 +25,12 @@
       "type_id": "苏俄轶事"
     },
     {
-      "type_name": "健身",
-      "type_id": "健身"
+      "type_name": "健身操",
+      "type_id": "健身操"
     },
      {
-      "type_name": "美食",
-      "type_id": "美食"
+      "type_name": "菜谱",
+      "type_id": "菜谱"
     },
       {
       "type_name": "旅游",
@@ -840,7 +840,7 @@
         ]
       }
     ],
-    "健身": [
+    "健身操": [
       {
         "key": "duration",
         "name": "时长",
@@ -868,7 +868,7 @@
         ]
       }
     ],
-    "美食": [
+    "菜谱": [
       {
         "key": "duration",
         "name": "时长",
