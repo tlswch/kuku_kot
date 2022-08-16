@@ -25,8 +25,8 @@
       "type_id": "俄罗斯"
     },
     {
-      "type_name": "苏俄",
-      "type_id": "苏俄"
+      "type_name": "苏联",
+      "type_id": "苏联"
     },
      {
       "type_name": "美食",
@@ -756,7 +756,7 @@
         ]
       }
     ],
-    "苏俄": [
+    "苏联": [
       {
         "key": "duration",
         "name": "时长",
