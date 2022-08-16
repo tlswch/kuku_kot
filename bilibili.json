@@ -21,12 +21,12 @@
       "type_id": "战斗民族"
     },
     {
-      "type_name": "广场舞",
-      "type_id": "广场舞"
+      "type_name": "俄罗斯",
+      "type_id": "俄罗斯"
     },
     {
-      "type_name": "健身操",
-      "type_id": "健身操"
+      "type_name": "苏俄",
+      "type_id": "苏俄"
     },
      {
       "type_name": "美食",
@@ -728,7 +728,7 @@
                 ]
             }
         ],
-        "健身": [
+        "俄罗斯": [
       {
         "key": "duration",
         "name": "时长",
@@ -756,7 +756,7 @@
         ]
       }
     ],
-    "广场舞": [
+    "苏俄": [
       {
         "key": "duration",
         "name": "时长",
