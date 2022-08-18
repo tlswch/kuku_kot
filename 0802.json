@@ -22,7 +22,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "3a49cf29cf20410997247c6eb4509be9"
+		"ext": "3a49cf29cf20410997247c6eb4509be9","jar":"https://agit.ai/kuku/kot/raw/branch/master/pzx.jar"
 	}, {
 		"key": "FindZY",
 		"name": "🐞找资源",
