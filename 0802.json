@@ -43,9 +43,7 @@
 {"key": "csp_低端","name": "😲低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_360官源","name": "🍩360官源(SP)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_厂长","name": "🐖厂长(SP)","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "csp_小纸条","name": "🐾小纸条(SP)","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable" 1,"ext": "3a49cf29cf20410997247c6eb4509be9","jar":"https://agit.ai/kuku/kot/raw/branch/master/pzx.jar"},
-{"key": "csp_找资源","name": "🎲找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"3a49cf29cf20410997247c6eb4509be9"},
-{"key": "csp_阿里盘搜","name": "🦊喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
+
 {"key": "csp_2BT","name": "🥇2BT(SP)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_追剧喵","name": "🥇追剧喵(SP)","type": 3,"api": "csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key": "csp_爱看","name": "🥇爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
