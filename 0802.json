@@ -45,7 +45,9 @@
 {"key": "csp_360官源","name": "🍩360官源(SP)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_厂长","name": "🐖厂长(SP)","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "AliPS","name": "宝盒资源(只支持搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7520a4f309694da1be0aa951512321d8","jar":"https://share.nite07.com/api/v3/file/source/12131/0805.jar?sign=G31OA82P4pFPt4tsOWBm76WFclxy3pFJW0QkzSVNbGA%3D%3A0;md5;0E29B2B4BE00B0AE584C757C2D363215"},
-
+{"key": "csp_小纸条","name": "🐾小纸条(SP)","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":""},
+{"key": "csp_找资源","name": "🎲找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":""},
+{"key": "csp_阿里盘搜","name": "🦊喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":""},
 {"key": "csp_2BT","name": "🥇2BT(SP)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_追剧喵","name": "🥇追剧喵(SP)","type": 3,"api": "csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key": "csp_爱看","name": "🥇爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
