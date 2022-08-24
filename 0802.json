@@ -109,7 +109,6 @@
 {"key":"csp_biubiu_米来影视","name":"米来影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/kuku/kot/raw/branch/master/%e7%b1%b3%e6%9d%a5%e5%bd%b1%e8%a7%86.json"},
 {"key":"csp_biubiu_看片网","name":"看片网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/kuku/kot/raw/branch/master/MeoXB/kanpianwang.json"},
 {"key":"csp_biubiu_速搜影视","name":"速搜影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/kuku/kot/raw/branch/master/MeoXB/sushouyingsh.json"},
-{"key":"csp_biubiu_猫眼电影","name":"猫眼电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/kuku/kot/raw/branch/master/MeoXB/maoyandianying.json"},
 {"key":"csp_biubiu_VOFLIX","name":"VOFLIX(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/breadmyth/tv/raw/branch/main/MeowXB/VOFLIX(XB).json.json"},
 {"key":"csp_biubiu_Libvio","name":"Libvio(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitea.com/breadmyth/tv/raw/branch/main/MeowXB/剧迷线上看(XB).json"},
 {"key":"csp_biubiu_剧白白","name":"剧白白(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXB/剧白白(xb).json"},
