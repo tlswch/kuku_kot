@@ -265,6 +265,7 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 МОСКВА-24,https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
 МОСКВА-24,http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
 САНКТ ПЕТЕРБУРГ,https://radio-live-mg.rtr-vesti.ru/hls2/ext_spbtv/playlist_5.m3u8
+ТВЦ,http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 РТ,https://hls.rt.com/hls/rtdru.m3u8
 ЕНИСЕЙ,http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 ПРИМА КРАСНОЯРСК,http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1024x576@1272/playlist.m3u8
@@ -305,6 +306,7 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 МИР,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 МИР,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 МИР24,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+Салям,https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 Астрахань 24,http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
 Астрахань 24,http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdhigh.m3u8
 Астрахань 24,http://astrakhan24.mediacdn.ru/cdn/astrakhan24/playlist_hdlow.m3u8
