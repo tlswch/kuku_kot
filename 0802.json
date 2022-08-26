@@ -33,7 +33,7 @@
 		"filterable": 1,
 		"ext": "3a49cf29cf20410997247c6eb4509be9"
 	},
-{"key": "csp_吾爱B站","name": "🅱吾爱B站(SP)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/kuku/kot/raw/branch/master/bilibili.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},	
+{"key": "csp_吾爱B站","name": "🅱️吾爱B站(SP)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/kuku/kot/raw/branch/master/bilibili.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},	
 {"key":"bdys","name":"🅱磁力","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mpimg.cn/down.php/393b95c02032196d2aab57b2951f8e4b.json","jar":"https://mpimg.cn/down.php/226db2fc833312b73b0bf57c7dd41484.jar;md5;226DB2FC833312B73B0BF57C7DD41484"},
 {"key": "csp_B站","name": "🅱B站(SP)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXP/csp_Bili.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},
 {"key": "戏曲","name": "戏曲套餐","type": 3,"api": "csp_Blixq","searchable": 0,"quickSearch": 0,"filterable": 1},
