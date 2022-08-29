@@ -5,8 +5,7 @@
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2t1a3Uva290L3Jhdy9icmFuY2gvbWFzdGVyL1pFVEJMSVNULnR4dA=="
 ]}]}],
 	"sites": [
-		{"key": "csp_七七","name": "🍞七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-		
+{"key": "csp_七七","name": "🍞七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},	
 {"key": "csp_吾爱B站","name": "🅱️吾爱B站(SP)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/kuku/kot/raw/branch/master/bilibili.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},	
 {"key":"bdys","name":"🅱磁力","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mpimg.cn/down.php/393b95c02032196d2aab57b2951f8e4b.json","jar":"https://mpimg.cn/down.php/226db2fc833312b73b0bf57c7dd41484.jar;md5;226DB2FC833312B73B0BF57C7DD41484"},
 {"key": "csp_B站","name": "🅱B站(SP)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXP/csp_Bili.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},
@@ -25,13 +24,6 @@
 {"key":"FindZY","name":"🦊找资源〔仅搜索〕","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "3a49cf29cf20410997247c6eb4509be9","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
 {"key":"csp_Yiso","name":"🆎易搜〔仅搜索〕","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/ali.jpg;md5;23a7b8ab50ead897fd733e5c52c5f3fd"},
 {"key":"csp_xpath_cls","name": "🍭磁力搜索〔XB〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/磁搜.json"},
-{"key":"空格2","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"alist","name":"----暂不支持takagen版本----","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_Alist1","name": "🚩Alist1〔SP〕","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.hikerfans.com","jar":"http://刚刚.live/jar2/jar0828.jar"},
-{"key": "csp_Alist2","name": "🚩Alist2〔SP〕","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://drive.9t.ee","jar":"http://刚刚.live/jar2/jar0828.jar"},
-{"key": "csp_Alist3","name": "🚩Alist3〔SP〕","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml","jar":"http://刚刚.live/jar2/jar0828.jar"},
-{"key": "csp_Alist4","name": "🚩Alist4〔SP〕","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://wangpan.sangxuesheng.com","jar":"http://刚刚.live/jar2/jar0828.jar"},
-{"key": "csp_Alist5","name": "🚩Alist5〔SP〕","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.142856.xyz","jar":"http://刚刚.live/jar2/jar0828.jar"},
 {"key":"t4public","name":"🚾T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3a49cf29cf20410997247c6eb4509be9","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://刚刚.live/jar2/jar0828.jar"},
 {"key": "csp_2BT","name": "🥇2BT(SP)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_追剧喵","name": "🥇追剧喵(SP)","type": 3,"api": "csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1}, 
