@@ -1,8 +1,8 @@
 {
   "classes": [
     {
-      "type_name": "群英荟",
-      "type_id": "群英荟"
+      "type_name": "演唱会",
+      "type_id": "演唱会"
     },
      {
       "type_name": "相声小品",
@@ -197,7 +197,7 @@
     }
   ],
   "filter": {
-    "群英荟": [{
+    "演唱会": [{
 			"key": "tid",
 			"name": "排序",
 			"value": [{
