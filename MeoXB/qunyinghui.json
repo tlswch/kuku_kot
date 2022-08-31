@@ -198,7 +198,7 @@
   ],
   "filter": {
     "群英荟萃": [{
-			"key": "order",
+			"key": "tid",
 			"name": "排序",
 			"value": [{
 				"n": "综合排序",
