@@ -4,13 +4,13 @@
       "type_name": "演唱会",
       "type_id": "演唱会"
     },
+        {
+      "type_name": "经典老歌",
+      "type_id": "经典老歌"
+    },
     {
       "type_name": "DJ",
       "type_id": "DJ"
-    },
-    {
-      "type_name": "经典老歌",
-      "type_id": "经典老歌"
     },
      {
       "type_name": "相声小品",
