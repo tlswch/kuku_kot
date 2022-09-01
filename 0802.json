@@ -81,15 +81,6 @@
             ]
         },
 		{
-            "key": "csp_Yj1211",
-            "name": "📸直播合集",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		{
             "key": "csp_Alist",
             "name": "🗂Alist",
             "type": 3,
@@ -750,7 +741,9 @@
 		"type": 2,
 		"url": "Sequence"
 	}, 
-	{"name":"解析GGTV","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
+{"name": "GGTV自用","type": 1,"url": "https://play.fuqizhishi.com/gang0830/API.php?appkey=duibuqi0829&url="}, 
+{"name": "GGTV聚合",	"type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe&url="}, 
+{"name":"解析GGTV","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
 {"name":"星辰解析","type":1,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"秒播解析","type":1,"url":"https://www.hfyrw.com/json.php?url="},
 {"name": "解析1","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
