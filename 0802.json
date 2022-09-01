@@ -782,7 +782,6 @@
 {"name":"解析知识","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
 {"name":"解析虾米","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"云逸解析","type":0,"url":"https://jx.iztyy.com/svip/?url="},
-{"name":"OK01解析", "type": 0,"url": "https://okjx.cc/?url="},
 {"name":"免费解析","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"未知解析","type":1,"url":"http://106.52.218.221:88/?url="},
 {"name":"解析m3u8tv","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
