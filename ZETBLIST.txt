@@ -738,6 +738,10 @@ KINO internation,https://kino-1.catcast.tv/content/38617/index.m3u8
 РОДНОЙ КАНАЛ,http://193.33.88.172/nashe-kino/tracks-v1a1/mono.m3u8
 ТНТ HD,http://193.33.88.172/tnt_hd/tracks-v1a1/mono.m3u8
 D-TV6,http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+Kino Watchfresh,https://edge-01.kino.watch/fresh/index.m3u8
+Kino Watchhit,https://edge-01.kino.watch/hit/index.m3u8
+Kino Watchhorr, http://edge-01.kino.watch/horror/index.m3u8
+Kino Watchdoc,https://edge-01.kino.watch/docu/index.m3u8
 VIP Comedy,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4000/stream.m3u8
 VIP Megahit,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4003/stream.m3u8
 VIP Premiere,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4001/stream.m3u8
