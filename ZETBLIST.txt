@@ -730,6 +730,14 @@ R TV,https://e10-ll.facecast.net/rtv/0.m3u8
 ННТВ,http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
 KINO internation,https://autopilot.catcast.tv/content/40381/index.m3u8
 KINO internation,https://kino-1.catcast.tv/content/38617/index.m3u8
+Мосфильм Золотая,http://193.33.88.172:8080/mosfilm/tracks-v1a1/mono.m3u8
+Русский роман HD,http://193.33.88.172:8080/russki_roman_hd/index.m3u8
+Русский бестселлер,http://193.33.88.172:8080/rus-bestseller/index.m3u8
+Русский детектив,http://193.33.88.172:8080/rus-detective/index.m3u8
+РОДНОЙ КАНАЛ,https://n1.slavmir.tv/live/slavmir/playlist.m3u8
+РОДНОЙ КАНАЛ,http://193.33.88.172/nashe-kino/tracks-v1a1/mono.m3u8
+ТНТ HD,http://193.33.88.172/tnt_hd/tracks-v1a1/mono.m3u8
+D-TV6,http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 VIP Comedy,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4000/stream.m3u8
 VIP Megahit,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4003/stream.m3u8
 VIP Premiere,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4001/stream.m3u8
