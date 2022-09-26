@@ -35,7 +35,7 @@
 {"key": "csp_完美看看","name":"🥇完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key": "csp_3EDY","name":"🥇3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_快看","name": "👀快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_BBB哔哩","name": "🅱哔哩套餐(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitea.com/breadmyth/tv/raw/branch/main/MeowXP/csp_Bili.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},
+{"key": "csp_BBB哔哩","name": "🅱哔哩套餐(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/kuku/kot/raw/branch/master/bilibili1.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087"},
 {"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://notabug.org/imbig66/tv-spider-man/raw/master/jar/258602;md5;3C40DBCB8082364E1C416EBC3E219E6A"},
 {"key":"爱奇艺","name":"🐨爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://notabug.org/imbig66/tv-spider-man/raw/master/jar/258602;md5;3C40DBCB8082364E1C416EBC3E219E6A"},
 {"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://notabug.org/imbig66/tv-spider-man/raw/master/jar/258602;md5;3C40DBCB8082364E1C416EBC3E219E6A"},
