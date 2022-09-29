@@ -295,7 +295,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/Bili/%e5%93%94%e5%93%a9%e5%a5%97%e9%a4%90.json"
 		}, {
 			"key": "儿童",
 			"name": "🐯儿童乐园 B站",
@@ -304,7 +304,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/Bili/%e5%84%bf%e7%ab%a5%e4%b9%90%e5%9b%ad.json"
 		}, {
 			"key": "学习",
 			"name": "📝学习园地 B站",
@@ -313,7 +313,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/Bili/%e5%ad%a6%e4%b9%a0%e5%9b%ad%e5%9c%b0.json"
 		}, {
 			"key": "软件",
 			"name": "📚软件教程 B站",
@@ -322,7 +322,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/Bili/%e8%bd%af%e4%bb%b6%e6%95%99%e7%a8%8b.json"
 		}, {
 			"key": "美食",
 			"name": "🍔美食合集 B站",
@@ -331,7 +331,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/Bili/%e7%be%8e%e9%a3%9f%e5%90%88%e9%9b%86.json"
 		}, {
 			"key": "音乐",
 			"name": "🎤音乐现场 B站",
@@ -340,7 +340,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/Bili/%e9%9f%b3%e4%b9%90%e7%8e%b0%e5%9c%ba.json"
 		}, {
 			"key": "热舞",
 			"name": "💃女团热舞 B站",
@@ -349,7 +349,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/Bili/%e5%a5%b3%e5%9b%a2%e7%83%ad%e8%88%9e.json"
 		}, {
 			"key": "戏曲",
 			"name": "👘戏曲合集 B站",
@@ -358,7 +358,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/Bili/%e6%88%8f%e6%9b%b2%e5%90%88%e9%9b%86.json"
 		}, {
 			"key": "短视频聚合",
 			"name": "📱短视频聚合",
