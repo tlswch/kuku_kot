@@ -367,7 +367,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e7%9f%ad%e8%a7%86%e9%a2%91%e8%81%9a%e5%90%88.json"
 		}, {
 			"key": "csp_Yj1211",
 			"name": "📸直播合集",
@@ -384,7 +384,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E8%99%8E%E7%89%99.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e8%99%8e%e7%89%99.json"
 		}, {
 			"key": "csp_biubiu_斗鱼",
 			"name": "🦈斗鱼",
@@ -393,7 +393,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E6%96%97%E9%B1%BC.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e6%96%97%e9%b1%bc.json"
 		}, {
 			"key": "网易CC",
 			"name": "🐠网易CC",
@@ -402,7 +402,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E7%BD%91%E6%98%93CC.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e7%bd%91%e6%98%93CC.json"
 		}, {
 			"key": "csp_xpath_酷狗MV",
 			"name": "🐶酷狗MV",
@@ -411,7 +411,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E9%85%B7%E7%8B%97MV.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e9%85%b7%e7%8b%97MV.json"
 		}, {
 			"key": "csp_xpath_kuqimv",
 			"name": "🎤酷奇MV",
@@ -420,7 +420,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E9%85%B7%E5%A5%87MV.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e9%85%b7%e5%a5%87MV.json"
 		}, {
 			"key": "ASMR",
 			"name": "👄ASMR19",
@@ -436,7 +436,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/Alist.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/Alist.json"
 		}, {
 			"key": "csp_bendi",
 			"name": "📂本地视频",
@@ -462,7 +462,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/txt/al.txt"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/txt/al.txt"
 		}, {
 			"key": "Upyunso",
 			"name": "🌦UP云搜",
@@ -472,7 +472,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/txt/al.txt"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/txt/al.txt"
 		}, {
 			"key": "FindZY",
 			"name": "🔍找资源",
@@ -481,7 +481,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/txt/al.txt"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/txt/al.txt"
 		}, {
 			"key": "AliPS",
 			"name": "📀盘搜",
@@ -490,7 +490,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/txt/al.txt"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/txt/al.txt"
 		}, {
 			"key": "csp_Yiso",
 			"name": "🎯易搜",
@@ -499,7 +499,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/txt/al.txt"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/txt/al.txt"
 		}, {
 			"key": "push_agent",
 			"name": "📨推送",
@@ -508,7 +508,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/txt/al.txt"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/txt/al.txt"
 		}, {
 			"key": "17kan",
 			"name": "⚽🏀17看球",
@@ -517,7 +517,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/17%E7%9C%8B%E7%90%83.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/17%e7%9c%8b%e7%90%83.json"
 		}, {
 			"key": "csp_xpath_88kanqiu",
 			"name": "⚽🏀88看球",
@@ -526,7 +526,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/88%E7%9C%8B%E7%90%83.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/88%e7%9c%8b%e7%90%83.json"
 		}, {
 			"key": "csp_XYQBiu_310直播",
 			"name": "⚽🏀310直播",
@@ -535,7 +535,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/310%E7%9B%B4%E6%92%AD.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/310%e7%9b%b4%e6%92%ad.json"
 		}, {
 			"key": "csp_xpath_球迷直播",
 			"name": "⚽🏀球迷直播",
@@ -544,7 +544,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e7%90%83%e8%bf%b7%e7%9b%b4%e6%92%ad.json"
 		}, {
 			"key": "JRS看球网",
 			"name": "⚽🏀JRS看球网",
@@ -553,7 +553,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/JRS%E7%9C%8B%E7%90%83%E7%BD%91.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/JRS%e7%9c%8b%e7%90%83%e7%bd%91.json"
 		}, {
 			"key": "csp_xpath_yinfans",
 			"name": "💥音范丝4K",
@@ -562,7 +562,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e9%9f%b3%e8%8c%83%e4%b8%9d.json"
 		}, {
 			"key": "bdys",
 			"name": "🧲哔嘀磁力",
@@ -580,7 +580,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/XBPQ/%E8%83%96%E8%99%8E%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/XBPQ/%e8%83%96%e8%99%8e%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "csp_xBPQ_在线之家",
 			"name": "️🏠在线之家 xBPQ",
