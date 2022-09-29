@@ -571,7 +571,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E7%A3%81%E5%8A%9B.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e7%a3%81%e5%8a%9b.json"
 		}, {
 			"key": "csp_xBPQ_胖虎",
 			"name": "🐯胖虎影视 xBPQ",
@@ -769,7 +769,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/XBPQ/LIBVIO.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/LIBVIO.json"
 		}, {
 			"key": "csp_xBPQ_真不卡",
 			"name": "️⚖真不卡 xBPQ",
@@ -859,7 +859,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E6%B0%A2%E8%A7%86%E9%A2%91.json"
+			"ext": "hhttps://agit.ai/kuku/kot/raw/branch/master/bd/json/%e6%b0%a2%e8%a7%86%e9%a2%91.json"
 		}, {
 			"key": "csp_XYQHiker_冷曦影视",
 			"name": "❄冷曦影视 XYQH",
@@ -868,7 +868,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%86%b7%e6%9b%a6%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "csp_xf_heihei",
 			"name": "😁️嘿嘿影视 XYQH",
@@ -877,7 +877,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%98%BF%E5%98%BF%E8%A7%86%E9%A2%91.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%98%bf%e5%98%bf%e8%a7%86%e9%a2%91.json"
 		}, {
 			"key": "csp_biubiu_在线之家",
 			"name": "🏠在线之家",
@@ -886,7 +886,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6.json"
 		}, {
 			"key": "csp_XYQBiu_凌云影视",
 			"name": "🍨凌云影视",
@@ -895,7 +895,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%87%8c%e4%ba%91%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "csp_XYQBiu_凌云韩国",
 			"name": "🍱凌云韩国",
@@ -904,7 +904,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%87%8C%E4%BA%91%E9%9F%A9%E5%9B%BD.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%87%8c%e4%ba%91%e9%9f%a9%e5%9b%bd.json"
 		}, {
 			"key": "csp_XYQBiu_万能影院",
 			"name": "🎞万能影院",
@@ -913,7 +913,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E4%B8%87%E8%83%BD%E5%BD%B1%E9%99%A2.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e4%b8%87%e8%83%bd%e5%bd%b1%e9%99%a2.json"
 		}, {
 			"key": "csp_XYQBiu_大米星球",
 			"name": "🍚大米星球",
@@ -922,7 +922,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83xyq.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%83xyq.json"
 		}, {
 			"key": "csp_XBiubiu_大米星球",
 			"name": "🍚大米星球",
@@ -931,7 +931,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%83.json"
 		}, {
 			"key": "csp_xp_jLgyy",
 			"name": "💎蓝光影院",
@@ -940,7 +940,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e8%93%9d%e5%85%89%e5%bd%b1%e9%99%a2.json"
 		}, {
 			"key": "不卡影院",
 			"name": "🏅不卡影院",
@@ -949,7 +949,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E4%B8%8D%E5%8D%A1%E5%BD%B1%E9%99%A2.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e4%b8%8d%e5%8d%a1%e5%bd%b1%e9%99%a2.json"
 		}, {
 			"key": "干饭影视",
 			"name": "🍚干饭影视",
@@ -958,7 +958,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%B9%B2%E9%A5%AD%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%b9%b2%e9%a5%ad%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "口袋影院",
 			"name": "👝口袋影院",
@@ -967,7 +967,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%8f%a3%e8%a2%8b%e5%bd%b1%e9%99%a2.json"
 		}, {
 			"key": "比特影视",
 			"name": "💰比特影视",
@@ -976,7 +976,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E6%AF%94%E7%89%B9%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e6%af%94%e7%89%b9%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "花猫影视",
 			"name": "🐱花猫影视",
@@ -985,7 +985,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e8%8a%b1%e7%8c%ab%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "csp_biubiu_骚火电影",
 			"name": "🔥骚火电影",
@@ -994,7 +994,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e9%aa%9a%e7%81%ab%e7%94%b5%e5%bd%b1.json"
 		}, {
 			"key": "六度影视",
 			"name": "🍨六度影视",
@@ -1003,7 +1003,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%85%ad%e5%ba%a6%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "csp_biubiu_影视工厂",
 			"name": "🎬影视工厂",
@@ -1012,7 +1012,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%bd%b1%e8%a7%86%e5%b7%a5%e5%8e%82.json"
 		}, {
 			"key": "csp_biubiu_555电影",
 			"name": "🏅555 电影",
@@ -1021,7 +1021,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/555%E7%94%B5%E5%BD%B1.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/555%e7%94%b5%e5%bd%b1.json"
 		}, {
 			"key": "csp_XBiubiu_UM影视",
 			"name": "🦋UM影视",
@@ -1030,7 +1030,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/UM%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/UM%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "csp_biubiu_cupfox",
 			"name": "🦊茶杯狐",
@@ -1039,7 +1039,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e8%8c%b6%e6%9d%af%e7%8b%90.json"
 		}, {
 			"key": "csp_biubiu_dadagui",
 			"name": "🐢达达龟",
@@ -1048,7 +1048,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e8%be%be%e8%be%be%e9%be%9f.json"
 		}, {
 			"key": "csp_biubiu_voflix",
 			"name": "🌀voflix",
@@ -1057,7 +1057,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/voflix.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/voflix.json"
 		}, {
 			"key": "csp_XBiubiu_TVB云播",
 			"name": "🌤TVB云播",
@@ -1066,7 +1066,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/tvb%E4%BA%91%E6%92%AD.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/tvb%e4%ba%91%e6%92%ad.json"
 		}, {
 			"key": "LIBVIO",
 			"name": "🍲LIBVIO",
@@ -1075,7 +1075,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/LIBVIO.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/LIBVIO.json"
 		}, {
 			"key": "COKEMV",
 			"name": "🥮COKEMV",
@@ -1084,7 +1084,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/COKEMV.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/COKEMV.json"
 		}, {
 			"key": "Auete影视",
 			"name": "🍬Auete影视",
@@ -1093,7 +1093,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/Auete%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/Auete%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "csp_XBiubiu哔嘀影视",
 			"name": "🍠哔嘀影视",
@@ -1102,7 +1102,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%93%94%e5%98%80%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "云播看看",
 			"name": "🌨云播看看",
@@ -1111,7 +1111,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e4%ba%91%e6%92%ad%e7%9c%8b%e7%9c%8b.json"
 		}, {
 			"key": "小强影迷",
 			"name": "🐲小强影迷",
@@ -1120,7 +1120,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%b0%8f%e5%bc%ba%e5%bd%b1%e8%bf%b7.json"
 		}, {
 			"key": "人人影视",
 			"name": "👫人人影视",
@@ -1129,7 +1129,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e4%ba%ba%e4%ba%ba%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "csp_XBiubiu_金眼影视",
 			"name": "🌟金眼影视",
@@ -1138,7 +1138,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e9%87%91%e7%9c%bc%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "csp_XBiubiu_Nike影视",
 			"name": "🌹Nike影视",
@@ -1147,7 +1147,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/Nike%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/Nike%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "csp_XBiubiu_0855",
 			"name": "🧳0855影视",
@@ -1156,7 +1156,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/0855%E5%BD%B1%E8%A7%86.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/0855%e5%bd%b1%e8%a7%86.json"
 		}, {
 			"key": "去看动漫",
 			"name": "🎊去看动漫",
@@ -1165,7 +1165,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%8e%bb%e7%9c%8b%e5%8a%a8%e6%bc%ab.json"
 		}, {
 			"key": "动漫直链",
 			"name": "🎭动漫直链",
@@ -1174,7 +1174,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%8a%a8%e6%bc%ab%e7%9b%b4%e9%93%be.json"
 		}, {
 			"key": "csp_biubiu_风车动漫",
 			"name": "🍭风车动漫",
@@ -1183,7 +1183,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e9%a3%8e%e8%bd%a6%e5%8a%a8%e6%bc%ab.json"
 		}, {
 			"key": "csp_xpath___动漫巴士",
 			"name": "🤖动漫巴士",
@@ -1192,7 +1192,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e5%8a%a8%e6%bc%ab%e5%b7%b4%e5%a3%ab.json"
 		}, {
 			"key": "csp_biubiu_OmoFun动漫",
 			"name": "🧚OmoFun动漫",
@@ -1201,7 +1201,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitcode.net/bd/v/-/raw/main/json/OmoFun%E5%8A%A8%E6%BC%AB.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/OmoFun%e5%8a%a8%e6%bc%ab.json"
 		}, {
 			"key": "9E03",
 			"name": "🎈9E03",
