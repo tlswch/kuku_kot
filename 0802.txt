@@ -359,7 +359,19 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/Bili/%e6%88%8f%e6%9b%b2%e5%90%88%e9%9b%86.json"
-		}, {
+		}, 
+		   {
+	"key": "csp_Jianying",
+	"name": "✨简影",
+	"api": "csp_JianYing",
+	"type": 3,
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q",
+	"jar": "https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/jar/0829.jar;md5;cb2881ad58c5440c3f0f3a086b60e859"
+},
+		   {
 			"key": "短视频聚合",
 			"name": "📱短视频聚合",
 			"type": 3,
@@ -859,7 +871,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "hhttps://agit.ai/kuku/kot/raw/branch/master/bd/json/%e6%b0%a2%e8%a7%86%e9%a2%91.json"
+			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/%e6%b0%a2%e8%a7%86%e9%a2%91.json"
 		}, {
 			"key": "csp_XYQHiker_冷曦影视",
 			"name": "❄冷曦影视 XYQH",
