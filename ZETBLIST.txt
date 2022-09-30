@@ -649,8 +649,7 @@ HTM МОЛДОВА,http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.
 охота и рыбалка,https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
 Кухня,https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 Кулинар,http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-рыболовный канал,http://edge-01-pub.persik.by:82/live/Ch140pub/index.m3u8
-вокруг рыбалки,http://edge-01-pub.persik.by:82/live/Ch164pub/index.m3u8
+LOVE Nature,http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 домашний,http://iptv.ktkru.ru:8014/index.m3u8
 леной усаиновой,http://edge-01-pub.persik.by:82/live/Ch361pub/index.m3u8
 ПОБЕДА,https://pkvc-hls4.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
@@ -805,6 +804,8 @@ R TV,https://e10-ll.facecast.net/rtv/0.m3u8
 ННТВ,http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
 KINO internation,https://autopilot.catcast.tv/content/40381/index.m3u8
 KINO internation,https://kino-1.catcast.tv/content/38617/index.m3u8
+Nasa TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+Лучшие моменты ЛЧ,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 Мосфильм Золотая,http://193.33.88.172:8080/mosfilm/tracks-v1a1/mono.m3u8
 Русский роман HD,http://193.33.88.172:8080/russki_roman_hd/index.m3u8
 Русский бестселлер,http://193.33.88.172:8080/rus-bestseller/index.m3u8
