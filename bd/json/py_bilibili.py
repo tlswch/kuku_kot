@@ -892,8 +892,7 @@ class Spider(Spider):  # 元类 默认的元类 type
                         "n":"夜愿乐队",
                         "v":"夜愿乐队"
                     }
-        }
-        ]
+       ]
       },
 	        {
         "key": "duration",
@@ -926,8 +925,9 @@ class Spider(Spider):  # 元类 默认的元类 type
 	header = {}
 
 	def localProxy(self,param):
-		return [200, "video/MP2T", action, ""]	
+		return [200, "video/MP2T", action, ""]
 
+	
 	config = {
 		"player": {},
 		"filter": {
