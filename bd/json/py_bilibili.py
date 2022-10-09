@@ -23,7 +23,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result = {}
 		cateManual = {
 		
-			"演唱会":"演唱会4K",
+			"演唱会":"演唱会",
       "MV":"MV4K",
       "窗白噪音":"窗白噪音4K",
       "风景":"风景4K",
