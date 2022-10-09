@@ -208,7 +208,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result["contentType"] = 'video/x-flv'
 		return result
 
-		config = {
+	config = {
 		"player": {},
 		"filter": {
 		"相声小品": [
@@ -318,7 +318,7 @@ class Spider(Spider):  # 元类 默认的元类 type
           }
         ]
       },
-	        {
+      {
         "key": "duration",
         "name": "时长",
         "value": [
