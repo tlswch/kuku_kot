@@ -208,70 +208,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 		result["contentType"] = 'video/x-flv'
 		return result
 
-	config = {
-		"player": {},
-		"filter": {
-		"演唱会": [
-      {
-        "key": "tid",
-        "name": "分类",
-        "value": [
-          {
-            "n": "全部",
-            "v": "演唱会"
-          },
-          {
-            "n": "邓丽君",
-            "v": "邓丽君"
-          },
-          {
-            "n": "李谷一",
-            "v": "李谷一"
-          },
-          {
-            "n": "李双江",
-            "v": "李双江"
-          },
-          {
-            "n": "喜剧综艺",
-            "v": "喜剧综艺"
-          }
-        ]
-      },
-	        {
-        "key": "duration",
-        "name": "时长",
-        "value": [
-          {
-            "n": "全部",
-            "v": "0"
-          },
-          {
-            "n": "60分钟以上",
-            "v": "4"
-          },
-          {
-            "n": "30~60分钟",
-            "v": "3"
-          },
-          {
-            "n": "10~30分钟",
-            "v": "2"
-          },
-          {
-            "n": "10分钟以下",
-            "v": "1"
-          }
-        ]
-      }
-    ]}
-	}
-	header = {}
-
-	def localProxy(self,param):
-		return [200, "video/MP2T", action, ""]	
-
-	config = {
+		config = {
 		"player": {},
 		"filter": {
 		"相声小品": [
