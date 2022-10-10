@@ -4214,25 +4214,7 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/cctv/py_cctvxq.py"
-		}, {
-            "key": "py_alist",
-            "name": "py_alist(Pyramid)",
-            "type": 3,
-            "api": "py_alist",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_alist.py"
-        }, {
-            "key": "py_cctv",
-            "name": "py_cctv(Pyramid)",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_cctv.py"
-        },  {
+		},  {
 			"key": "py_czspp",
             "name": "py_czspp(Pyramid)",
             "type": 3,
