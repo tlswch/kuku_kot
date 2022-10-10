@@ -4260,15 +4260,6 @@
             "filterable": 0,
             "ext": "http://cms.nokia.press/txt/py/py_voflix.py"
         }, {
-            "key": "py_xmaomi",
-            "name": "py_xmaomi(Pyramid)",
-            "type": 3,
-            "api": "py_xmaomi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_xmaomi.py"
-        },  {
             "key": "py_zxzj",
             "name": "py_zxzj(Pyramid)",
             "type": 3,
