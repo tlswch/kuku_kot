@@ -4214,60 +4214,15 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/cctv/py_cctvxq.py"
-		},  {
-			"key": "py_czspp",
-            "name": "py_czspp(Pyramid)",
-            "type": 3,
-            "api": "py_czspp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_czspp.py"
-        },  {
-            "key": "py_genmov",
-            "name": "py_genmov(Pyramid)",
-            "type": 3,
-            "api": "py_genmov",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_genmov.py"
-        }, {
-            "key": "py_gimytv",
-            "name": "py_gimytv(Pyramid)",
-            "type": 3,
-            "api": "py_gimytv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_gimytv.py"
-        }, {
+		},   {
             "key": "py_kunyu77",
-            "name": "py_kunyu77(Pyramid)",
+            "name": "🌤酷云77 py",
             "type": 3,
             "api": "py_kunyu77",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_kunyu77.py"
-        }, {
-            "key": "py_voflix",
-            "name": "py_voflix(Pyramid)",
-            "type": 3,
-            "api": "py_voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_voflix.py"
-        }, {
-            "key": "py_zxzj",
-            "name": "py_zxzj(Pyramid)",
-            "type": 3,
-            "api": "py_zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://cms.nokia.press/txt/py/py_zxzj.py"
+            "ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/kunyu77.json"
         }
 	],
 	"parses": [{
