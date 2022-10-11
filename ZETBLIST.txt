@@ -524,14 +524,13 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 ПРИМА КРАСНОЯРСК,http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1024x576@1272/playlist.m3u8
 ПРИМА КРАСНОЯРСК, http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 ТВК 24 Красноярск,http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+ТВК 24 Красноярск,https://air.tvk6.ru/tvk24/index.m3u8
+Север Нарьян-Мар,http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
 Ростов-папа,http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 НТВ,https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
 НТВ,https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair003_hd.smil/playlist.m3u8
+НТВМ,https://sc.id-tv.kz:443/NTV_34_35.m3u8
 НТВМ,https://sc.id-tv.kz/NTV_34_35.m3u8
-НТВП,https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair13.smil/playlist.m3u8
-НТВСР,https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair11.smil/playlist.m3u8
-НТВСТ,https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair12.smil/playlist.m3u8
-НТВХ,https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair14.smil/playlist.m3u8
 НТС,http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
 НТС,http://radio.nts-tv.com:1338/nts/video.m3u8
 РАТНИК,http://live-ratnik.cdnvideo.ru/ratnik/ratnik2.sdp/playlist.m3u8
@@ -609,7 +608,6 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 белсат,http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 ОНТ,https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 Белгород 24,http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
-Белновость,http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 Славск Мир,http://n1.slavmir.tv:1935/live/ngrp:Cinegy.stream_all/playlist.m3u8
 Славск Мир,https://n1.slavmir.tv/live/ngrp:Cinegy.stream_all/chunklist_w54382310_b5256000.m3u8
 СССР 1,http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
@@ -631,6 +629,7 @@ Akudji TV,http://hlss.goodgame.ru/hls/5346.m3u8
 МОЛДОВА Publika,http://livebeta.publika.md/LIVE/P/1500.m3u8
 HTM МОЛДОВА,http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 ДАГЕСТАН,http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+ДАГЕСТАН,https://dagestan.mediacdn.ru/cdn/dagestan/playlist_sdmid.m3u8
 ДАГЕСТАН,http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
 ДАГЕСТАН,http://origin5.mediacdn.ru/live/dagestan/index.m3u8
 Прибой ДАГЕСТАН,http://185.78.112.46:8077/priboy_tv/index.m3u8
@@ -647,6 +646,7 @@ LOVE Nature,http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 домашний,http://iptv.ktkru.ru:8014/index.m3u8
 леной усаиновой,http://edge-01-pub.persik.by:82/live/Ch361pub/index.m3u8
 ПОБЕДА,https://pkvc-hls4.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
+ПОБЕДА,https://sc.id-tv.kz/Pobeda_34_35.m3u8.m3u
 Поехали,https://sc.id-tv.kz:443/poehali_34_35.m3u8
 Поехали,https://sc.id-tv.kz/poehali_34_35.m3u8
 Моя Планета,https://sc.id-tv.kz:443/MoyaPlaneta_34_35.m3u8
@@ -659,6 +659,9 @@ LOVE Nature,http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 канал 3,https://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
 канал 3,https://livetv.mylifeisgood.ml/channels/tv3
 ПЯТЫЙ КАН,http://iptv.ktkru.ru:8005/index.m3u8
+ТНТ4 Inter,https://sc.id-tv.kz:443/tnt4_34_35.m3u8
+СТС Inter,https://sc.id-tv.kz/STS_34_35.m3u8
+Рен Inter,https://sc.id-tv.kz/RenTV.m3u8
 СУББОТА,https://livetv.mylifeisgood.ml/channels/subbota
 СУББОТА,https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
 СУББОТА,https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
@@ -703,6 +706,8 @@ ESILNET,http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 С 86 Сургут,https://sitv.ru/hls/s86.m3u8
 Сургут 1,https://sitv.ru/hls/stv.m3u8
 Сургут 24,http://video1.in-news.ru/c24/index.m3u8
+БСТ24 Братск,https://bst.bratsk.ru/hls/bst2/index.m3u8
+ТРК 555 Алушта,http://trk555.tv:8888/live
 НижНовг24,http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 Ростовский1,http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_480/playlist.m3u8
 Ростовский1,http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_1080/playlist.m3u8
@@ -798,8 +803,11 @@ R TV,https://e10-ll.facecast.net/rtv/0.m3u8
 ННТВ,http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
 KINO internation,https://autopilot.catcast.tv/content/40381/index.m3u8
 KINO internation,https://kino-1.catcast.tv/content/38617/index.m3u8
+Дом Кино,https://sc.id-tv.kz:443/DomKino_36_37.m3u8
+Дом Кино Пре,https://sc.id-tv.kz/domkino_hd.m3u8
+Русский илл,https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 Nasa TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-Лучшие моменты ЛЧ,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+Лучшие моменты,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 Мосфильм Золотая,http://193.33.88.172:8080/mosfilm/tracks-v1a1/mono.m3u8
 Русский роман HD,http://193.33.88.172:8080/russki_roman_hd/index.m3u8
 Русский бестселлер,http://193.33.88.172:8080/rus-bestseller/index.m3u8
@@ -812,71 +820,6 @@ Kino Watchfresh,https://edge-01.kino.watch/fresh/index.m3u8
 Kino Watchhit,https://edge-01.kino.watch/hit/index.m3u8
 Kino Watchhorr, http://edge-01.kino.watch/horror/index.m3u8
 Kino Watchdoc,https://edge-01.kino.watch/docu/index.m3u8
-VIP Comedy,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4000/stream.m3u8
-VIP Megahit,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4003/stream.m3u8
-VIP Premiere,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4001/stream.m3u8
-VIP Megahit CEE HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3981/stream.m3u8
-VIP Premiere CEE HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3980/stream.m3u8
-VIP Comedy CEE HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/309/stream.m3u8
-TV 1000,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/311/stream.m3u8
-TV 1000 Action,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/308/stream.m3u8
-TV1000 World Kino,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3684/stream.m3u8
-Star Cinema,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3703/stream.m3u8
-Star Cinema HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3925/stream.m3u8
-Star Family,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3687/stream.m3u8
-Star Family,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3996/stream.m3u8
-Zee,http://cdnua06.hls.tv/476/hls/z1xvfodu2b6qneact95mgr8yjwlpis30/577/stream.m3u8
-Film Box,http://cdnua06.hls.tv/476/hls/3slzw2dju4xfic98a0nbk17gmtqovhrp/400/stream.m3u8
-Film Box Arthouse HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/231/stream.m3u8
-BOLT HD UA，http://cdnua06.hls.tv/476/hls/c14r52ejyp6ahqou9w0dibgs7lvm3kxz/3963/stream.m3u8
-BOLT HD UA，http://cdnua06.hls.tv/476/hls/uo8fqnj7k14h2wzsm63ed0ca5ltrxvi9/3690/stream.m3u8
-FilmUA: Drama HD，http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/71/stream.m3u8
-Epic Drama HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3912/stream.m3u8
-AMC UA,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4248/stream.m3u8
-Paramount Channel HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4772/stream.m3u8
-Paramount Channel HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4616/stream.m3u8
-Paramount Comedy UA,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3910/stream.m3u8
-Hollywood FHD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/262/stream.m3u8
-Hollywood FHD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4247/stream.m3u8
-Duck TV HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/214/stream.m3u8
-LaLe HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/74/stream.m3u8
-Nick Jr,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/277/stream.m3u8
-Nickelodeon,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/280/stream.m3u8
-Nickelodeon,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/278/stream.m3u8
-NickToons,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4773/stream.m3u8
-Niki Kids HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3624/stream.m3u8
-Niki Junior HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3621/stream.m3u8
-Niki Junior HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/135/stream.m3u8
-Niki Junior HD,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/136/stream.m3u8
-Discovery  Channel,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/210/stream.m3u8
-Discovery  Channel,http://cdnua06.hls.tv/476/hls/98avsntbi7p3r6j4z1que0lcwgyo52fm/4709/stream.m3u8
-Animal Planet,http://cdnua06.hls.tv/476/hls/ng3qtzjs6mvy8rolf0ce9h41kix2p5ab/174/stream.m3u8
-Animal Planet,http://cdnua06.hls.tv/476/hls/lofksujyxti7d18v52ge4qpcwhrmb9z3/4706/stream.m3u8
-SEA,http://cdnua06.hls.tv/476/hls/ekawntp8vucbd3qog4xr9sijf2506yhl/4251/stream.m3u8
-SEA,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3696/stream.m3u8
-Дача,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/105/stream.m3u8
-Дача,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/454/stream.m3u8
-Кус-кус,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4424/stream.m3u8
-Мега,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/123/stream.m3u8
-Рыбалка,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4768/stream.m3u8
-Cars&Stars,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4795/stream.m3u8
-History HD,http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/244/stream.m3u8
-Viasat Explore,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/322/stream.m3u8
-Viasat History,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/327/stream.m3u8
-Viasat Nature,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/328/stream.m3u8
-Da Vinci Learning,http://cdnua06.hls.tv/476/hls/4fpkle5o9adcbjgst71v6mrh80q3zyxn/201/stream.m3u8
-DocuBox HD,http://cdnua06.hls.tv/476/hls/8lfyio4zb9pxnvausretkd61hjmc5wgq/211/stream.m3u8
-Epoque HD,http://cdnua06.hls.tv/476/hls/rf6jts8cybzvhnwkx4qd9lgui7eo2a15/4216/stream.m3u8
-Duck TV,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/213/stream.m3u8
-English Club TV,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/69/stream.m3u8
-English Club TV,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3959/stream.m3u8
-TLC,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/301/stream.m3u8
-Travel Channel,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/307/stream.m3u8
-Fashion TV,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/226/stream.m3u8
-Fashion TV,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3642/stream.m3u8
-FashionBox,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/228/stream.m3u8
-Fast&FunBox,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/229/stream.m3u8
-FightBox,http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/230/stream.m3u8
 OVAA TV,http://tv.tuva.ru/ovaa/index.m3u8 
 
 🇨🇳｜央视蓝光,#genre#
