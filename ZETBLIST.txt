@@ -532,8 +532,8 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 МОСКВА-24,http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
 САНКТ ПЕТЕРБУРГ,https://radio-live-mg.rtr-vesti.ru/hls2/ext_spbtv/playlist_5.m3u8
 ТВЦ,http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
-РТ,https://hls.rt.com/hls/rtdru.m3u8
-PT,https://hls.rt.com/hls/rtdru360.m3u8
+RT,https://hls.rt.com/hls/rtdru.m3u8
+RT,https://hls.rt.com/hls/rtdru360.m3u8
 CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 ЕНИСЕЙ,http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 ПРИМА КРАСНОЯРСК,http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1024x576@1272/playlist.m3u8
