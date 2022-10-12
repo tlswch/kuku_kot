@@ -12,6 +12,7 @@ CCTV1,http://vl15191373.imwork.net:8880/udp/239.93.0.184:5140
 CCTV1,http://vl15191373.imwork.net:8880/udp/239.93.0.69:5140
 CCTV1,http://vl15191373.imwork.net:8880/udp/239.93.1.152:5140
 CCTV1,http://vl15191373.imwork.net:8880/udp/239.93.1.174:5140
+CCTV2,http://111.20.33.70/TVOD/88888893/224/3221226224/index.m3u8
 CCTV2,http://111.13.42.235/PLTV/88888888/224/3221226472/1.m3u8
 CCTV2,http://lsitv.f3322.net:4000/udp/239.11.0.108:5140
 CCTV2,http://39.134.32.103:6610/270000001111/1110000302/index.m3u8?IASHttpSessionId=OTT
@@ -19,12 +20,14 @@ CCTV2,http://39.134.32.108:6610/270000001111/1110000302/index.m3u8?IASHttpSessio
 CCTV2,http://219.140.56.34:3333/tsfile/live/0002_1.m3u8
 CCTV2,http://vl15191373.imwork.net:8880/udp/239.93.1.160:6000
 CCTV2,http://vl15191373.imwork.net:8880/udp/239.93.1.23:6000
+CCTV3,http://111.20.33.70/TVOD/88888893/224/3221226397/index.m3u8
 CCTV3,http://lsitv.f3322.net:4000/udp/239.11.0.101:5140
 CCTV3,http://39.134.32.108:6610/270000001111/1110000303/index.m3u8?IASHttpSessionId=OTT
 CCTV3,http://219.140.56.34:3333/tsfile/live/0003_1.m3u8
 CCTV3,http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8
 CCTV3,http://vl15191373.imwork.net:8880/udp/239.93.1.11:2223
 CCTV3,http://vl15191373.imwork.net:8880/udp/239.93.1.150:2223
+CCTV4,http://111.20.33.70/TVOD/88888893/224/3221226223/index.m3u8
 CCTV4,http://lsitv.f3322.net:4000/udp/239.11.0.109:5140
 CCTV4,http://vl15191373.imwork.net:8880/udp/239.93.1.105:5140
 CCTV4,http://vl15191373.imwork.net:8880/udp/239.93.1.192:5140
@@ -35,10 +38,12 @@ CCTV4,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/
 CCTV4,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
 CCTV4,http://111.20.33.70/TVOD/88888893/224/3221226223/index.m3u8
 CCTV4,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231726/index.m3u8
+CCTV5,http://111.20.33.93/TVOD/88888893/224/3221226395/index.m3u8
 CCTV5,http://lsitv.f3322.net:4000/udp/239.11.0.100:5140
 CCTV5,http://39.134.32.108:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 CCTV5,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
 CCTV5,http://vl15191373.imwork.net:8880/udp/239.93.1.100:2224
+CCTV5+,http://111.20.33.70/TVOD/88888893/224/3221226221/index.m3u8
 CCTV5,http://vl15191373.imwork.net:8880/udp/239.93.1.12:2224
 CCTV5+,http://111.13.42.235/PLTV/88888888/224/3221226349/1.m3u8
 CCTV5+,http://lsitv.f3322.net:4000/udp/239.11.0.241:5140
@@ -48,6 +53,7 @@ CCTV5+,http://39.134.32.102:6610/270000001111/1110000306/index.m3u8?IASHttpSessi
 CCTV5+,http://vl15191373.imwork.net:8880/udp/239.93.1.36:8004
 CCTV5+,http://vl15191373.imwork.net:8880/udp/239.93.1.173:8004
 咪咕体育,http://lsitv.f3322.net:4000/udp/239.11.0.122:5140
+CCTV6,http://111.20.33.93/TVOD/88888893/224/3221226393/index.m3u8
 CCTV6,http://lsitv.f3322.net:4000/udp/239.11.0.102:5140
 CCTV6,http://39.134.32.102:6610/270000001111/1110000307/index.m3u8?IASHttpSessionId=OTT
 CCTV6,http://39.134.32.108:6610/270000001111/1110000307/index.m3u8?IASHttpSessionId=OTT
@@ -55,6 +61,7 @@ CCTV6,http://219.140.56.34:3333/tsfile/live/1006_1.m3u8
 CCTV6,http://111.20.33.93/TVOD/88888888/224/3221225779/index.m3u8
 CCTV6,http://vl15191373.imwork.net:8880/udp/239.93.1.13:2226
 CCTV6,http://vl15191373.imwork.net:8880/udp/239.93.1.155:2226
+CCTV7,http://111.20.33.70/TVOD/88888893/224/3221226192/index.m3u8
 CCTV7,http://lsitv.f3322.net:4000/udp/239.11.0.110:5140
 CCTV7,http://vl15191373.imwork.net:8880/udp/239.93.1.67:5140
 CCTV7,http://vl15191373.imwork.net:8880/udp/239.93.1.193:5140
@@ -66,6 +73,7 @@ CCTV7,http://111.20.33.70/PLTV/88888893/224/3221226248/index.m3u8
 CCTV7,http://111.20.33.70/TVOD/88888893/224/3221226192/index.m3u8
 CCTV7,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
 CCTV7,http://111.20.33.93/TVOD/88888888/224/3221225778/index.m3u8
+CCTV8,http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8
 CCTV8,http://lsitv.f3322.net:4000/udp/239.11.0.103:5140
 CCTV8,http://39.134.32.108:6610/270000001111/1110000309/index.m3u8?IASHttpSessionId=OTT
 CCTV8,http://219.140.56.34:3333/tsfile/live/1008_1.m3u8
@@ -117,6 +125,7 @@ CCTV12,http://111.20.33.93/TVOD/88888888/224/3221225775/index.m3u8
 CCTV12,http://111.20.33.93/TVOD/88888888/224/3221225785/index.m3u8
 CCTV12,http://vl15191373.imwork.net:8880/udp/239.93.1.30:8124
 CCTV12,http://vl15191373.imwork.net:8880/udp/239.93.1.165:8124
+CCTV13,http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
 CCTV13,http://lsitv.f3322.net:4000/udp/239.11.0.24:5140
 CCTV13,http://219.140.56.34:3333/tsfile/live/1013_1.m3u8
 CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
@@ -144,6 +153,7 @@ CCTV15,http://vl15191373.imwork.net:8880/udp/239.93.0.103:5140
 CCTV16,http://lsitv.f3322.net:4000/udp/239.11.0.67:5140
 CCTV16,http://lsitv.f3322.net:4000/udp/239.10.0.187:5140
 CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+CCTV17,http://111.20.33.70/TVOD/88888893/224/3221226198/index.m3u8
 CCTV17,http://111.13.42.235/PLTV/88888888/224/3221226318/1.m3u8
 CCTV17,http://lsitv.f3322.net:4000/udp/239.11.0.107:5140
 CCTV17,http://219.140.56.34:3333/tsfile/live/0019_1.m3u8
@@ -152,6 +162,9 @@ CCTV17,http://111.20.33.70/TVOD/88888893/224/3221226198/index.m3u8
 CCTV17,http://111.20.33.93/TVOD/88888893/224/3221226198/index.m3u8
 CCTV17,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 CCTV17,http://vl15191373.imwork.net:8880/udp/239.93.0.92:5140
+冬奥纪实,http://111.20.33.70/PLTV/88888893/224/3221226232/index.m3u8
+发现之旅,http://111.20.33.70/PLTV/88888893/224/3221226235/index.m3u8
+老故事,http://111.20.33.70/PLTV/88888893/224/3221226236/index.m3u8
 中国交通四川,http://vl15191373.imwork.net:8880/udp/239.93.0.142:5140
 中国教育1,http://vl15191373.imwork.net:8880/udp/239.93.1.111:5140
 CGTN,http://111.20.33.93/TVOD/88888888/224/3221225745/index.m3u8
@@ -166,11 +179,11 @@ CETV2,http://111.20.33.93/TVOD/88888888/224/3221225756/index.m3u8
 北京卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.180:5140
 北京卫视,http://vl15191373.imwork.net:8880/udp/239.93.1.178:5140
 BRTV新闻,http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8
+天津卫视,http://111.20.33.93/TVOD/88888893/224/3221226204/index.m3u8
 天津卫视,http://lsitv.f3322.net:4000/udp/239.11.0.123:5140
 天津卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225739/index.m3u8
 天津卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225739/index.m3u8
 天津卫视,http://39.134.65.166/PLTV/88888888/224/3221225665/1.m3u8
-天津卫视,http://111.20.33.93/TVOD/88888893/224/3221226204/index.m3u8
 天津卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.167:5140
 天津卫视,http://vl15191373.imwork.net:8880/udp/239.93.1.196:5140
 东方卫视,http://lsitv.f3322.net:4000/udp/239.11.0.68:5140
@@ -529,6 +542,7 @@ CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 ТВК 24 Красноярск,https://air.tvk6.ru/tvk24/index.m3u8
 Север Нарьян-Мар,http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
 Ростов-папа,http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 НТВ,https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
 НТВ,https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair003_hd.smil/playlist.m3u8
 НТВМ,https://sc.id-tv.kz:443/NTV_34_35.m3u8
