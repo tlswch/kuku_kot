@@ -3891,6 +3891,15 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, {
+            "key" : "py_suliansd",
+            "name" : "苏联时代",
+            "type" : 3,
+            "api" : "py_suliansd",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_suliansd.py"
+        }, {
 			"key": "py_cctv",
 			"name": "🌏央视频道 py",
 			"type": 3,
