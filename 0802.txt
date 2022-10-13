@@ -3891,10 +3891,10 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, {
-            "key" : "py_suliansd",
+            "key" : "py_bilibili",
             "name" : "苏联时代 py",
             "type" : 3,
-            "api" : "py_suliansd",
+            "api" : "py_bilibili",
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
