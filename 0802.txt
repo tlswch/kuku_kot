@@ -3892,7 +3892,7 @@
 			"filterable": 1
 		}, {
             "key" : "py_suliansd",
-            "name" : "苏联时代",
+            "name" : "苏联时代 py",
             "type" : 3,
             "api" : "py_suliansd",
             "searchable" : 1,
