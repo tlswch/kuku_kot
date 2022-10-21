@@ -488,6 +488,7 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 РОССИЯ-24,http://gtrkchita.ru:8080/hls/r24-chita_576p.m3u8 
 РОССИЯ PRP,http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 РОССИЯ PRP,https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
+Первый канал,http://mfe02.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
 Первый канал,https://pkvc-hls4.cdnvideo.ru/PK/smil:PK.smil/playlist.m3u8
 Первый канал,https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8
 Первый канал,https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
@@ -497,6 +498,7 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 КУРТУРА,https://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 КУРТУРА,https://radio-live-mg.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
 КУРТУРА,https://radio-live-mg.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.m3u8
+КУРТУРА,http://mfe02.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd
 ЗВЕЗДА,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 ЗВЕЗДА,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 ЗВЕЗДА,https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -534,6 +536,8 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 ТВЦ,http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 RT,https://hls.rt.com/hls/rtdru.m3u8
 RT,https://hls.rt.com/hls/rtdru360.m3u8
+11 канал Пенза,http://85.234.33.64/stream/c11.m3u8
+РНК，http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 ЕНИСЕЙ,http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 ПРИМА КРАСНОЯРСК,http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1024x576@1272/playlist.m3u8
@@ -585,7 +589,7 @@ CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 ГубСамара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8       
 ГубВладими,http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 ГубВоронеж,http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
-ГубХабаровск,https://media1.gubernia.com/hls/live.m3u8
+ГубХабаровск,https://media1.gubernia.com/hls/live.m3u8 
 ГУББрянская,http://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 ГУББрянская,http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/chunklist.m3u8
 РЕН,https://sc.id-tv.kz:443/RenTV_34_35.m3u8https://sc.id-tv.kz/RenTV.m3u8
@@ -666,6 +670,7 @@ HTM МОЛДОВА,http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.
 УСАДЬБА，http://94.230.240.17:8080/usadba/index.m3u8
 УСАДЬБА,http://tv.tuva.ru/usadba/index.m3u8
 охота и рыбалка,https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
+охота и рыбалка,http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
 Кухня,https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8 
 Кулинар,http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 LOVE Nature,http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -729,6 +734,7 @@ ESILNET,http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 Хузур,http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 канал 4,http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 канал 8,http://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
+канал Владивосток 8,https://livestream.8kanal.tv/hls/livestream_high.m3u8
 канал 12,http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
 канал 12,http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 канал 12,http://12channel.bonus-tv.ru/cdn/omskchannel/playlist.m3u8
