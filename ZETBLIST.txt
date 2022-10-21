@@ -812,6 +812,7 @@ R TV,https://e10-ll.facecast.net/rtv/0.m3u8
 КРИК,http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 КРИК,http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
 ВРЕМЯ,https://pkvc-hls4.cdnvideo.ru/Vremya/smil:Vremya.smil/chunklist_b3128000_slru.m3u8
+ВРЕМЯ,https://sc.id-tv.kz:443/Vremya_36_37.m3u8
 КОГАЛЫМ,https://kogalimtv.gcdn.co/streams/775_101/360n/index.m3u8
 ДОВЕРЕНИЕ,https://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 МИНИСТ ИДЕЯ,http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
@@ -820,15 +821,64 @@ R TV,https://e10-ll.facecast.net/rtv/0.m3u8
 ННТВ,http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
 KINO internation,https://autopilot.catcast.tv/content/40381/index.m3u8
 KINO internation,https://kino-1.catcast.tv/content/38617/index.m3u8
+Kino Свежаки,https://edge-01.kino.watch/fresh/index.m3u8
+Kino Уже видел,https://edge-01.kino.watch/hit/index.m3u8
+Kino Ужастик, http://edge-01.kino.watch/horror/index.m3u8
+Kino Доку,https://edge-01.kino.watch/docu/index.m3u8
 Дом Кино,https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 Дом Кино Пре,https://sc.id-tv.kz/domkino_hd.m3u8
+Дом Кино Пре,https://sc.id-tv.kz/domkino_hd_34_35.m3u8
+Дом Кино Пре,https://sc.id-tv.kz:443/domkino_hd_34_35.m3u8
 Русский илл,https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+Иллюзион +,https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
 ЛЮБОВЬ Nature,http://bamus-eng-roku.amagi.tv/playlist.m3u8
+FlixSnip,https://sc.id-tv.kz/FlixSnip_34_35.m3u8
+Fox HD,https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
+Fox HD,https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+FOX ABAZA,http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+Hollywood,https://sc.id-tv.kz:443/Hollywood_34_35.m3u8
+Настоящее страшное,https://sc.id-tv.kz/NSTV_34_35.m3u8
+Дорама,https://sc.id-tv.kz/dorama_hd_36_37.m3u8
+Дорама,https://sc.id-tv.kz:443/dorama_hd_34_35.m3u8
+Киноужас,https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
+Индийское кино,https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
+Кинохит,https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+Киномикс HD,https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+Киносемья FHD,https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+Кинокомедия,https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+Киносвидание HD,https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+Мужское Кино HD,https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+Родное Кино,https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+Кинопремьера FHD,https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+Cinema,https://sc.id-tv.kz/Cinema_34_35.m3u8
+Bollywood,https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+Bollywood,https://sc.id-tv.kz/bollywood_hd
+Amedia Hit HD,https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+Эхо ТВ,https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+Geographic Wild,https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+Geographic Wild,https://sc.id-tv.kz:443/NatGeoWildHD_34_35.m3u8
+Discovery Channel,https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
+H2,https://sc.id-tv.kz:443/H2HD_36_37.m3u8
+HiT TV,https://sc.id-tv.kz:443/HitTV_34_35.m3u8
+History,https://sc.id-tv.kz:443/HistoryHD_36_37.m3u8
+History,https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+Luxury,http://nano.teleservice.su:8080/hls/luxury.m3u8
+Mezzo Live HD,https://sc.id-tv.kz:443/mezzo_life_hd_34_35.m3u8
+Zee TV,https://sc.id-tv.kz:443/ZeeTVHD_34_35.m3u8
+Бобер,https://sc.id-tv.kz/bober_34_35.m3u8
+Viasat Nature,https://sc.id-tv.kz:443/ViasatNature_34_35.m3u8
+Viasat Nature,http://217.11.177.56/streams/media/viasat-nature_720x576/index.m3u8
+Viasat History,https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
+Viasat Explore,http://217.11.177.56/streams/media/viasat-explore_720x576/index.m3u8
+HDL,https://sc.id-tv.kz/hdl_34_35.m3u8
+Da Vinci,https://sc.id-tv.kz/DaVinci_34_35.m3u8
+TLC,https://sc.id-tv.kz/TLCHD_34_35.m3u8
+Наша Сибирь 4K,https://livetv.mylifeisgood.ml/channels/nashasibir4k
+Глазами Туриста 4K,https://livetv.mylifeisgood.ml/channels/glazamiturista4k
 ЛЮБОВЬ Nature,https://bamus-eng-roku.amagi.tv/playlist.m3u8
 Nasa TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 LAVA HD Русский,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
 Твоё,http://stream-norst.cf:8080/tvoetv/index.m3u8
-CC TV,http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 Синема Классик,http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 Кинолюкс,http://v2.catcast.tv/content/38821/index.m3u8
 Ужастик,https://v2.catcast.tv/content/38896/index.m3u8
@@ -852,10 +902,6 @@ Fentezy HD,http://autopilot.catcast.tv/content/38144/index.m3u8
 Русский детектив,http://193.33.88.172:8080/rus-detective/index.m3u8
 ТНТ HD,http://193.33.88.172/tnt_hd/tracks-v1a1/mono.m3u8
 D-TV6,http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
-Kino Watchfresh,https://edge-01.kino.watch/fresh/index.m3u8
-Kino Watchhit,https://edge-01.kino.watch/hit/index.m3u8
-Kino Watchhorr, http://edge-01.kino.watch/horror/index.m3u8
-Kino Watchdoc,https://edge-01.kino.watch/docu/index.m3u8
 OVAA TV,http://tv.tuva.ru/ovaa/index.m3u8 
 
 🇨🇳｜央视蓝光,#genre#
