@@ -1,5 +1,5 @@
 {
-	"spider": "https://agit.ai/kuku/kot/raw/branch/master/jar/tutu.jar;md;ae86a4b7fb27bb883300e73631c7051d",
+	"spider": "https://agit.ai/kuku/kot/raw/branch/master/jar/1013.jar;md5;4530F349123DF83987FBD55BF166685C",
 
 	"lives": [{
 		"group": "redirect",
@@ -84,7 +84,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-			
+			"ext":"","jar": "https://agit.ai/kuku/kot/raw/branch/master/jar/tutu.jar;md;ae86a4b7fb27bb883300e73631c7051d"
 		}, {
 	        "key": "csp_ZJMiao",
 	        "name": "🐱追剧喵",
