@@ -83,7 +83,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-			"jar": "https://agit.ai/kuku/kot/raw/branch/master/jar/tutu.jar;md5;AE86A4B7FB27BB883300E73631C7051D"
 		},  {
 	        "key": "csp_ZJMiao",
 	        "name": "🐱追剧喵",
