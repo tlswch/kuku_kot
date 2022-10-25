@@ -23,6 +23,9 @@ class Spider(Spider):  # 元类 默认的元类 type
     def homeContent(self, filter):
         result = {}
         cateManual = {
+               "木偶":"https://www.kugutsu.ml",
+               "大人":"https://drive.9t.ee",
+               "大人番":"https://www.kugutsu.ml"
               "🔮嗨翻":"https://pan.hikerfans.com",
               "🦀9T(Adult)":"https://drive.9t.ee",
               "🐱梓澪の妙妙屋":"https://xn--i0v44m.xyz",
