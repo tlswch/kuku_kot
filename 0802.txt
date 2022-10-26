@@ -670,7 +670,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/kuku/kot/src/branch/master/bd/json/py_alistcr.py"
+      "ext": "https://agit.ai/kuku/kot/src/commit/5d613c05b5acaa7691a813274f7781ea49a311e9/bd/json/py_alistcr.py"
        }, {
             "key" : "py_xuqu1",
             "name" : "戏曲专栏",
