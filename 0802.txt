@@ -313,6 +313,17 @@
 			"filterable": 0,
 			"categories": ["综艺", "动漫", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港台剧", "日韩剧", "欧美剧", "惊悚片", "犯罪片", "冒险片", "悬疑片", "动画片", "武侠片", "少儿", "其他片"]
 		}, {
+      "key": "AList",
+      "name": "PY版本AList",
+      "type": 3,
+      "api": "py_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/138001380000/MHQTV/raw/commit/3447d5d757a0328f9ab5e73e8a6ae0a2b41e4284/py/py_alistcr.py"
+    },
+		
+		 {
 			"key": "py",
 			"name": "py接口(打开储存权限)⬇",
 			"type": 3,
