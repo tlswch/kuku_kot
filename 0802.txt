@@ -320,7 +320,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_alistcr.py"
+      "ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/alistcr.json"
     },
 		
 		 {
