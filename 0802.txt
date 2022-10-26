@@ -663,15 +663,6 @@
             "filterable": 0,
             "ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_kunyu77.py"
         }, {
-      "key": "py_AList",
-      "name": "PY版本AList",
-      "type": 3,
-      "api": "py_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_alistcr.py"
-       }, {
             "key" : "py_xuqu1",
             "name" : "戏曲专栏",
             "type" : 3,
