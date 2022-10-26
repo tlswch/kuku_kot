@@ -537,7 +537,7 @@
 			"filterable": 0,
 			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_pansou.py"
 		}, {
-			"key": "push_agent2",
+			"key": "py_agent2",
 			"name": "📂阿里 py",
 			"type": 3,
 			"api": "py_ali",
@@ -663,7 +663,7 @@
             "filterable": 0,
             "ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_kunyu77.py"
         }, {
-      "key": "AList",
+      "key": "py_AList",
       "name": "PY版本AList",
       "type": 3,
       "api": "py_AList",
