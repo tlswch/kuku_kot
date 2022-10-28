@@ -1,5 +1,5 @@
 {
-  "spider": "https://agit.ai/kuku/kot/src/branch/master/json/fong_mi.jar;md5;e59dd939c16d155e3214d4c4511dc492",
+  "spider": "https://agit.ai/kuku/kot/raw/branch/master/json/fong_mi.jar;md5;e59dd939c16d155e3214d4c4511dc492",
   "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEzODAwMTM4MDAwMC9NSFFUVi9yYXcvYnJhbmNoL21hc3Rlci9UVi8wOTAzemgudHh0"]}]}],
   "sites": [ 
      {
@@ -10,9 +10,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/138001380000/MHQTV/raw/commit/3447d5d757a0328f9ab5e73e8a6ae0a2b41e4284/py/py_alistcr.py"
+      "ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_alistcr.py"
     },
-    
+    {
+	"key": "csp_Alist",
+	"name": "🅰Alist",
+	"type": 3,
+	"api": "csp_Alist",
+	"searchable": 1,
+	"quickSearch": 0,
+	"filterable": 0,
+	"ext": "木偶$https://www.kugutsu.ml#大人$https://drive.9t.ee#大人番$https://www.kugutsu.ml#✨星梦$https://pan.bashroot.top#秋雨$https://share.laowang.me#米奇妙妙屋$https://anime.mqmmw.ga#🦀9T(Adult)$https://drive.9t.ee#🐱梓澪の妙妙屋$https://xn--i0v44m.xyz#帅盘$https://hi.shuaipeng.wang#灭火器$https://alist1.owen10086.repl.co#🐋一只鱼$https://alist.youte.ml#七米蓝$https://al.chirmyram.com#资源小站$https://pan.142856.xyz#晴园$https://alist.52qy.repl.co#菊花盘$https://pan.142856.xyz#💂小兵组网盘影视$https://6vv.app#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#神族九帝$https://alist.shenzjd.com#轻弹浅唱$https://g.xiang.lol#姬露白雪$https://pan.jlbx.xyz#💾DISK$http://124.222.140.243:8080#🎧听闻网盘$https://wangpan.sangxuesheng.com"
+}, 
     {
       "key": "哔哩",
       "name": "哔哩",
