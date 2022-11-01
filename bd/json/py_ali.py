@@ -1,405 +1,437 @@
-#coding=utf-8
-#!/usr/bin/python
+# coding=utf-8
+# !/usr/bin/python
 import sys
-sys.path.append('..') 
+sys.path.append('..')
 from base.spider import Spider
 import json
-import requests
-import time
 import re
+import urllib
+import difflib
 
 class Spider(Spider):  # 元类 默认的元类 type
-	def getName(self):
-		return "阿里云盘"
-	def init(self,extend=""):
-		print("============{0}============".format(extend))
-		pass
-	def homeContent(self,filter):
-		result = {}
-		return result
-	def homeVideoContent(self):
-		result = {}
-		return result
-	def categoryContent(self,tid,pg,filter,extend):
-		result = {}
-		return result
-	def searchContent(self,key,quick):
-		result = {}
-		return result
-	def isVideoFormat(self,url):
-		pass
-	def manualVideoCheck(self):
-		pass
-	def playerContent(self,flag,id,vipFlags):
-		if flag == 'AliYun':
-			return self.originContent(flag,id,vipFlags)
-		elif flag == 'AliYun原画':
-			return self.fhdContent(flag,id,vipFlags)
-		else:
-			return 	{}		
-	def fhdContent(self,flag,id,vipFlags):
-		self.login()
-		ids = id.split('+')
-		shareId = ids[0]
-		shareToken = ids[1]
-		fileId = ids[2]
-		category = ids[3]
-		url = self.getDownloadUrl(shareId,shareToken,fileId,category)
-		print(url)
+    def getName(self):
+        return "Alist"
 
-		noRsp = requests.get(url,headers=self.header, allow_redirects=False,verify = False)
-		realUrl = ''
-		if 'Location' in noRsp.headers:
-			realUrl = noRsp.headers['Location']
-		if 'location' in noRsp.headers and len(realUrl) == 0 :
-			realUrl = noRsp.headers['location']
-		newHeader = {
-			"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36",
-			"referer":"https://www.aliyundrive.com/",
-		}
-		result = {
-			'parse':'0',
-			'playUrl':'',
-			'url':realUrl,
-			'header':newHeader
-		}
-		return result
-	def originContent(self,flag,id,vipFlags):
-		self.login()
-		ids = id.split('+')
-		shareId = ids[0]
-		shareToken = ids[1]
-		fileId = ids[2]
-		url = '{0}?do=push_agent&api=python&type=m3u8&share_id={1}&file_id={2}'.format(self.localProxyUrl,shareId,fileId)
+    def init(self, extend=""):
+        print("============{0}============".format(extend))
+        pass
 
-		result = {
-			'parse':'0',
-			'playUrl':'',
-			'url':url,
-			'header':''
-		}
+    def isVideoFormat(self, url):
+        pass
 
-		# shareToken = self.getToken(shareId,'')
-		# self.getMediaSlice(shareId,shareToken,fileId)
+    def manualVideoCheck(self):
+        pass
 
+    def homeContent(self, filter):
+        result = {}
+        cateManual = {
+                "🔮嗨翻":"https://pan.hikerfans.com",
+                "🦀9T(Adult)":"https://drive.9t.ee",
+                "🐱梓澪の妙妙屋":"https://xn--i0v44m.xyz",
+                "🚆资源小站":"https://pan.142856.xyz",
+                "🌤晴园的宝藏库":"https://alist.52qy.repl.co",
+                "🐭米奇妙妙屋":"https://anime.mqmmw.ga",
+                "💂小兵组网盘影视":"https://6vv.app",
+                "📀小光盘":"https://alist.xiaoguanxiaocheng.life",
+                "🐋一只鱼":"https://alist.youte.ml",
+                "🌊七米蓝":"https://al.chirmyram.com", 
+                "🌴非盘":"http://www.feifwp.top",
+                "🥼帅盘":"https://hi.shuaipeng.wang",
+                "🐉神族九帝":"https://alist.shenzjd.com",
+                "☃姬路白雪":"https://pan.jlbx.xyz",
+                "🎧听闻网盘":"https://wangpan.sangxuesheng.com",
+                "💾DISK":"http://124.222.140.243:8080",
+                "🌨云播放":"https://quanzi.laoxianghuijia.cn",
+                "✨星梦":"https://pan.bashroot.top",
+                "🌊小江":"https://dyj.me",
+                "💫触光":"https://pan.ichuguang.com",
+                "🕵好汉吧":"https://8023.haohanba.cn",
+                "🥗AUNEY":"http://121.227.25.116:8008",
+                "🎡资源小站":"https://960303.xyz/",
+                "🐝神器云": "https://quanzi.laoxianghuijia.cn",
+                "🏝fenwe":"http://www.fenwe.tk:5244",
+                "🎢轻弹浅唱":"https://g.xiang.lol"
+        }
+        classes = []
+        for k in cateManual:
+            classes.append({
+                'type_name': k,
+				"type_flag": "1",
+                'type_id': cateManual[k]
+            })
+        result['class'] = classes
+        if (filter):
+            filters = {}
+            for lk in cateManual:
+                link = cateManual[lk]
+                filters.update({
+                    link: [{"key": "nm", "name": "名        称", "value": [{"n": "复位", "v": ""},{"n": "正序", "v": "False"},{"n": "反序", "v": "True"}]},{"key": "sz", "name": "大        小", "value": [{"n": "复位", "v": ""},{"n": "升序", "v": "False"},{"n": "降序", "v": "True"}]},{"key": "tp", "name": "类        型", "value": [{"n": "复位", "v": ""},{"n": "升序", "v": "False"},{"n": "降序", "v": "True"}]},{"key": "tm", "name": "修改时间", "value": [{"n": "复位", "v": ""},{"n": "升序", "v": "False"},{"n": "降序", "v": "True"}]}]
+                })
+            result['filters'] = filters
+        return result
 
-		# map = {
-		# 	'share_id':'p1GJYEqgeb2',
-		# 	'file_id':'62ed1b95b1048d60ffc246669f5e0999e90b8c2f',
-		# 	'media_id':'1'
-		# }
+    def homeVideoContent(self):
+        result = {
+            'list': []
+        }
+        return result
 
-		# self.proxyMedia(map)
+    ver = ''
+    baseurl = ''
+    def getVersion(self, gtid):
+        param = {
+            "path": '/'
+        }
+        if gtid.count('/') == 2:
+            gtid = gtid + '/'
+        baseurl = re.findall(r"http.*://.*?/", gtid)[0]
+        ver = self.fetch(baseurl + 'api/public/settings', param)
+        vjo = json.loads(ver.text)['data']
+        if type(vjo) is dict:
+            ver = 3
+        else:
+            ver = 2
+        self.ver = ver
+        self.baseurl = baseurl
 
-		return result
+    def categoryContent(self, tid, pg, filter, extend):
+        result = {}
+        if tid.count('/') == 2:
+            tid = tid + '/'
+        nurl = re.findall(r"http.*://.*?/", tid)[0]
+        if self.ver == '' or self.baseurl != nurl:
+            self.getVersion(tid)
+        ver = self.ver
+        baseurl = self.baseurl
+        if tid.count('/') == 2:
+            tid = tid + '/'
+        pat = tid.replace(baseurl,"")
+        param = {
+            "path": '/' + pat
+        }
+        if ver == 2:
+            rsp = self.postJson(baseurl + 'api/public/path', param)
+            jo = json.loads(rsp.text)
+            vodList = jo['data']['files']
+        elif ver == 3:
+            rsp = self.postJson(baseurl + 'api/fs/list', param)
+            jo = json.loads(rsp.text)
+            vodList = jo['data']['content']
+        ovodList = vodList
+        if len(extend) != 0:
+            if 'tp' in extend and extend['tp'] != '':
+                fl = 'type'
+                if extend['tp'] == "True":
+                    key = True
+                if extend['tp'] == "False":
+                    key = False
+                vodList.sort(key=lambda x: (x['{0}'.format(fl)]), reverse=key)
+            elif 'sz' in extend and extend['sz'] != '':
+                fl = 'size'
+                if extend['sz'] == "True":
+                    key = True
+                if extend['sz'] == "False":
+                    key = False
+                vodList.sort(key=lambda x: (x['{0}'.format(fl)]), reverse=key)
+            elif 'nm' in extend and extend['nm'] != '':
+                fl = 'name'
+                if extend['nm'] == "True":
+                    key = True
+                if extend['nm'] == "False":
+                    key = False
+                vodList.sort(key=lambda x: (x['{0}'.format(fl)]), reverse=key)
+            elif 'tm' in extend and extend['tm'] != '':
+                if ver == 2:
+                    fl = 'updated_at'
+                elif ver == 3:
+                    fl = 'modified'
+                if extend['tm'] == "True":
+                    key = True
+                if extend['tm'] == "False":
+                    key = False
+                vodList.sort(key=lambda x: (x['{0}'.format(fl)]), reverse=key)
+            else:
+                vodList = ovodList
+        else:
+            vodList = ovodList
+        videos = []
+        cid = ''
+        purl = ''
+        svodList = str(vodList)
+        lenvodList = len(vodList)
+        nameList = re.findall(r"\'name\': \'(.*?)\'", svodList)
+        substr = str(nameList)
+        foldernum = svodList.count('\'type\': 1')
+        filenum = lenvodList - foldernum
+        for vod in vodList:
+            if ver == 2:
+                img = vod['thumbnail']
+            elif ver == 3:
+                img = vod['thumb']
+            if len(img) == 0:
+                if vod['type'] == 1:
+                    img = "http://img1.3png.com/281e284a670865a71d91515866552b5f172b.png"
+            if pat != '':
+                aid = pat + '/'
+            else:
+                aid = pat
+            if vod['type'] == 1:
+                tag = "folder"
+                remark = "文件夹"
+                cid = baseurl + aid + vod['name']
+            #计算文件大小
+            else:
+                size = vod['size']
+                if size > 1024 * 1024 * 1024 * 1024.0:
+                    fs = "TB"
+                    sz = round(size / (1024 * 1024 * 1024 * 1024.0), 2)
+                elif size > 1024 * 1024 * 1024.0:
+                    fs = "GB"
+                    sz = round(size / (1024 * 1024 * 1024.0), 2)
+                elif size > 1024 * 1024.0:
+                    fs = "MB"
+                    sz = round(size / (1024 * 1024.0), 2)
+                elif size > 1024.0:
+                    fs = "KB"
+                    sz = round(size / (1024.0), 2)
+                else:
+                    fs = "KB"
+                    sz = round(size / (1024.0), 2)
+                tag = "file"
+                remark = str(sz) + fs
+                cid = baseurl + aid + vod['name']
+                # 开始爬视频与字幕
+                if filenum < 150:
+                    if vod['name'].endswith('.mp4') or vod['name'].endswith('.mkv') or vod['name'].endswith('.ts') or vod['name'].endswith('.TS') or vod['name'].endswith('.avi') or vod['name'].endswith('.flv') or vod['name'].endswith('.rmvb') or vod['name'].endswith('.mp3') or vod['name'].endswith('.flac') or vod['name'].endswith('.wav') or vod['name'].endswith('.wma') or vod['name'].endswith('.dff'):
+                        vodurl = vod['name']
+                        # 开始爬字幕
+                        cid = '###'
+                        subname = re.findall(r"(.*)\.", vod['name'])[0]
+                        if filenum == 2:
+                            if '.ass' in substr:
+                                sub = difflib.get_close_matches('.ass', nameList, 1, cutoff=0.1)
+                                if len(sub) != 0:
+                                    sub = sub[0]
+                                else:
+                                    sub = ''
+                                if sub.endswith('.ass'):
+                                    subt = '@@@' + sub
+                            if '.srt' in substr:
+                                sub = difflib.get_close_matches('.srt', nameList, 1, cutoff=0.1)
+                                if len(sub) != 0:
+                                    sub = sub[0]
+                                else:
+                                    sub = ''
+                                if sub.endswith('.srt'):
+                                    subt = '@@@' + sub
+                        else:
+                            if '.ass' in substr:
+                                sub = difflib.get_close_matches('{0}.ass'.format(subname), nameList, 1, cutoff=0.1)
+                                if len(sub) != 0:
+                                    sub = sub[0]
+                                else:
+                                    sub = ''
+                                if subname in sub and sub.endswith('.ass'):
+                                    subt = '@@@' + sub
+                            elif '.srt' in substr:
+                                sub = difflib.get_close_matches('{0}.srt'.format(subname), nameList, 1, cutoff=0.1)
+                                if len(sub) != 0:
+                                    sub = sub[0]
+                                else:
+                                    sub = ''
+                                if subname in sub and sub.endswith('.srt'):
+                                    subt = '@@@' + sub
+                        # 合并链接
+                        if 'subt' in locals().keys():
+                            purl = purl + '{0}{1}##'.format(vodurl, subt)
+                        else:
+                            purl = purl + '{0}##'.format(vodurl)
+                else:
+                    subname = re.findall(r"(.*)\.", vod['name'])[0]
+                    if '.ass' in substr:
+                        sub = difflib.get_close_matches('{0}.ass'.format(subname), nameList, 1, cutoff=0.1)
+                        if len(sub) != 0:
+                            sub = sub[0]
+                        else:
+                            sub = ''
+                        if subname in sub and sub.endswith('.ass'):
+                            subt = '@@@' + sub
+                            cid = cid + subt
+                    elif '.srt' in substr:
+                        sub = difflib.get_close_matches('{0}.srt'.format(subname), nameList, 1, cutoff=0.1)
+                        if len(sub) != 0:
+                            sub = sub[0]
+                        else:
+                            sub = ''
+                        if subname in sub and sub.endswith('.srt'):
+                            subt = '@@@' + sub
+                            cid = cid + subt
+            videos.append({
+                "vod_id":  cid,
+                "vod_name": vod['name'],
+                "vod_pic": img,
+                "vod_tag": tag,
+                "vod_remarks": remark
+            })
+        if 'purl' in locals().keys():
+            purl = baseurl + aid + '+++' + purl
+            for i in range(foldernum, lenvodList):
+                if videos[i]['vod_id'] == '###':
+                    videos[i]['vod_id'] = purl
+        result['list'] = videos
+        result['page'] = 1
+        result['pagecount'] = 1
+        result['limit'] = lenvodList
+        result['total'] = lenvodList
+        return result
 
-	def detailContent(self,array):
-		tid = array[0]
-		# shareId = self.regStr(href,'www.aliyundrive.com\\/s\\/([^\\/]+)(\\/folder\\/([^\\/]+))?')
-		# todo =========================================================================================
-		m = re.search('www.aliyundrive.com\\/s\\/([^\\/]+)(\\/folder\\/([^\\/]+))?', tid)
-		col = m.groups()
-		shareId = col[0]
-		fileId = col[2]
+    def detailContent(self, array):
+        id = array[0]
+        if '+++' in id:
+            ids = id.split('+++')
+            durl = ids[0]
+            vsList = ids[1].strip('##').split('##')
+            vsurl = ''
+            for vs in vsList:
+                if '@@@' in vs:
+                    dvs = vs.split('@@@')
+                    vname = dvs[0].replace('#','-')
+                    vurl = durl + dvs[0].replace('#','---')
+                    surl = durl + dvs[1].replace('#','---')
+                    vsurl = vsurl + '{0}${1}@@@{2}#'.format(vname, vurl, surl)
+                else:
+                    vurl = durl + vs.replace('#','---')
+                    vsurl = vsurl + '{0}${1}#'.format(vs.replace('#','-'), vurl)
+            url = vsurl
+        else:
+            durl = id.replace('#','-')
+        if self.ver == '' or self.baseurl == '':
+            self.getVersion(durl)
+        baseurl = self.baseurl
+        if '+++' in id:
+            vid = durl.replace(baseurl, "").strip('/')
+        else:
+            vid = durl.replace(re.findall(r".*/", durl)[0], "")
+            url = vid + '$' + id.replace('#','---')
+        vod = {
+            "vod_id": vid,
+            "vod_name": vid,
+            "vod_pic": '',
+            "vod_tag": '',
+            "vod_play_from": "播放",
+            "vod_play_url": url
+        }
+        result = {
+            'list': [
+                vod
+            ]
+        }
+        return result
 
-		infoUrl = 'https://api.aliyundrive.com/adrive/v3/share_link/get_share_by_anonymous'
+    def searchContent(self, key, quick):
+        result = {
+            'list': []
+        }
+        return result
 
-		infoForm = {'share_id':shareId}
-		infoRsp = requests.post(infoUrl,json = infoForm,headers=self.header)
-		infoJo = json.loads(infoRsp.text)
+    def playerContent(self, flag, id, vipFlags):
+        result = {}
+        url = ''
+        subturl = ''
+        id = id.replace('---','#')
+        ifsub = '@@@' in id
+        if ifsub is True:
+            ids = id.split('@@@')
+            if self.ver == '' or self.baseurl == '':
+                self.getVersion(ids[1])
+            ver = self.ver
+            baseurl = self.baseurl
+            fileName = ids[1].replace(baseurl, "")
+            vfileName = ids[0].replace(baseurl, "")
+            param = {
+                "path": '/' + fileName,
+                "password": "",
+                "page_num": 1,
+                "page_size": 100
+            }
+            vparam = {
+                "path": '/' + vfileName,
+                "password": "",
+                "page_num": 1,
+                "page_size": 100
+            }
+            if ver == 2:
+                rsp = self.postJson(baseurl + 'api/public/path', param)
+                jo = json.loads(rsp.text)
+                vodList = jo['data']['files'][0]
+                subturl = vodList['url']
+                vrsp = self.postJson(baseurl + 'api/public/path', vparam)
+                vjo = json.loads(vrsp.text)
+                vList = vjo['data']['files'][0]
+                url = vList['url']
+            elif ver == 3:
+                rsp = self.postJson(baseurl + 'api/fs/get', param)
+                jo = json.loads(rsp.text)
+                vodList = jo['data']
+                subturl = vodList['raw_url']
+                vrsp = self.postJson(baseurl + 'api/fs/get', vparam)
+                vjo = json.loads(vrsp.text)
+                vList = vjo['data']
+                url = vList['raw_url']
+            if subturl.startswith('http') is False:
+                head = re.findall(r"h.*?:", baseurl)[0]
+                subturl = head + subturl
+            if url.startswith('http') is False:
+                head = re.findall(r"h.*?:", baseurl)[0]
+                url = head + url
+            urlfileName = urllib.parse.quote(fileName)
+            subturl = subturl.replace(fileName, urlfileName)
+            urlvfileName = urllib.parse.quote(vfileName)
+            url = url.replace(vfileName, urlvfileName)
+            result['subt'] = subturl
+        else:
+            if self.ver == '' or self.baseurl == '':
+                self.getVersion(id)
+            ver = self.ver
+            baseurl = self.baseurl
+            vfileName = id.replace(baseurl, "")
+            vparam = {
+                "path": '/' + vfileName,
+                "password": "",
+                "page_num": 1,
+                "page_size": 100
+            }
+            if ver == 2:
+                vrsp = self.postJson(baseurl + 'api/public/path', vparam)
+                vjo = json.loads(vrsp.text)
+                vList = vjo['data']['files'][0]
+                driver = vList['driver']
+                url = vList['url']
+            elif ver == 3:
+                vrsp = self.postJson(baseurl + 'api/fs/get', vparam)
+                vjo = json.loads(vrsp.text)
+                vList = vjo['data']
+                url = vList['raw_url']
+                driver = vList['provider']
+            if url.startswith('http') is False:
+                head = re.findall(r"h.*?:", baseurl)[0]
+                url = head + url
+            urlvfileName = urllib.parse.quote(vfileName)
+            url = url.replace(vfileName, urlvfileName)
+            if driver == 'Baidu.Disk':
+                result["header"] = {"User-Agent": "pan.baidu.com"}
+        result["parse"] = 0
+        result["playUrl"] = ''
+        result["url"] = url
 
-		infoJa = []
-		if 'file_infos' in infoJo:
-			infoJa = infoJo['file_infos']
-		if len(infoJa) <= 0 :
-			return ''
-		fileInfo = {}
-		# todo
-		fileInfo = infoJa[0]
-		print(fileId)
-		if fileId == None or len(fileId) <= 0:
-			fileId = fileInfo['file_id']
+        return result
 
-		vodList = {
-			'vod_id':tid,
-			'vod_name':infoJo['share_name'],
-			'vod_pic':infoJo['avatar'],
-			'vod_content':tid,
-			'vod_play_from':'AliYun原画'
-		}
-		fileType = fileInfo['type']
-		if fileType != 'folder':
-			if fileType != 'file' or fileInfo['category'] != video:
-				return ''
-			fileId = 'root'
+    flurl = ''
+    config = {
+        "player": {},
+        "filter": {}
+    }
+    header = {}
 
-		shareToken = self.getToken(shareId,'')
-		hashMap = {}
-		self.listFiles(hashMap,shareId,shareToken,fileId)
-
-		sortedMap = sorted(hashMap.items(), key=lambda x: x[0])
-		arrayList = []
-		playList = []
-
-		for sm in sortedMap:
-			arrayList.append(sm[0]+'$'+sm[1])
-		playList.append('#'.join(arrayList))
-		playList.append('#'.join(arrayList))
-		vodList['vod_play_url'] = '$$$'.join(playList)
-
-		result = {
-			'list':[vodList]
-		}
-		return result
-		
-	authorization = ''
-	timeoutTick = 0
-	localTime = 0
-	expiresIn = 0
-	shareTokenMap = {}
-	expiresMap = {}
-	localMedia = {}
-	header = {
-		"Referer":"https://www.aliyundrive.com/",
-		"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36"
-	}
-	localProxyUrl = 'http://127.0.0.1:UndCover/proxy'
-
-	def redirectResponse(tUrl):
-		rsp = requests.get(tUrl, allow_redirects=False,verify = False)
-		if 'Location' in rsp.headers:
-			return redirectResponse(rsp.headers['Location'])
-		else:
-			return rsp
-
-	def getDownloadUrl(self,shareId,token,fileId,category):
-		lShareId = shareId
-		lFileId = fileId
-		params = {
-			"share_id": lShareId,
-			"category": "live_transcoding",
-			"file_id": lFileId,
-			"template_id": ""
-		}
-		customHeader = self.header.copy()
-		customHeader['x-share-token'] = token
-		customHeader['authorization'] = self.authorization
-		url = 'https://api.aliyundrive.com/v2/file/get_share_link_video_preview_play_info'
-		if category == 'video':
-			rsp = requests.post(url,json = params,headers=customHeader)
-			rspJo = json.loads(rsp.text)
-			lShareId = rspJo['share_id']
-			lFileId = rspJo['file_id']
-		jo = {
-
-		}
-		if category == 'video':
-			jo['share_id'] = lShareId
-			jo['file_id'] = lFileId
-			jo['expire_sec'] = 600
-		if category == 'audio':
-			jo['share_id'] = lShareId
-			jo['file_id'] = lFileId
-			jo['get_audio_play_info'] = True
-		downloadUrl = 'https://api.aliyundrive.com/v2/file/get_share_link_download_url'
-		downloadRsp = requests.post(downloadUrl,json = jo,headers=customHeader)
-		resultJo = json.loads(downloadRsp.text)
-		return resultJo['download_url']
-
-	def getMediaSlice(self,shareId,token,fileId):
-		params = {
-			"share_id": shareId,
-			"category": "live_transcoding",
-			"file_id": fileId,
-			"template_id": ""
-		}
-		customHeader = self.header.copy()
-		customHeader['x-share-token'] = token
-		customHeader['authorization'] = self.authorization
-		url = 'https://api.aliyundrive.com/v2/file/get_share_link_video_preview_play_info'
-
-		rsp = requests.post(url,json = params,headers=customHeader)
-		rspJo = json.loads(rsp.text)
-
-		quality = ['FHD','HD','SD']
-		videoList = rspJo['video_preview_play_info']['live_transcoding_task_list']
-		highUrl = ''
-		for q in quality:
-			if len(highUrl) > 0:
-				break
-			for video in videoList:
-				if(video['template_id'] == q):
-					highUrl = video['url']
-					break
-			if len(highUrl) == 0:
-				highUrl = videoList[0]['url']
-
-		noRsp = requests.get(highUrl,headers=self.header, allow_redirects=False,verify = False)
-		m3u8Url = ''
-		if 'Location' in noRsp.headers:
-			m3u8Url = noRsp.headers['Location']
-		if 'location' in noRsp.headers and len(m3u8Url) == 0 :
-			m3u8Url = noRsp.headers['location']
-		m3u8Rsp = requests.get(m3u8Url,headers=self.header)
-		m3u8Content = m3u8Rsp.text
-
-		tmpArray = m3u8Url.split('/')[0:-1]
-		host = '/'.join(tmpArray) + '/'
-
-		m3u8List = []
-		mediaMap = {}
-		slices = m3u8Content.split("\n")
-		count = 0
-		for slice in slices:
-			tmpSlice = slice
-			if 'x-oss-expires' in tmpSlice:
-				count = count + 1
-				mediaMap[str(count)] = host+tmpSlice
-
-				tmpSlice = "{0}?do=push_agent&api=python&type=media&share_id={1}&file_id={2}&media_id={3}".format(self.localProxyUrl,shareId,fileId,count)
-			m3u8List.append(tmpSlice)
-
-		self.localMedia[fileId] = mediaMap
-		
-		return '\n'.join(m3u8List)
-
-	def proxyMedia(self,map):
-		shareId = map['share_id']
-		fileId = map['file_id']
-		mediaId = map['media_id']
-		shareToken = self.getToken(shareId,'')
-
-		refresh = False
-		url = ''
-		ts = 0
-		if fileId in self.localMedia:
-			fileMap = self.localMedia[fileId]
-			if mediaId in fileMap:
-				url = fileMap[mediaId]
-		if len(url) > 0:
-			ts = int(self.regStr(url,"x-oss-expires=(\\d+)&"))
-
-		# url = self.localMedia[fileId][mediaId]
-		
-		# ts = int(self.regStr(url,"x-oss-expires=(\\d+)&"))
-
-		self.localTime = int(time.time())
-
-		if ts - self.localTime <= 60:
-			self.getMediaSlice(shareId,shareToken,fileId)
-			url = self.localMedia[fileId][mediaId]
-			
-		action = {
-			'url':url,
-			'header':self.header,
-			'param':'',
-			'type':'stream',
-			'after':''
-		}
-		print(action)
-		return [200, "video/MP2T", action, ""]
-
-	def proxyM3U8(self,map):
-		shareId = map['share_id']
-		fileId = map['file_id']
-
-		shareToken = self.getToken(shareId,'')
-		content = self.getMediaSlice(shareId,shareToken,fileId)
-
-		action = {
-			'url':'',
-			'header':'',
-			'param':'',
-			'type':'string',
-			'after':''
-		}
-
-		return [200, "application/octet-stream", action, content]
-
-	def localProxy(self,param):
-		typ = param['type']
-		if typ == "m3u8":
-			return self.proxyM3U8(param)
-		if typ == "media":
-			return self.proxyMedia(param)
-		return None
-
-	def getToken(self,shareId,sharePwd):
-		self.localTime = int(time.time())
-		shareToken = ''
-		if shareId in self.shareTokenMap:
-			shareToken = self.shareTokenMap[shareId]
-			# todo
-			expire = self.expiresMap[shareId]
-			if len(shareToken) > 0 and expire - self.localTime > 600:
-				return shareToken
-		params = {
-			'share_id':shareId,
-			'share_pwd':sharePwd
-		}
-		url = 'https://api.aliyundrive.com/v2/share_link/get_share_token'
-		rsp = requests.post(url,json = params,headers=self.header)
-		jo = json.loads(rsp.text)
-		newShareToken = jo['share_token']
-		self.expiresMap[shareId] = self.localTime + int(jo['expires_in'])
-		self.shareTokenMap[shareId] = newShareToken
-
-		print(self.expiresMap)
-		print(self.shareTokenMap)
-
-		return newShareToken
-
-	def listFiles(self,map,shareId,shareToken,fileId):
-		url = 'https://api.aliyundrive.com/adrive/v3/file/list'
-		newHeader = self.header.copy()
-		newHeader['x-share-token'] = shareToken
-		params = {
-			'image_thumbnail_process':'image/resize,w_160/format,jpeg',
-			'image_url_process':'image/resize,w_1920/format,jpeg',
-			'limit':200,
-			'order_by':'updated_at',
-			'order_direction':'DESC',
-			'parent_file_id':fileId,
-			'share_id':shareId,
-			'video_thumbnail_process':'video/snapshot,t_1000,f_jpg,ar_auto,w_300'
-		}
-		maker = ''
-		arrayList = []
-		for i in range(1,51):
-			if i >= 2 and len(maker) == 0:
-				break
-			params['marker'] = maker			
-			rsp = requests.post(url,json = params,headers=newHeader)
-			jo = json.loads(rsp.text)
-			ja = jo['items']
-			for jt in ja:
-				if jt['type'] == 'folder':
-					arrayList.append(jt['file_id'])
-				else:
-					if 'video' in jt['mime_type'] or 'video' in jt['category']:
-						repStr = jt['name'].replace("#", "_").replace("$", "_")
-						map[repStr] = shareId + "+" + shareToken + "+" + jt['file_id'] + "+" + jt['category']
-						# print(repStr,shareId + "+" + shareToken + "+" + jt['file_id'])
-			maker = jo['next_marker']
-			i = i + 1
-
-		for item in arrayList:
-			self.listFiles(map,shareId,shareToken,item)
-
-	def login(self):
-		self.localTime = int(time.time())
-		url = 'https://api.aliyundrive.com/token/refresh'
-		if len(self.authorization) == 0 or self.timeoutTick - self.localTime <= 600:
-			form = {
-				'refresh_token':'81461f2e9d0b4ffb86612db403824b8a'
-			}
-			rsp = requests.post(url,json = form,headers=self.header)
-			jo = json.loads(rsp.text)
-			self.authorization = jo['token_type'] + ' ' + jo['access_token']
-			self.expiresIn = int(jo['expires_in'])
-			self.timeoutTick = self.localTime + self.expiresIn
-
-			# print(self.authorization)
-			# print(self.timeoutTick)
-			# print(self.localTime)
-			# print(self.expiresIn)
+    def localProxy(self, param):
+        return [200, "video/MP2T", action, ""]
