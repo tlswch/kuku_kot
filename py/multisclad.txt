@@ -1,7 +1,7 @@
 {
 "storeHouse": [
 {"sourceName":"11号仓库","sourceUrl":"https://agit.ai/xx03253/apk_update/raw/branch/main/tv/update_yuan"},
-{"sourceName":"Agit.ai仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/1"},
+{"sourceName":"kuz仓库","sourceUrl":"https://agit.ai/kuku/kot/raw/branch/master/py/update_yuan"},
 {"sourceName":"2号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/2"},
 {"sourceName":"3号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/3"},
 {"sourceName":"4号仓库","sourceUrl":"https://agit.ai/zqk219/baip/raw/branch/master/duocangku/4"},
