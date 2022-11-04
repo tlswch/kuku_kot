@@ -1,0 +1,79 @@
+{
+    "urls": [
+        {
+            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "🕍默认线路"
+        },
+        {
+            "url": "clan://localhost/tvbox/本地.json",
+            "name": "本地tvbox，先允许存取文件"
+        },
+        {
+            "url": "clan://localhost/xxu/xxtv.json",
+            "name": "本地xxtv包，先允许存取文件"
+        },
+        {
+            "url": "clan://localhost/zhang/tvbox.json",
+            "name": "张包，先允许存取文件"
+        },
+{
+            "url": "clan://localhost/TVBox_Py/py.json",
+            "name": "本地py包，先允许存取文件"
+        }, 
+{
+            "url": "clan://localhost/JS/js.json",
+            "name": "js包，先允许存取文件"
+        },
+
+{
+            "url": "clan://localhost/Bli/bili.json",
+            "name": "bilibili包，先允许存取文件"
+        },       
+       
+        {"url": "https://agit.ai/zqk219/baip/raw/branch/main/tv.json","name": "小可爱"},
+        {"url": "https://agit.ai/zqk219/baip/raw/branch/main/TVBox_Py/py.json","name": "py"},
+{"url": "https://agit.ai/zqk219/baip/raw/branch/main/JS/js.json","name": "js
+"},
+{"url": "https://ghproxy.com/https://raw.githubusercontent.com/zqk219/zhang/main/tvbox.json
+","name": "张"},
+
+{"url": "https://agit.ai/zqk219/baip/raw/branch/main/Bli/bili.json
+","name": "bilibili集合"},
+        {
+            "url": "https://notabug.org/zqk219/yingshicang/raw/master/道长",
+            "name": "🕍道长T4"
+        },
+        {
+            "url": "http://111.67.196.181/mtv/270.txt",
+            "name": "<22>270"
+        },
+      {
+            "url": "http://dxawi.github.io/0/0.json",
+            "name": "巧技"
+        },
+     
+{
+            "url": "https://agit.ai/zqk219/ziyong2/raw/branch/master/json/M.json",
+            "name": "mao3"
+        },
+  {
+        "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+          "name": "Yoursmile7"
+     },
+     {
+          "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
+        "name": "v3"
+        },
+       {"url": "https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json","name": "mmmgit"},
+      {"url": "https://raw.fastgit.org/leevi0709/duo/main/v.json","name": "leevi0709"},
+       {"url": "https://agit.ai/767820774/mao666/raw/branch/master/json/自用.json","name": "mao666"},
+        {"url": "https://raw.fastgit.org/once678/looktv/main/tvbox8.json","name": "once678"},
+  {"url": "https://pan.css.lc/api/v3/file/get/89944/1_%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E6%B2%B3%E8%BD%AF%E4%BB%B6%E5%9B%AD%E7%BB%B4%E6%8A%A4%E6%9B%B4%E6%96%B0.txt?sign=TK-f6wSUHkZ2A3gpMRzd7NDAJI9dvqDaJE_U-lekrVg%3D%3A0","name": "星河线"},
+  {"url": "http://js.134584.xyz/json/pp87.json","name": "pp87"},        
+  {
+          "url": "https://agit.ai/767820774/ziyong2/raw/branch/master/33.txt",
+        "name": "m1"
+               }
+    ],
+    "vip": []
+}
