@@ -1,11 +1,11 @@
-//🇨🇳欧歌整合本接口,所有接口共计调用1552次🇨🇳今日调用296次🇨🇳8-25整合
+
 
 
 {
     "wallpaper": "https://boxpy.once678.repl.co/pics",
     "dr_count": 36,
     "mode": 0,
-    "spider": "https://boxpy.once678.repl.co/files/custom_spider.jar",
+    "spider": "https://agit.ai/kuku/kot/raw/branch/master/py/daozhang.jar",
     
       
     "sites": [
