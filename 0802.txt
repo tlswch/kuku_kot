@@ -81,7 +81,8 @@
 			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,
+			"jar":"https://agit.ai/kuku/kot/raw/branch/master/py/jar/xinqcheng.jar"
 		},  {
 	        "key": "csp_ZJMiao",
 	        "name": "🐱追剧喵",
