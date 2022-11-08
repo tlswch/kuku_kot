@@ -5,6 +5,10 @@
             "name": "💖kuz源"
         },
         {
+            "url": "https://agit.ai/kuku/kot/raw/branch/master/qiaoji.json",    
+            "name": "💖巧技线路"
+        },
+        {
             "url": "https://agit.ai/kuku/kot/raw/branch/master/py/%E9%81%93%E9%95%BF.txt",    
             "name": "💖道长线路"
         },
@@ -46,9 +50,8 @@
         },
          {
         "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
-        "title": "🐉自用Agit",
-        "time": "2022-09-19 11:13:05"
-    },
+        "name": "🐉自用Agit",
+            },
         {
             "url": "http://刚刚.live/猫.json",
             "name": "💖刚刚源"
@@ -59,9 +62,8 @@
         },
         {
         "url": "http://miaotvs.cn/osc",
-        "title": "猫爪源",
-        "time": "2022-09-10 14:23:14"
-        },
+        "name": "猫爪源",
+         },
          {
             "url": "http://miaotvs.cn/osc",
             "name": "🐱喵TV源"
@@ -100,14 +102,12 @@
         },
         {
         "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-        "title": "🏄Yoursmile源",
-        "time": "2022-09-10 12:23:04"
-    },
+        "name": "🏄Yoursmile源",
+         },
      {
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-        "title": "🦞超级自动源",
-        "time": "2022-09-25 12:03:04"
-    },
+        "name": "🦞超级自动源",
+         },
         {
             "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
             "name": "☀️星辰"
