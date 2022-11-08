@@ -1,7 +1,7 @@
 {
 
 "sites": [
-{"key":"mtv_pc_酷云七七","name":"关注公众号【太阳视界】回复关键词【2024】获取新版本","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1}],
+{"key":"mtv_pc_酷云七七","name":"关注公众号【太阳视界】回复关键词【2024】获取新版本","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
 
 
 {"key":"mtv_pc_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"},
@@ -16,10 +16,10 @@
 {"key":"mtv_pc_易搜资源","name":"搜索┃易搜资源","type":3,"api":"csp_Yiso"          ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 {"key":"mtv_pc_找资源搜","name":"搜索┃找资源搜","type":3,"api":"csp_Zhaozy"        ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 {"key":"mtv_pc_阿里盘搜","name":"搜索┃阿里盘搜","type":3,"api":"csp_AliPS"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
-{"key":"push_agent"     ,"name":"搜索┃推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
+{"key":"push_agent"     ,"name":"搜索┃推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"}],
 
-"parses":[
-{"name":"聚合","type":3,"url":"Demo"},
+"parses":
+[{"name":"聚合","type":3,"url":"Demo"},
 {"name":"并发","type":2,"url":"Parallel"},
 {"name":"轮询","type":2,"url":"Sequence"},
 {"name":"线路","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}],
