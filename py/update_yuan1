@@ -44,6 +44,10 @@
             "url": "https://agit.ai/kuku/kot/raw/branch/master/py/jpg/8.jpg",
             "name": "🐼杏花源"
         },
+         {
+            "url": "https://agit.ai/kuku/kot/raw/branch/master/qiaoji.json",
+            "name": "💖巧技路线"
+        },
         {
             "url": "http://刚刚.live/猫.json",
             "name": "💖刚刚源"
@@ -53,7 +57,7 @@
             "name": "🐼云星源"
         },
         {
-            "url": "http://miaotvs.cn/osc",
+            "url": "https://agit.ai/kuku/kot/raw/branch/master/py/miaotv.json",
             "name": "🐱喵TV源"
         },
          {
@@ -98,16 +102,8 @@
             "name": "🍅NB源"
         },
         {
-            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxu.json",
-            "name": "🐷备用嗅探"
-        },
-        {
             "url": "https://raw.fastgit.org/xx03253/xxu/master/xxu.json",
             "name": "🐌备用嗅探2"
-        },
-        {
-            "url": "https://84k.cn/xxtv",
-            "name": "🦄自用解析源"
         },
         {
             "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xx.json",
@@ -132,10 +128,6 @@
         {
             "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
             "name": "🌙月光宝盒"
-        },
-        {
-            "url": "http://amoyxu.gnway.cc/xx.json",
-            "name": "🦷自建备用源"
         },
         {
             "url": "https://raw.iqiq.io/kvymin/CatVod/master/0701.json",
