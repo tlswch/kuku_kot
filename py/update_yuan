@@ -45,6 +45,14 @@
             "name": "🐼杏花源"
         },
         {
+            "url": "https://notabug.org/kuzniez/kot/raw/master/py/qiaoji/box.json",
+            "name": "🤖巧技路线"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "🌙月光宝盒"
+        },
+        {
             "url": "http://刚刚.live/猫.json",
             "name": "💖刚刚源"
         },
@@ -60,11 +68,7 @@
             "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
             "name": "🐉自用Agit"
         },
-        {
-            "url": "https://agit.ai/kuku/kot/raw/branch/master/py/qiaoji.json",
-            "name": "🤖巧技路线"
-        },
-        {
+         {
             "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxu.json",
             "name": "🐷备用嗅探"
         },
@@ -120,10 +124,6 @@
         {
             "url": "https://liu673cn.github.io/box/m.json",
             "name": "📽liu673cn源"
-        },
-        {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "🌙月光宝盒"
         },
         {
             "url": "https://raw.iqiq.io/kvymin/CatVod/master/0701.json",
