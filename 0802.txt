@@ -310,21 +310,21 @@
 			"searchable": 1
 		},{
 			"key": "csp_QQ",
-			"name": " 🍅腾讯视频(佰欣园)",
+			"name": " 🍅腾讯视频",
 			"type": 3,
 			"api": "csp_QQ",
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E8%85%BE%E8%AE%AF.txt"
 		},
 		{
 			"key": "csp_IQIYI",
-			"name": "🥝爱奇艺(佰欣园)",
+			"name": "🥝爱奇艺",
 			"type": 3,
 			"api": "csp_IQIYI",
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%88%B1%E5%A5%87%E8%89%BA.txt"
 		},
 		{
 			"key": "csp_MGTV",
-			"name": "🍋芒果TV(佰欣园)",
+			"name": "🍋芒果TV",
 			"type": 3,
 			"api": "csp_MGTV",
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E8%8A%92%E6%9E%9C.txt"
