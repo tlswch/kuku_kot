@@ -309,25 +309,29 @@
 			"quickSearch": 1,
 			"searchable": 1
 		},{
-			"key": "csp_QQ",
-			"name": " 🍅腾讯视频",
-			"type": 3,
-			"api": "csp_QQ",
-			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E8%85%BE%E8%AE%AF.txt"
-		},
-		{
 			"key": "csp_IQIYI",
-			"name": "🥝爱奇艺",
+			"name": "🥝爱奇艺(官)",
 			"type": 3,
 			"api": "csp_IQIYI",
-			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E7%88%B1%E5%A5%87%E8%89%BA.txt"
-		},
-		{
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		}, {
+			"key": "csp_QQ",
+			"name": "🐧腾讯(官)",
+			"type": 3,
+			"api": "csp_QQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		}, {
 			"key": "csp_MGTV",
-			"name": "🍋芒果TV",
+			"name": "🥭芒果(官)",
 			"type": 3,
 			"api": "csp_MGTV",
-			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E8%8A%92%E6%9E%9C.txt"
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
 		},{
 			"key": "youku",
 			"name": "👑优酷(官)",
