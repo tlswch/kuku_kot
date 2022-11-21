@@ -1,5 +1,12 @@
 {
-    "urls":[
+    "urls":[{
+                "url":"https://www.xueximeng.com/tvbox/%F0%9F%8C%B8%E8%B6%85%E7%BA%A7%E4%BB%93%E5%BA%93.json",
+                "name":"🌸超级线路"
+        },
+        {
+                "url":"https://www.xueximeng.com/tvbox/%F0%9F%A6%86%E7%B2%BE%E5%93%81%E4%BB%93%E5%BA%93.json",
+                "name":"🌸精品线路"
+        },
         {
                 "url":"https://agit.ai/hu/hcr/raw/branch/master/930.txt",
                 "name":"线路1"
@@ -7,10 +14,6 @@
         {
                 "url":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt",
                 "name":"线路2"
-        },
-        {
-                "url":"https://www.xueximeng.com/tvbox/tvbox.json",
-                "name":"线路3"
         },
         {
                 "url":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00315.txt",
