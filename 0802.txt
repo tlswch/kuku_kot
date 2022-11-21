@@ -121,16 +121,17 @@
 	"quickSearch": 1,
 	"searchable": 1,
 	"ext": "https://api-tx.shumaxc.xyz"
-}, {
-	"key": "Tutu_spider",
-	"name": "图图影视",
-	"api": "csp_TutuYs",
-	"type": 3,
-	"filterable": 1,
-	"quickSearch": 1,
-	"searchable": 1,
-	"ext": "http://45.207.11.9:6618"
-}, {
+},  {
+			"key": "csp_AppTT",
+			"name": "🖼图图影视",
+			"type": 3,
+			"api": "csp_AppTT",
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar":"https://agit.ai/kuku/kot/src/branch/master/jar/qj1115.jar;md5;536fa865c4502be4907a2c6759373de8"
+		},  {
 	        "key": "csp_ZJMiao",
 	        "name": "🐱追剧喵",
 	        "type": 3,
