@@ -120,7 +120,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar":"http://maoyingshi.cc/tvbox/云星日记/jar/1104.jpg;md5;cfd37febf4e6ae415de48355a9431550"
+			"jar":"https://agit.ai/kuku/kot/src/branch/master/jar/qj1115.jar;md5;536fa865c4502be4907a2c6759373de8"
 		},  {
 	        "key": "csp_ZJMiao",
 	        "name": "🐱追剧喵",
