@@ -55,7 +55,30 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, 		{
+		}, 		
+		{
+	"key": "csp_xpath_球迷直播",
+	"name": "世界杯直播",
+	"type": 3,
+	"api": "csp_XPath",
+	"searchable": 0,
+	"quickSearch": 0,
+	"filterable": 0,
+	"ext": "https://download.kstore.space/download/2883/JRKAN%E7%9B%B4%E6%92%AD.json",
+	"jar": "https://download.kstore.space/download/2883/panda1122.jar;md5;BA8452F160ACC87B1D10581F622591A1"
+},  {
+	"key": "YQK_spider",
+	"name": "一起看TV",
+	"api": "csp_YQKAPP",
+	"type": 3,
+	"filterable": 1,
+	"playerType": 2,
+	"quickSearch": 1,
+	"searchable": 1,
+	"ext": "https://api-tx.shumaxc.xyz",
+	"jar": "https://download.kstore.space/download/2883/1121qpy.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"
+}, 
+		{
 			"key": "csp_B站",
 			"name": "👨‍👩‍👦‍👦曲苑杂坛(SP)",
 			"type": 3,
