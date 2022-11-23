@@ -144,7 +144,27 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"jar":"https://agit.ai/kuku/kot/src/branch/master/jar/qj1115.jar;md5;536fa865c4502be4907a2c6759373de8"
-		},  {
+		}, 
+		{
+	"key": "mtv_XBPQ_追剧兔",
+	"name": "切片┃☛追剧兔☚",
+	"type": 3,
+	"api": "csp_xBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://agit.ai/LanMo/Mo/raw/branch/master/xBPQ/追剧兔.json"
+}, {
+	"key": "mtv_XBPQ_剧白白",
+	"name": "切片┃☛剧白白☚",
+	"type": 3,
+	"api": "csp_xBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://agit.ai/LanMo/Mo/raw/branch/master/xBPQ/剧白白.json"
+}, {
+		{
 	        "key": "csp_ZJMiao",
 	        "name": "🐱追剧喵",
 	        "type": 3,
