@@ -48,6 +48,8 @@
 			"filterable": 1,
 			"ext": "https://agit.ai/kuku/kot/raw/branch/master/MeoXB/bilibili.json"
 		},
+		{"key":"mtv_XBPQ_追剧兔","name":"切片┃☛追剧兔☚","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/LanMo/Mo/raw/branch/master/xBPQ/追剧兔.json"},
+		{"key":"mtv_XBPQ_剧白白","name":"切片┃☛剧白白☚","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/LanMo/Mo/raw/branch/master/xBPQ/剧白白.json"},
 		{
 			"key": "csp_BBB哔哩",
 			"name": "🅱哔哩套餐(SP)",
