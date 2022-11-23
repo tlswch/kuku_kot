@@ -143,7 +143,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar":"https://agit.ai/kuku/kot/src/branch/master/jar/qj1115.jar;md5;536fa865c4502be4907a2c6759373de8"
+			"jar":"http://w.g9.pub:66/381203888/jar/content_1668931404876.jar;md5;cfa8b6dee6f44dd7ee4e135935b70f11"
 		}, 
 		{
 	"key": "mtv_XBPQ_追剧兔",
