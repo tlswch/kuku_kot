@@ -163,7 +163,7 @@
 	"quickSearch": 1,
 	"filterable": 1,
 	"ext": "https://agit.ai/LanMo/Mo/raw/branch/master/xBPQ/剧白白.json"
-}, {
+}, 
 		{
 	        "key": "csp_ZJMiao",
 	        "name": "🐱追剧喵",
