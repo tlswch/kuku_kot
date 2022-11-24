@@ -11,16 +11,16 @@
 "线路数组":"#lines-&&</li>",
 "线路标题":"true\">&&<",	
 "播放数组":"<ul class=\"playlist column&&</ul>",
-"搜索url":"https://www.zjtu.cc/label/rank/",
+"搜索url":"https://www.zjtu.cc/vodsearch.html?wd=",
 "搜索模式":"1",
 "搜索二次截取":"",
 "搜索数组":"<a&&</a>",
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接":"href=\"&&\"",
-"搜索链接前缀":"https://www.zjtu.cc/label/rank/",		
+"搜索链接前缀":"https://www.jubaibaia.com",		
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://www.zjtu.cc/label/rank/",
+"分类url":"https://www.zjtu.cc/s/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
 "筛选":
 {
 "1":[
