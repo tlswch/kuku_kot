@@ -146,6 +146,16 @@
 			"jar":"http://w.g9.pub:66/381203888/jar/content_1668931404876.jar;md5;cfa8b6dee6f44dd7ee4e135935b70f11"
 		}, 
 		{
+	"key": "mtv_XBPQ_好看视频",
+	"name": "切片┃☛好看视频☚",
+	"type": 3,
+	"api": "csp_xBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://agit.ai/kuku/kot/raw/branch/master/jar/haokan.json"
+},
+		{
 	"key": "mtv_XBPQ_追剧兔",
 	"name": "切片┃☛追剧兔☚",
 	"type": 3,
