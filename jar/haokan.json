@@ -1,7 +1,7 @@
 {
 "作者":"kuku",
 "站名":"好看视频",
-"主页url":"https://haokan.baidu.com/tab/yingshi_new",
+"主页url":"https://haokan.baidu.com/tab/projection_hall?sfrom=yinyue_new",
 "免嗅":"1",
 "导演":"导演：&&</p",
 "主演":"主演：&&</p",
@@ -20,7 +20,7 @@
 "搜索链接":"href=\"&&\"",
 "搜索链接前缀":"https://haokan.baidu.com/",		
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://haokan.baidu.com/tab/yinyue_new?sfrom=yingshi_new/s/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+"分类url":"https://haokan.baidu.com/tab/projection_hall?sfrom=yinyue_new/s/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
 "筛选":
 {
 "1":[
