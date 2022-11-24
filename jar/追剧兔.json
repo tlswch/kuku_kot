@@ -1,7 +1,7 @@
 {
 "作者":"kuku",
 "站名":"追剧兔",
-"主页url":"https://www.zjtu.cc",
+"主页url":"https://www.zjtu.cc/",
 "免嗅":"1",
 "导演":"导演：&&</p",
 "主演":"主演：&&</p",
@@ -18,9 +18,9 @@
 "搜索图片":"data-original=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接":"href=\"&&\"",
-"搜索链接前缀":"https://www.zjtu.cc",		
+"搜索链接前缀":"https://www.zjtu.cc/label/rank/",		
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"https://www.zjtu.cc/vodshow/1-----------/",
+"分类url":"https://www.zjtu.cc/label/rank/",
 "筛选":
 {
 "1":[
