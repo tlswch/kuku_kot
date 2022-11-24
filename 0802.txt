@@ -163,7 +163,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "https://agit.ai/LanMo/Mo/raw/branch/master/xBPQ/追剧兔.json"
+	"ext": "https://agit.ai/kuku/kot/raw/branch/master/jar/%E8%BF%BD%E5%89%A7%E5%85%94.json"
 }, {
 	"key": "mtv_XBPQ_剧白白",
 	"name": "切片┃☛剧白白☚",
