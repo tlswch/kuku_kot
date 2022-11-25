@@ -57,16 +57,16 @@
 			"filterable": 1
 		}, 		
 		{
-	"key": "csp_xpath_球迷直播",
-	"name": "世界杯直播",
-	"type": 3,
-	"api": "csp_XPath",
-	"searchable": 0,
-	"quickSearch": 0,
-	"filterable": 0,
-	"ext": "https://download.kstore.space/download/2883/JRKAN%E7%9B%B4%E6%92%AD.json",
-	"jar": "https://download.kstore.space/download/2883/panda1122.jar;md5;BA8452F160ACC87B1D10581F622591A1"
-},  {
+      "key": "csp_XYQ_lu1",
+      "name": "️🖥️电视直播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/kuku/kot/src/branch/master/zhibo.json"
+    },
+	  {
 	"key": "YQK_spider",
 	"name": "一起看TV",
 	"api": "csp_YQKAPP",
