@@ -64,7 +64,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/kuku/kot/src/branch/master/zhibo.json"
+      "ext": "https://agit.ai/kuku/kot/src/branch/master/zhibo.json",
+	  "jar": "https://agit.ai/kuku/kot/src/branch/master/jar/duotv.jar;md5;6BF2FCBE50B975602B069C8E54AA938F"
     },
 	  {
 	"key": "YQK_spider",
