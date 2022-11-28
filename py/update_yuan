@@ -9,8 +9,12 @@
             "name": "💖巧技主线路"
         },
         {
+            "url": "http://rl1eetffv.bkt.clouddn.com/tvbox.json",    
+            "name": "💖巧技备用线路1"
+        },
+        {
             "url": "https://agit.ai/kuku/kot/raw/branch/master/py/qiaoji.json",    
-            "name": "💖巧技备用线路"
+            "name": "💖巧技备用线路2"
         },
         {
             "url": "https://gitlab.com/duomv/duo/-/raw/main/m.json",    
