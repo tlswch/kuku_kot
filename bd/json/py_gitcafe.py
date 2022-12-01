@@ -66,7 +66,7 @@ class Spider(Spider):
 					videos.append({
 						"vod_id":"https://www.aliyundrive.com/s/" + vod['key'],
 						"vod_name":vod['title'],
-						"vod_pic":'https://txc.gtimg.com/data/375895/2022/0214/d6b96cc3799b6417d30e4715d2973f64.png',
+						"vod_pic":'https://tuapi.eees.cc/api.php?category=meinv&type=302',
 						"vod_remarks":''
 					})
 		result['list']=videos
@@ -87,7 +87,7 @@ class Spider(Spider):
 			videos.append({
 				"vod_id": 'https://www.aliyundrive.com/s/'+vod["key"],
 				"vod_name": vod["title"],
-				"vod_pic": "https://txc.gtimg.com/data/375895/2022/0214/d6b96cc3799b6417d30e4715d2973f64.png",
+				"vod_pic": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
 				"vod_remarks": vod['cat']
 			})
 		result['list'] = videos
@@ -112,7 +112,7 @@ class Spider(Spider):
 			videos.append({
 				"vod_id": 'https://www.aliyundrive.com/s/'+vod["key"],
 				"vod_name": vod["title"],
-				"vod_pic": "https://txc.gtimg.com/data/375895/2022/0214/d6b96cc3799b6417d30e4715d2973f64.png",
+				"vod_pic": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
 				"vod_remarks": vod['cat']
 			})
 		result = {
