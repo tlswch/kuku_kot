@@ -68,6 +68,16 @@
       "ext": "https://agit.ai/kuku/kot/raw/branch/master/zhibo.json",
 	  "jar": "https://agit.ai/kuku/kot/raw/branch/master/jar/duotv.jar;md5;6BF2FCBE50B975602B069C8E54AA938F"
     },
+	 {"key": "csp_XYQ_lu1",
+"name": "️🍋柠檬电视┃直播",
+"type": 3,
+"api": "csp_XYQHiker",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://agit.ai/66666/yueg/raw/branch/master/柠檬TV.json"
+},
+{"key":"csp_xBPQ_dszb","name":"📺电视直播","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.ga/x/xbpq/电视直播.json"},
 	  {
 	"key": "YQK_spider",
 	"name": "一起看TV",
