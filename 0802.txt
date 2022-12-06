@@ -165,18 +165,6 @@
 	"filterable": 1,
 	"ext": "http://121.205.88.126:7788"
 },
-//{
-			"key": "csp_AppTT",
-			"name": "🖼图图影视",
-			"type": 3,
-			"api": "csp_AppTT",
-			"playerType": 1,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://110.42.6.212:7788",
-			"jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/duovv.jar;md5;e80798750eca57470f29d1942bce39bb"
-		}, 
 		{"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/nmys.json"},
 		{"key":"csp_Smdyy","name": "🐴神马┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key":"teng","name":"🐧小腾┃SP","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
