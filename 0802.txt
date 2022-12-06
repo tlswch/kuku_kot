@@ -167,55 +167,36 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
-			"key": "csp_CZSPP",
-			"name": "🏭厂长资源",
-			"type": 3,
-			"api": "csp_Czsapp",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-	"key": "csp_AppTT",
-	"name": "🆗图图影视（SP）",
-	"type": 3,
-	"api": "csp_AppTT",
-	"playerType": 2,
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "http://121.205.88.126:7788"
-},
+		}, 
+		{"key": "抖音小姐姐","name": "💃抖音小姐姐", "type": 4,"api": "http://120.53.102.254/xjj","searchable": 1,"quickSearch": 0,"filterable": 1 },
+{"key": "T4直播转点播","name": "📺T4直播转点播","type": 4,"api": "http://120.53.102.254/live?url=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA==","searchable": 1,"quickSearch": 1,"filterable": 1 },
+{"key": "MV大全","name": "💽MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},        
+{"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/演唱会.php"},
+{"key":"csp_Sp_哗哩合集","name":"🅱️哔哩┃哗哩二集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "https://notabug.org/qizhen15800/My9394/raw/master/json/哔哩合集T2.php"},
 		{"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/nmys.json"},
 		{"key":"csp_Smdyy","name": "🐴神马┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key":"teng","name":"🐧小腾┃SP","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
 		{"key":"csp_Jianying1","name":"🎞简影影视（SP）","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozOTUxMCwiQ3JlYXRlZEF0IjoiMjAyMi0xMi0wMVQxMTozMjozNi4yMzcrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTEyLTAxVDExOjMyOjM2LjIzNyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjQxNzY0OTA4QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjFlODRhOTYyLWExNjItNGE4NC1iOGQ3LWI0MDI4MTdjM2QzZCIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjcwNjc2MzEwLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.C9fJHBEs5ZFnd6bWM6Qd7NHcY8EAquQL-gfMSQBt8u0"},
+		{"key":"csp_xBPQ_98影院","name":"🍀98影院（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}"},
 		{"key":"mtv_pc_Zjdr","name":"📦追剧|SP","type":3,"api":"csp_Zjdr"          ,"searchable":1,"quickSearch":1,"filterable":1, "jar": "http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC"},
 {"key":"csp_fant","name":"🍙饭团┃SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
 {"key":"Voflix","name":"🦊茶杯狐","type":3,"api":"csp_Voflix","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-
-{"key":"mtv_XBPQ_追剧兔","name":"🐰追剧兔","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/mao/raw/branch/master/json/追剧T.json"},
 {"key":"csp_Bttoo","name":"✌2BT┃SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_GitCafe","name":"📜纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":""},
 {"key":"csp_Czsapp","name":"📔厂长┃SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://rl1eetffv.bkt.clouddn.com/tutu1125.jar;md5;0625422b0f75c1a69705c7d30eded6999"},
 {"key":"csp_Ysgc","name":"🏭工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan" ,"name":"⏮️低端┃SP","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_apple","name":"🍎苹果┃SP","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_77","name":"👒七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"📕Cok┃SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"❤️双十┃SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_zxzj","name":"📗在线┃SP","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_ny","name":"🐮念影┃SP","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"💥bidi┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"🗽南柯┃SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://神器每日推送.tk/vod;md5; DADE92771F9A2E0F5EB89D62B6CA3232"},
 {"key":"csp_Lib","name": "🎉Lib┃SP","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Auete","name":"🏝Aue┃SP","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name": "🔃天空┃SP","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Lezhu","name":"🐷乐猪┃SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Xxys","name":"🐻小熊┃SP","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_555","name":"5️⃣️555┃SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"📺360┃SP","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"teng","name":"🐧小腾┃SP","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"ai","name":"🐨爱奇┃SP","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
@@ -255,17 +236,7 @@
 	        "searchable": 1,
 	        "quickSearch": 1,
 	        "filterable": 1
-       },  {
-	        "key": "csp_xml_搬运工",
-	        "name": "🐝搬运工资源",
-	        "type": 1,
-	        "api": "https://cj.banyung.xyz/",
-	        "playUrl": "",
-	        "searchable": 1,
-	        "quickSearch": 1,
-	        "filterable": 0,
-	        "categories": ["综艺", "动漫", "纪录", "动作片", "喜剧片", "爱情片", "科幻片", "剧情片", "悬疑片", "惊悚片", "恐怖片", "犯罪片", "冒险片", "奇幻片", "灾难片", "战争片", "动画片", "歌舞片", "历史片", "传记片", "其他片", "国产剧", "港台剧", "日韩剧", "欧美剧", "海外剧", "其他剧"]
-       },  {
+       },    {
 			"key": "Lezhu_spider",
 			"name": "🐷乐猪影视",
 			"api": "csp_Lezhu",
@@ -281,15 +252,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		}, {
-			"key": "mjxq_spider",
-			"name": "🌏美剧星球",
-			"type": 3,
-			"api": "csp_Mjxq",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
+		},{
 			"key": "csp_dd5555",
 			"name": "🎖555 影视",
 			"api": "csp_Dy555",
@@ -314,14 +277,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		}, {
-			"key": "csp_NianYing",
-			"name": "🐮NBhut",
-			"type": 3,
-			"api": "csp_Nianying",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
 			"key": "小苹果",
 			"name": "🍎小苹果",
 			"type": 3,
@@ -338,22 +293,6 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"ext": ""
-		}, {
-			"key": "追剧喵",
-			"name": "🐱追剧喵",
-			"type": 3,
-			"api": "csp_ZJMiao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		}, {
-			"key": "小熊",
-			"name": "🐨小熊TV",
-			"type": 3,
-			"api": "csp_Xxys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		}, {
 			"key": "csp_Cokemv",
 			"name": "🎀Cokemv",
