@@ -98,6 +98,20 @@
             "api" : "https://agit.ai/kuku/kot/raw/branch/master/drpy/M.js",
             "ext" : "https://agit.ai/kuku/kot/raw/branch/master/drpy/J.json"
         },
+		{
+            "key" : "drpy_js_看一看影视",
+            "name" : "看一看影视",
+            "type" : 3,
+            "api" : "https://agit.ai/kuku/kot/raw/branch/master/drpy/M.js",
+            "ext" : "https://agit.ai/heroaku/TVboxo/raw/branch/main/Js/%e7%9c%8b%e4%b8%80%e7%9c%8b%e5%bd%b1%e8%a7%86.js"
+        },
+		{
+            "key" : "drpy_js_18av",
+            "name" : "18A",
+            "type" : 3,
+            "api" : "https://agit.ai/kuku/kot/raw/branch/master/drpy/M.js",
+            "ext" : "https://agit.ai/heroaku/TVboxo/src/branch/main/Js/18av.js"
+        },
 		{"key":"csp_SP293","name":" 🚀293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/293.jar;md5;E7DC9DEDDBAD6457AEC946B7EFE8F483"},
 {"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 	{
