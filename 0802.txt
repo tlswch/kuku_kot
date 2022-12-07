@@ -1,5 +1,6 @@
 {
-	"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/666666xo27.jar;md5;E80798750ECA57470F29D1942BCE39BB",
+	"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/xo05.png;md5;7346E48AC1675EA2F11FA4024456F369",
+	//"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/666666xo27.jar;md5;E80798750ECA57470F29D1942BCE39BB",
 	//"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/1013.jar;md5;4530F349123DF83987FBD55BF166685C",
 	"rules": [{
 			"host": "*",
