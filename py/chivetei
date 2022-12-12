@@ -2,7 +2,11 @@
     "urls": [
         {
             "url": "https://notabug.org/kuzniez/kot/raw/master/ddkk.json",    
-            "name": "💖ddkk线路"
+            "name": "💖ddkk json"
+        },
+        {
+            "url": "https://notabug.org/kuzniez/kot/raw/master/ddkk.txt",    
+            "name": "💖ddkk txt"
         },
         {
             "url": "http://52bsj.vip:81/api/v3/file/get/53298/shuangbo.json?sign=XBqlHHmUDZNVGxlAYJIpr8omJDi-xwcUAsZUn2Jha7k%3D%3A0",    
