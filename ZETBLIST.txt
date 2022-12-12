@@ -597,11 +597,13 @@ CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 МИР,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 МИР24,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 Салям,https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+Афонтово,http://xstream.afontovo.ru/afontovo_ya.m3u8
 Астрахань 24,http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
 Астрахань 24,http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdhigh.m3u8
 Астрахань 24,http://astrakhan24.mediacdn.ru/cdn/astrakhan24/playlist_hdlow.m3u8
 Астрахань 24,http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
 Астрахань,http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+Астрахань 24,https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 Губерния,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
 ГубСамара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8       
 ГубВладими,http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
