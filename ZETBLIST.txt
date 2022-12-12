@@ -816,6 +816,7 @@ OVAA TV,http://tv.tuva.ru/ovaa/index.m3u8
 АЛМАЗ,https://stream.almaz-media.tv:8080/hls/576.m3u8
 АЛМАЗ,https://stream.almaz-media.tv:8080/hls/720.m3u8
 9 volna,http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+9 volna,http://cdn-01.bonus-tv.ru:8080/9volna/playlist.m3u8
 9 volna,http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 Саратов 24,http://saratov24.tv:80/online/playlist.php
 СТРК Сочи,http://sochi-strk.ru:2015/STRK/mpegts
@@ -830,6 +831,7 @@ live-saha,http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 ТУГАН,http://92.46.127.146:8080/TuranTV-L3-TRANS/index.m3u8
 Ямал-Регион,http://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregion_mc.smil/playlist.m3u8
 САМПО karelia 360,http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
+360,https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 BCT,http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
 Махачкала,https://dagestan.mediacdn.ru/cdn/dagestan/playlist_sdmid.m3u8
 Махачкала,https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
