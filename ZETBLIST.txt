@@ -551,19 +551,24 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 МОСКВА-24,http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
 САНКТ ПЕТЕРБУРГ,https://radio-live-mg.rtr-vesti.ru/hls2/ext_spbtv/playlist_5.m3u8
 ТВЦ,http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
-RT,https://hls.rt.com/hls/rtdru.m3u8
-RT,https://hls.rt.com/hls/rtdru360.m3u8
+RT Doc,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+RT Doc,https://hls.rt.com/hls/rtdru.m3u8
+RT Doc,https://hls.rt.com/hls/rtdru360.m3u8
+RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+RT News,https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 11 канал Пенза,http://85.234.33.64/stream/c11.m3u8
 РНК，http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 ЕНИСЕЙ,http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+Ростов-папа,http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 ПРИМА КРАСНОЯРСК,http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1024x576@1272/playlist.m3u8
 ПРИМА КРАСНОЯРСК, http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+ПРИМА КРАСНОЯРСК,https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 ТВК 24 Красноярск,http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 ТВК 24 Красноярск,https://air.tvk6.ru/tvk24/index.m3u8
 Север Нарьян-Мар,http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
-Ростов-папа,http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+Нижний Новгород 24,https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 НТВ,https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
 НТВ,https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair003_hd.smil/playlist.m3u8
 НТВМ,https://sc.id-tv.kz:443/NTV_34_35.m3u8
@@ -574,8 +579,12 @@ CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 РАТНИК,http://live-ratnik.cdnvideo.ru/ratnik/ratnik2.sdp/playlist.m3u8
 РАТНИК,http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 Рязань,http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+Тивиком Улан-Удэ,http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
 НИКА,http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+НИКА,https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 НИКИ,http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
+Надежда,https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+Надежда,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 ВОЛГА,http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1024x576@1272/playlist.m3u8
 ВОЛГА,http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 ВОЛГА 24,http://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
@@ -585,19 +594,27 @@ CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 Яросл1,http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdlow.m3u8
 Яросл1,http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 Яросл1,http://origin5.mediacdn.ru/live/yaroslavskii/index.m3u8
+Яросл,http://www.gtk.tv/hls/gtyar.m3u8
 КРЫМ-1,http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
 КРЫМ-1,http://mr2live.1tvcrimea.ru:8080/1tvcrimea.m3u8
 КРЫМ-24,http://185.205.239.26:8081/show/crimea24test/playlist.m3u8
 КРЫМ-24,http://live.1tvcrimea.ru:8080/switcher.m3u8
 КРЫМ-24,http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+К16 Саров,http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 САРАТОВ 24,http://109.248.11.19:8081/web/c24/playlist.m3u8
 САРАТОВ 24,http://saratov24.tv:80/online/playlist.php
+МИР,https://sc.id-tv.kz/Mir.m3u8
 МИР,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-МИР,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 МИР,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+МИР,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+МИР,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+МИР,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 МИР24,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+МИР24,https://sc.id-tv.kz/Mir24.m3u8
 Салям,https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 Афонтово,http://xstream.afontovo.ru/afontovo_ya.m3u8
+Татарстан24,http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
+Астрахань,http://streaming.astrakhan.ru/telplushd/playlist.m3u8
 Астрахань 24,http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
 Астрахань 24,http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdhigh.m3u8
 Астрахань 24,http://astrakhan24.mediacdn.ru/cdn/astrakhan24/playlist_hdlow.m3u8
@@ -607,6 +624,7 @@ CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 Губерния,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
 ГубСамара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8       
 ГубВладими,http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
+ГубВладими,https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 ГубВоронеж,http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
 ГубХабаровск,https://media1.gubernia.com/hls/live.m3u8 
 ГУББрянская,http://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
@@ -616,14 +634,18 @@ CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 Междуреченск,http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 Кузбасс1,http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
 Кузбасс1,http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
-Кузбасс1,https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
+Кузбасс1,https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8     
 Кузбасс1,http://kuzbass1.ru:8082/10kanal/k24/playlist.m3u8
 ЛУГАНСК 24,https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
-ОПЛОТ,http://31.133.57.158/hls/1234.m3u8http://ott.inmart.tv:8081/54/index.m3u8
+ОПЛОТ,http://31.133.57.158/hls/1234.m3u8
+ОПЛОТ,http://ott.inmart.tv:8081/54/index.m3u8
 ОПЛОТ 2,http://ott.inmart.tv:8081/17/index.m3u8
+Первый республиканский,http://ott.inmart.tv:8081/18/index.m3u8
+Каббала ТВ,https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
 ДОНЕЦК,http://ott.inmart.tv:8081/18/index.m3u8
 НОВОРОССИЯ,http://ott.inmart.tv:8081/19/index.m3u8
 КАВКАЗ_24,,https://radio-live-mg.rtr-vesti.ru/hls2/kavkaz_24/playlist_3.m3u8
+Новый мир,http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 Тюменское время,http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 Тюменское время,http://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 Тюменское время,https://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
@@ -631,9 +653,10 @@ CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 Липецкое время,http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 ИЗВЕСТИЯ ПАНОРАМА,http://stream.fastlnk.ru:88/Panorama_TV/index.m3u8
 ИЗВЕСТИЯ ПАНОРАМА,http://stream.fastlnk.ru:88/Panorama_TV_HD/index.m3u8
-ЕВРАКАЗ,https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
-ЕВРАКАЗ,http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-ЕВРАКАЗ,https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+Евразия,https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
+Евразия,http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+Евразия,https://sc.id-tv.kz/1KanalEvraziya.m3u8
+Евразия,https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 ЛЕН ТВ 24,http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1920x1080@4504/playlist.m3u8
 ЛЕН ТВ 24,http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playlist.m3u8
 ЛЕН ТВ 24,https://radio-live-mg.rtr-vesti.ru/hls2/lentv24/playlist_5.m3u8
@@ -669,6 +692,7 @@ Akudji TV,http://hlss.goodgame.ru/hls/5346.m3u8
 СОЛОВЬЁВ,https://radio-live-mg.rtr-vesti.ru/hls/solovievlive/playlist.m3u8
 Королев,http://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
 ВИКТОР,https://live.vektor-tv.ru/live/stream.m3u8
+НТМ Мордовии,https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 МОЛДОВА 24,https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/chunklist.m3u8
 МОЛДОВА 24,https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
 МОЛДОВА 24,http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
@@ -676,8 +700,10 @@ Akudji TV,http://hlss.goodgame.ru/hls/5346.m3u8
 МОЛДОВА Publika,http://livebeta.publika.md/LIVE/P/1500.m3u8
 HTM МОЛДОВА,http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 НТМ МОЛДОВА,http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
+НТС (Севастополь),https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 ДАГЕСТАН,http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 ДАГЕСТАН,https://dagestan.mediacdn.ru/cdn/dagestan/playlist_sdmid.m3u8
+ДАГЕСТАН,https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 ДАГЕСТАН,http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
 ДАГЕСТАН,http://origin5.mediacdn.ru/live/dagestan/index.m3u8
 Прибой ДАГЕСТАН,http://185.78.112.46:8077/priboy_tv/index.m3u8
@@ -697,8 +723,10 @@ LOVE Nature,http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 леной усаиновой,http://edge-01-pub.persik.by:82/live/Ch361pub/index.m3u8
 ПОБЕДА,https://pkvc-hls4.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
 ПОБЕДА,https://sc.id-tv.kz/Pobeda_34_35.m3u8.m3u
+ПОБЕДА,https://sc.id-tv.kz/Pobeda.m3u8
 Поехали,https://sc.id-tv.kz:443/poehali_34_35.m3u8
 Поехали,https://sc.id-tv.kz/poehali_34_35.m3u8
+Поехали,https://sc.id-tv.kz/poehali.m3u8
 Моя Планета,https://sc.id-tv.kz:443/MoyaPlaneta_34_35.m3u8
 Моя Планета,https://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
 ЕДА,https://sc.id-tv.kz/EdaHD_34_35.m3u8
@@ -751,6 +779,8 @@ ESILNET,http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 31 канал,https://sc.id-tv.kz/31Kanal.m3u8
 ТРКМИЛЛЕТ,http://live.trkmillet.ru/millet/index.m3u8
 Хузур,http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+Тамыр,https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+Матур ТВ,https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 канал 4,http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 канал 8,http://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 канал Владивосток 8,https://livestream.8kanal.tv/hls/livestream_high.m3u8
@@ -765,10 +795,11 @@ ESILNET,http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 канал 86,http://sitv.ru/hls/s861024.m3u8
 СТВ Севастополь,http://stv92-live.cdnvideo.ru/stv92/stv92/playlist.m3u8
 ИКС Севастополь,http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
-С 86 Сургут,https://sitv.ru/hls/s86.m3u8
+Сургут 86,https://sitv.ru/hls/s86.m3u8
 Сургут 1,https://sitv.ru/hls/stv.m3u8
 Сургут 24,http://video1.in-news.ru/c24/index.m3u8
 БСТ24 Братск,https://bst.bratsk.ru/hls/bst2/index.m3u8
+БСТ,https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 ТРК 555 Алушта,http://trk555.tv:8888/live
 НижНовг24,http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 Ростовский1,http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_480/playlist.m3u8
@@ -806,6 +837,9 @@ ESILNET,http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 ТАМБОВ,http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1024x576@1200/playlist.m3u8
 ТАМБОВ,http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 SVERDENOV 24,http://live.sgdf24.cdnvideo.ru/sgdf24/sgdf24.sdp/chunklist.m3u8
+Кварц,https://video.quartztelecom.ru:18080/hls/2386168/71fe656b993c510f39a5/playlist.m3u8
+ЮГРА,http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+ЮГРА,http://live.ugratv.cdnvideo.ru/ugratv/stream1_hq/chunklist.m3u8
 АИСТ,http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 Арис 24,http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 Аист Иркутск,http://141.101.205.134:8080/hls/tvaist.m3u8
@@ -822,6 +856,7 @@ OVAA TV,http://tv.tuva.ru/ovaa/index.m3u8
 9 volna,http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 Саратов 24,http://saratov24.tv:80/online/playlist.php
 СТРК Сочи,http://sochi-strk.ru:2015/STRK/mpegts
+СТРК Сочи,http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 Сочи 24 HD,http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
 ЯКУТИЯ 24,http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
 ЯМАЛ,http://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregion_mc/chunklist.m3u8
@@ -842,8 +877,10 @@ BCT,http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
 Башкортостан 24,http://live.gtrk.tv/hls/b24-hls.m3u8
 САМАРА ГИС,http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
 Волжский,http://flussonic.powernet.com.ru:8080/volplus/tracks-v2a1/index.m3u8
-МИРБЕЛОГРЬЯ,http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8
-ЮГРА,http://live.ugratv.cdnvideo.ru/ugratv/stream1_hq/chunklist.m3u8
+МИРБЕЛОГРЬЯ,http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+МИРБЕЛОГРЬЯ,http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+МИРБЕЛОГРЬЯ,http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8
+Эхо TV,https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 ИРЫСТОН ОСЕТИЯ,http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 R TV,https://e10-ll.facecast.net/rtv/1.m3u8
 R TV,https://e10-ll.facecast.net/rtv/0.m3u8
@@ -858,6 +895,7 @@ R TV,https://e10-ll.facecast.net/rtv/0.m3u8
 ТОЧКА,http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 КРИК,http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 КРИК,http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
+Курай,https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 ВРЕМЯ,https://pkvc-hls4.cdnvideo.ru/Vremya/smil:Vremya.smil/chunklist_b3128000_slru.m3u8
 ВРЕМЯ,https://sc.id-tv.kz:443/Vremya_36_37.m3u8
 КОГАЛЫМ,https://kogalimtv.gcdn.co/streams/775_101/360n/index.m3u8
