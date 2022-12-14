@@ -18,7 +18,15 @@
         },
         {
             "url": "https://gitlab.com/duomv/duo/-/raw/main/m.json",    
-            "name": "💖多多线路"
+            "name": "💖多多M线路"
+        },
+        {
+            "url": "https://gitlab.com/duomv/duo/-/raw/main/t.json",    
+            "name": "💖多多T线路"
+        },
+        {
+            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",    
+            "name": "💖多多V线路"
         },
         {
             "url": "http://maoyingshi.cc/tvbox/星河软件园/1.m3u8",    
