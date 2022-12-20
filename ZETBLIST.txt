@@ -633,6 +633,11 @@ CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 НОВОРОССИЙСК,http://live-tvnovorossiysk.cdnvideo.ru/cdn/operators/playlist.m3u8
 Междуреченск,http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 Кузбасс1,http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
+360 Новости,https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+360 Новости,https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+Союз,http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+ПРЕМЬЕРА,https://autopilot.catcast.tv/content/39161/index.m3u8
+AKUDJI TV,http://hls.goodgame.ru/hls/5346.m3u8
 Кузбасс1,http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
 Кузбасс1,https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8     
 Кузбасс1,http://kuzbass1.ru:8082/10kanal/k24/playlist.m3u8
