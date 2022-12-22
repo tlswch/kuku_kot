@@ -422,7 +422,7 @@
 			"filterable": 1,
 			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_suliansd.py"
 		},  {
-			"key": "py_suliansd",
+			"key": "py_zhongguominge",
 			"name": "🌏中国民歌 py",
 			"type": 3,
 			"api": "py_zhongguominge",
