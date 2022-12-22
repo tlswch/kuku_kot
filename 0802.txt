@@ -425,7 +425,7 @@
 			"key": "py_suliansd",
 			"name": "🌏中国民歌 py",
 			"type": 3,
-			"api": "py_suliansd",
+			"api": "py_zhongguominge",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
