@@ -78,7 +78,7 @@
 "filterable": 0,
 "ext": "https://agit.ai/66666/yueg/raw/branch/master/柠檬TV.json"
 },
-{"key":"csp_xBPQ_dszb","name":"📺电视直播","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://饭太硬.ga/x/xbpq/电视直播.json"},
+{"key":"csp_xBPQ_dszb","name":"📺电视直播","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://9xi4o.tk/sub/mytv.txt"},
 	  {
 	"key": "YQK_spider",
 	"name": "一起看TV",
