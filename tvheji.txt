@@ -119,7 +119,7 @@
       "key": "zhibo17",
       "name": "🔥星星直播",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=https://download.kstore.space/download/2883/%E6%98%9F%E6%98%9F%E7%9B%B4%E6%92%AD.txt",
+      "api": "http://120.53.102.254/live?url=https://notabug.org/kuzniez/kot/src/master/xing/%E6%98%9F%E6%98%9F%E7%9B%B4%E6%92%AD.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
