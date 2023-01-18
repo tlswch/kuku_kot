@@ -1,0 +1,22 @@
+{
+"storeHouse": [
+{"sourceName":"kuku仓库","sourceUrl":"https://agit.ai/kuku/kot/raw/branch/master/py/update_yuan"},
+{"sourceName": "🧡安卓哥1号仓","sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"},
+{"sourceName": "🧡安卓哥2号仓","sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/1.txt"},
+{"sourceName": "🧡安卓哥3号仓","sourceUrl":"https://raw.fastgit.org/leevi0709/apps/main/3"},
+{"sourceName": "🧡安卓哥JS仓","sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/js_store"},
+{"sourceName": "🧡安卓哥PY仓","sourceUrl":"https://gitcode.net/wzlyd1/00/-/raw/master/py_store"},
+{"sourceName":"💚多多极速仓库","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/1.txt"},
+{"sourceName":"💛多多缓冲仓库","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/2.txt"},
+{"sourceName":"❤️多多大佬仓库","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/3.txt"},
+{"sourceName":"🥕多多预备仓库","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/4.txt"},
+{"sourceName":"🌙影视仓①","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/ysc/dc1.json"},
+{"sourceName":"🌙影视仓②","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/ysc/dc2.json"},
+{"sourceName":"🌙影视仓③","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/ysc/dc3.json"},
+{"sourceName":"🌙影视仓④","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/ysc/dc4.json"},
+{"sourceName":"🌙dd体验仓①","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/ysc/ddyingshcang1.txt"},
+{"sourceName":"🌙dd体验仓②","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/ysc/ddyingshcang2.txt"},
+{"sourceName":"🌙dd py资源库","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/ysc/PY%e4%bd%93%e9%aa%8c%e5%ba%93.txt"},
+{"sourceName":"🌙dd jar资源库","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/ysc/jar%e8%b5%84%e6%ba%90%e5%ba%93.txt"},
+{"sourceName":"🌙dd js资源库","sourceUrl":"https://notabug.org/kuzniez/kot/src/master/ysc/js%e4%bd%93%e9%aa%8c%e5%ba%93.txt"}
+]}
