@@ -18,5 +18,165 @@
 {"sourceName":"🌙dd体验仓②","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/ysc/ddyingshcang2.txt"},
 {"sourceName":"🌙dd py资源库","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/ysc/PY%e4%bd%93%e9%aa%8c%e5%ba%93.txt"},
 {"sourceName":"🌙dd jar资源库","sourceUrl":"https://notabug.org/kuzniez/kot/raw/master/ysc/jar%e8%b5%84%e6%ba%90%e5%ba%93.txt"},
-{"sourceName":"🌙dd js资源库","sourceUrl":"https://notabug.org/kuzniez/kot/src/master/ysc/js%e4%bd%93%e9%aa%8c%e5%ba%93.txt"}
+{"sourceName":"🌙dd js资源库","sourceUrl":"https://notabug.org/kuzniez/kot/src/master/ysc/js%e4%bd%93%e9%aa%8c%e5%ba%93.txt"},
+{
+		"sourceName": "派大星1号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/1.php?b=派大星"
+	}, {
+		"sourceName": "派大星2号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/2.php?b=派大星"
+	}, {
+		"sourceName": "派大星3号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/3.php?b=派大星"
+	}, {
+		"sourceName": "派大星4号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/4.php?b=派大星"
+	}, {
+		"sourceName": "派大星5号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/5.php?b=派大星"
+	}, {
+		"sourceName": "派大星6号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/6.php?b=派大星"
+	}, {
+		"sourceName": "派大星7号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/7.php?b=派大星"
+	}, {
+		"sourceName": "派大星8号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/8.php?b=派大星"
+	}, {
+		"sourceName": "派大星9号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/9.php?b=派大星"
+	}, {
+		"sourceName": "派大星10号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/10.php?b=派大星"
+	}, {
+		"sourceName": "派大星11号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/11.php?b=派大星"
+	}, {
+		"sourceName": "派大星12号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/12.php?b=派大星"
+	}, {
+		"sourceName": "派大星13号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/13.php?b=派大星"
+	}, {
+		"sourceName": "派大星14号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/14.php?b=派大星"
+	}, {
+		"sourceName": "派大星15号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/15.php?b=派大星"
+	}, {
+		"sourceName": "派大星16号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/16.php?b=派大星"
+	}, {
+		"sourceName": "派大星17号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/17.php?b=派大星"
+	}, {
+		"sourceName": "派大星18号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/18.php?b=派大星"
+	}, {
+		"sourceName": "派大星19号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/19.php?b=派大星"
+	}, {
+		"sourceName": "派大星20号仓库",
+		"sourceUrl": "http://tv.nxog.top/m/m/20.php?b=派大星"
+	},{
+		"sourceName": "🐉龙爪①号金库",
+		"sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58205/cku1.txt?sign=1FdBo3hZRTsTu_ox-yjRW6vI9Oozzqr0XEiOPDFWz3Q%3D%3A0"
+	}, {
+		"sourceName": "🐉龙爪②号金库",
+		"sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58206/cku2.txt?sign=ugGIX0D0j1-c7pI7MxMLa3jhim6osO4YGurEwnl2bn8%3D%3A0"
+	}, {
+		"sourceName": "🐉龙爪③号金库",
+		"sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58207/cku3.txt?sign=GpT5-g5Iwqs9faApi4Eeop0fXH1mY-6XZ1LbLrLBIkw%3D%3A0"
+	}, {
+		"sourceName": "🐉龙爪④号金库",
+		"sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58208/caku4.txt?sign=j7Izx7SwVYK34WdR3qpyc4tBeON7Ol-SkT80s_LlEy4%3D%3A0"
+	}, {
+		"sourceName": "🐉龙爪⑤号金库",
+		"sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58209/chku5.txt?sign=Qgnbplj1MEZDyO32--s045y4XsP-u6v-145ZHeNdHIs%3D%3A0"
+	}, {
+		"sourceName": "🐉龙爪⑥号金库",
+		"sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58210/cku6.txt?sign=np_n27UHRyN51epTKSiyTMCgYu6412231GC5SUIL38U%3D%3A0"
+	},
+{
+		"sourceName": "🌹欧歌主1仓库🌹",
+		"sourceUrl": "http://tv.nxog.top/nxog/ou.php?url=http://tv.nxog.top&b=欧歌"
+	}, {
+		"sourceName": "🌷欧歌备用1仓库🌷",
+		"sourceUrl": "http://1.nxog.top/nxog/ou.php?url=http://1.nxog.top&b=欧歌"
+	}, {
+		"sourceName": "💐欧歌备用2仓库💐",
+		"sourceUrl": "http://2.nxog.top/nxog/ou.php?url=http://2.nxog.top&b=欧歌"
+	}, {
+		"sourceName": "🌸欧歌备用3仓库🌸",
+		"sourceUrl": "http://3.nxog.top/nxog/ou.php?url=http://3.nxog.top&b=欧歌"
+	}, {
+		"sourceName": "🌼欧歌备用4仓库🌼",
+		"sourceUrl": "http://4.nxog.top/nxog/ou.php?url=http://4.nxog.top&b=欧歌"
+	}, {
+		"sourceName": "🌻欧歌备用5仓库🌻",
+		"sourceUrl": "http://5.nxog.top/nxog/ou.php?url=http://5.nxog.top&b=欧歌"
+	}, {
+		"sourceName": "☘️本地仓库1☘️",
+		"sourceUrl": "http://tv.nxog.top/nxog/bd.php?b=欧歌"
+	},
+    
+    {
+		"sourceName": "欧歌1号仓库",
+		"sourceUrl": "https://box.nxog.top/1"
+	}, {
+		"sourceName": "欧歌2号仓库",
+		"sourceUrl": "https://box.nxog.top/2"
+	}, {
+		"sourceName": "欧歌3号仓库",
+		"sourceUrl": "https://box.nxog.top/3"
+	}, {
+		"sourceName": "欧歌4号仓库",
+		"sourceUrl": "https://box.nxog.top/4"
+	}, {
+		"sourceName": "欧歌5号仓库",
+		"sourceUrl": "https://box.nxog.top/5"
+	}, {
+		"sourceName": "欧歌6号仓库",
+		"sourceUrl": "https://box.nxog.top/6"
+	}, {
+		"sourceName": "欧歌7号仓库",
+		"sourceUrl": "https://box.nxog.top/7"
+	}, {
+		"sourceName": "欧歌8号仓库",
+		"sourceUrl": "https://box.nxog.top/8"
+	}, {
+		"sourceName": "欧歌9号仓库",
+		"sourceUrl": "https://box.nxog.top/9"
+	}, {
+		"sourceName": "欧歌10号仓库",
+		"sourceUrl": "https://box.nxog.top/10"
+	}, {
+		"sourceName": "欧歌11号仓库",
+		"sourceUrl": "https://box.nxog.top/11"
+	}, {
+		"sourceName": "欧歌12号仓库",
+		"sourceUrl": "https://box.nxog.top/12"
+	}, {
+		"sourceName": "欧歌13号仓库",
+		"sourceUrl": "https://box.nxog.top/13"
+	}, {
+		"sourceName": "欧歌14号仓库",
+		"sourceUrl": "https://box.nxog.top/14"
+	}, {
+		"sourceName": "欧歌15号仓库",
+		"sourceUrl": "https://box.nxog.top/15"
+	}, {
+		"sourceName": "欧歌16号仓库",
+		"sourceUrl": "https://box.nxog.top/16"
+	}, {
+		"sourceName": "欧歌17号仓库",
+		"sourceUrl": "https://box.nxog.top/17"
+	}, {
+		"sourceName": "欧歌18号仓库",
+		"sourceUrl": "https://box.nxog.top/18"
+	}, {
+		"sourceName": "欧歌19号仓库",
+		"sourceUrl": "https://box.nxog.top/19"
+	}
 ]}
