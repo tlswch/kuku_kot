@@ -777,7 +777,7 @@
             "key" : "py_xuqu1",
             "name" : "戏曲专栏 py",
             "type" : 3,
-            "api" : "py_xuqu1",
+            "api" : "py_xuqu",
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
