@@ -432,7 +432,7 @@
 			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_zhongguominge.py"
 		}, {
         "key": "py_cctv_full",
-        "name": "央视大全",
+        "name": "央视大全 py",
         "type": 3,
         "api": "py_cctv_full",
         "searchable": 0,
@@ -775,7 +775,7 @@
             "ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_kunyu77.py"
         }, {
             "key" : "py_xuqu1",
-            "name" : "戏曲专栏",
+            "name" : "戏曲专栏 py",
             "type" : 3,
             "api" : "py_xuqu1",
             "searchable" : 1,
@@ -784,7 +784,7 @@
             "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_xuqu1.py"
         }, {
             "key" : "py_xiangsh",
-            "name" : "相声小品",
+            "name" : "相声小品 py",
             "type" : 3,
             "api" : "py_xiangsh",
             "searchable" : 1,
@@ -793,7 +793,7 @@
             "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_xiangsh.py"
         }, {
             "key" : "py_yanchh",
-            "name" : "歌手专辑",
+            "name" : "歌手专辑 py",
             "type" : 3,
             "api" : "py_yanchh",
             "searchable" : 1,
@@ -802,7 +802,7 @@
             "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_yanchh.py"
         }, {
             "key" : "py_MTV",
-            "name" : "歌曲MTV",
+            "name" : "歌曲MTV py",
             "type" : 3,
             "api" : "py_MTV",
             "searchable" : 1,
@@ -811,7 +811,7 @@
             "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_MTV.py"
         }, {
             "key" : "py_Yinl2",
-            "name" : "B站音乐",
+            "name" : "B站音乐 py",
             "type" : 3,
             "api" : "py_Yinl2",
             "searchable" : 1,
@@ -820,7 +820,7 @@
             "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_Yinl2.py"
         }, {
             "key" : "py_TYjs",
-            "name" : "体育健身",
+            "name" : "体育健身 py",
             "type" : 3,
             "api" : "py_TYjs",
             "searchable" : 1,
@@ -829,7 +829,7 @@
             "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_TYjs.py"
         }, {
             "key" : "py_FBqx",
-            "name" : "球队球星",
+            "name" : "球队球星 py",
             "type" : 3,
             "api" : "py_FBqx",
             "searchable" : 1,
@@ -838,7 +838,7 @@
             "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_FBqx.py"
         }, {
             "key" : "py_Bzjc",
-            "name" : "B站教程",
+            "name" : "B站教程 py",
             "type" : 3,
             "api" : "py_Bzjc",
             "searchable" : 1,
@@ -847,7 +847,7 @@
             "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_Bzjc.py"
         }, {
             "key" : "py_Meinvw",
-            "name" : "美女热舞",
+            "name" : "美女热舞 py",
             "type" : 3,
             "api" : "py_Meinvw",
             "searchable" : 1,
@@ -856,7 +856,7 @@
             "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_Meinvw.py"
         }, {
             "key" : "py_Nvtuan",
-            "name" : "女团热舞",
+            "name" : "女团热舞 py",
             "type" : 3,
             "api" : "py_Nvtuan",
             "searchable" : 1,
@@ -865,7 +865,7 @@
             "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_Nvtuan.py"
         }, {
 		"key": "py_qie",
-		"name": "企鹅体育",
+		"name": "企鹅体育 py",
 		"type": 3,
 		"api": "py_qie",
 		"searchable": 0,
@@ -874,7 +874,7 @@
 		"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_qie.py"
 	}, {
 		"key": "py_jrskbs",
-		"name": "JRS直播",
+		"name": "JRS直播 py",
 		"type": 3,
 		"api": "py_jrskbs",
 		"searchable": 0,
@@ -883,7 +883,7 @@
 		"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_jrskbs.py"
 	},  {
 		"key": "py_yytv",
-		"name": "JRS直播2",
+		"name": "JRS直播2 py",
 		"type": 3,
 		"api": "py_yytv",
 		"searchable": 0,
