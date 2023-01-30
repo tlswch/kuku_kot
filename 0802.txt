@@ -774,7 +774,7 @@
             "filterable": 0,
             "ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_kunyu77.py"
         }, {
-            "key" : "py_xuqu1",
+            "key" : "py_xuqu",
             "name" : "戏曲专栏 py",
             "type" : 3,
             "api" : "py_xuqu",
