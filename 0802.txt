@@ -817,7 +817,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_Yinl2.py"
+            "ext" : "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_Yinl2.py"
         }, {
             "key" : "py_TYjs",
             "name" : "体育健身 py",
@@ -826,7 +826,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_TYjs.py"
+            "ext" : "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_TYjs.py"
         }, {
             "key" : "py_FBqx",
             "name" : "球队球星 py",
@@ -835,7 +835,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_FBqx.py"
+            "ext" : "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_FBqx.py"
         }, {
             "key" : "py_Bzjc",
             "name" : "B站教程 py",
@@ -844,7 +844,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_Bzjc.py"
+            "ext" : "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_Bzjc.py"
         }, {
             "key" : "py_Meinvw",
             "name" : "美女热舞 py",
@@ -853,7 +853,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_Meinvw.py"
+            "ext" : "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_Meinvw.py"
         }, {
             "key" : "py_Nvtuan",
             "name" : "女团热舞 py",
@@ -862,7 +862,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_Nvtuan.py"
+            "ext" : "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_Nvtuan.py"
         }, {
 		"key": "py_qie",
 		"name": "企鹅体育 py",
@@ -871,7 +871,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_qie.py"
+		"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_qie.py"
 	}, {
 		"key": "py_jrskbs",
 		"name": "JRS直播 py",
@@ -880,7 +880,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_jrskbs.py"
+		"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_jrskbs.py"
 	},  {
 		"key": "py_yytv",
 		"name": "JRS直播2 py",
@@ -889,7 +889,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_yytv.py"
+		"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_yytv.py"
 	}, 
 		{
 			"key": "csp_BBB",
