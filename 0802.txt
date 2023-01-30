@@ -432,7 +432,7 @@
 			"ext": "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_zhongguominge.py"
 		}, {
         "key": "py_cctv_full",
-        "name": "央视大全 py",
+        "name": "🌏央视大全 py",
         "type": 3,
         "api": "py_cctv_full",
         "searchable": 0,
