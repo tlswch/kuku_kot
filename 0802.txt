@@ -781,7 +781,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_xuqu1.py"
+            "ext" : "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_xuqu.json"
         }, {
             "key" : "py_xiangsh",
             "name" : "相声小品 py",
@@ -790,7 +790,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_xiangsh.py"
+            "ext" : "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_xiangsheng.py"
         }, {
             "key" : "py_yanchh",
             "name" : "歌手专辑 py",
@@ -799,7 +799,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_yanchh.py"
+            "ext" : "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_yanchh.py"
         }, {
             "key" : "py_MTV",
             "name" : "歌曲MTV py",
@@ -808,7 +808,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://agit.ai/138001380000/MHQTV/raw/branch/master/py/py_MTV.py"
+            "ext" : "https://agit.ai/kuku/kot/raw/branch/master/bd/json/py_MTV.py"
         }, {
             "key" : "py_Yinl2",
             "name" : "B站音乐 py",
