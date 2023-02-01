@@ -40,7 +40,15 @@
 			"rule": ["hls.pchj.net", ".m3u8"]
 		}
 	],
-	
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "live",
+			"urls": [
+				"http://120.53.102.254/live?url=https://agit.ai/kuku/kot/src/branch/master/ZETBLIST.txt"
+			]
+		}]
+	}],
 	"sites": [{
 			"key": "csp_Kunyu77",
 			"name": "🌤酷云七七",
