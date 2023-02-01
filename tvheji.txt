@@ -86,7 +86,15 @@
       "quickSearch": 1,
       "filterable": 1
 },
-  
+  {
+      "key": "zhibo20",
+      "name": "🌴金多宝",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=https://wds.ecsxs.com/227812.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
 	{
       "key": "zhibo10",
       "name": "🍭潇潇洒洒",
