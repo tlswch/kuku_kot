@@ -45,7 +45,7 @@
 		"channels": [{
 			"name": "live",
 			"urls": [
-				"http://120.53.102.254/live?url=https://agit.ai/kuku/kot/src/branch/master/ZETBLIST.txt"
+				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2t1a3Uva290L3Jhdy9icmFuY2gvbWFzdGVyL1pFVEJMSVNULnR4dA=="
 			]
 		}]
 	}],
