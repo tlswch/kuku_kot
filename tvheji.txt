@@ -145,7 +145,7 @@
       "key": "zhibo17",
       "name": "🔥星星直播",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=https://notabug.org/kuzniez/kot/raw/master/xing/xingzb.txt",
+      "api": "http://120.53.102.254/live?url=https://agit.ai/kuku/kot/raw/branch/master/tv/xingzb.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -154,7 +154,7 @@
       "key": "zhibo18",
       "name": "🔥ddbgh直播",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=https://download.kstore.space/download/2883/0112tv.txt",
+      "api": "http://120.53.102.254/live?url=https://agit.ai/kuku/kot/raw/branch/master/tv/0112tv.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
