@@ -177,6 +177,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "zhibo23",
+      "name": "🌙月光盒",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
       "key": "zhibo14",
       "name": "🐜蚂蚁直播",
