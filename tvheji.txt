@@ -95,11 +95,20 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-    {
+     {
       "key": "zhibo21",
+      "name": "🌴金多宝 000033",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=https://wds.ecsxs.com/230784.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+    {
+      "key": "zhibo22",
       "name": "🌴guot54线",
       "type": 4,
-      "api": "https://agit.ai/guot54/ygbh/src/branch/master/zB/zB.txt",
+      "api": "http://120.53.102.254/live?url=https://agit.ai/guot54/ygbh/src/branch/master/zB/zB.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
