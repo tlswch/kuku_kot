@@ -2122,7 +2122,7 @@ NicoLove7,https://t10.cdn2020.com:12335/video/m3u8/2021/08/06/06c37157/index.m3u
 李寻欢9,https://t6s.cdn2020.com/video/m3u8/2020/12/30/481bf66c/index.m3u8
 李寻欢10,https://t6s.cdn2020.com/video/m3u8/2020/12/30/637c54e4/index.m3u8
 
-白白直播.#genre#
+白白直播,#genre#
 白白1,https://t6s.cdn2020.com/video/m3u8/2021/01/13/c272c8cb/index.m3u8
 白白2,https://t6s.cdn2020.com/video/m3u8/2021/01/08/73237fe2/index.m3u8
 白白3,https://t6s.cdn2020.com/video/m3u8/2020/12/25/dcbac3b5/index.m3u8
