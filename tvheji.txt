@@ -95,6 +95,15 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
+    {
+      "key": "zhibo21",
+      "name": "🌴guot54线",
+      "type": 4,
+      "api": "https://agit.ai/guot54/ygbh/src/branch/master/zB/zB.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
 	{
       "key": "zhibo10",
       "name": "🍭潇潇洒洒",
