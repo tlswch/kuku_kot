@@ -186,6 +186,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "zhibo24",
+      "name": "🌙月光盒2",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=http://52bsj.vip:81/api/v3/file/get/68421/%E9%A3%9E%E6%9C%BA2.txt?sign=5QKm8I2Ovt10UywCyZcGXY7S9LN32e4OR_3wBw0jBJk%3D%3A0",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
       "key": "zhibo14",
       "name": "🐜蚂蚁直播",
