@@ -188,9 +188,9 @@
     },
     {
       "key": "zhibo24",
-      "name": "🌙13800000 9527",
+      "name": "🌙ddbgh 0112tv",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=http://52bsj.vip:81/api/v3/file/get/68421/%E9%A3%9E%E6%9C%BA2.txt?sign=5QKm8I2Ovt10UywCyZcGXY7S9LN32e4OR_3wBw0jBJk%3D%3A0",
+      "api": "http://120.53.102.254/live?url=https://download.kstore.space/download/2883/0112tv.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
