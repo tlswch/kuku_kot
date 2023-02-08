@@ -40,7 +40,49 @@
 			"rule": ["hls.pchj.net", ".m3u8"]
 		}
 	],
-	
+	 "lives": [
+
+{"group": "央视","channels": [
+
+{"name":"CCTV1","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?"]},
+{"name":"CCTV1","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?"]},
+{"name":"CCTV3","urls":["http://39.184.224.99:9080/newlive/live/hls/3/live.m3u8"]},
+{"name":"CCTV3","urls":["http://lu1.cc/itv/sjtv/p/migu.php?id=cctv3"]},
+{"name":"CCTV4","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?"]},{"name":"CCTV4","urls":["http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?"]},
+{"name":"CCTV5","urls":[",http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8"]},
+{"name":"CCTV6","urls":["http://111.20.33.93/TVOD/88888893/224/3221226393/index.m3u8"]},
+{"name":"CCTV8","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?"]},
+{"name":"CCTV13","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?"]}
+]},
+
+{"group": "Россия","channels": [
+
+{"name":"РОССИЯ-24","urls":["https://radio-live-mg.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8"]},
+{"name":"РОССИЯ-PTP","urls":["http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8"]},
+{"name":"Первый канал","urls":["https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8"]},
+{"name":"КУРТУРА","urls":["http://radio-live-mg.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8"]},
+{"name":"ЗВЕЗДА","urls":["https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8"]},      
+{"name":"Россия-1","urls":["https://radio-live-mg.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8"]},    
+{"name":"МОСКВА-24","urls":["https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8"]},  
+{"name":"САНКТ ПЕТЕРБУРГ","urls":["https://radio-live-mg.rtr-vesti.ru/hls2/ext_spbtv/playlist_5.m3u8"]},  
+{"name":"ТВЦ","urls":["http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8"]},  
+{"name":"ЕНИСЕЙ","urls":["http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8"]},  
+{"name":"Ростов-папа","urls":["http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8"]},  
+{"name":"ПРИМА КРАСНОЯРСК","urls":["http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1024x576@1272/playlist.m3u8"]},  
+{"name":"Яросл1","urls":["http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdlow.m3u8"]}
+]},
+
+{"group": "卫视","channels": [
+
+{"name":"北京卫视","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?"]},
+{"name":"天津卫视","urls":["http://111.20.33.93/TVOD/88888893/224/3221226204/index.m3u8"]},
+{"name":"东方卫视","urls":["http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226261/index.m3u8?"]},
+{"name":"江苏卫视","urls":["http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?"]},
+{"name":"浙江卫视","urls":["http://111.13.42.235/PLTV/88888888/224/3221226365/1.m3u8"]},
+{"name":"安徽卫视","urls":["http://111.20.33.93/TVOD/88888893/224/3221226203/index.m3u8"]},       
+{"name":"广东卫视","urls":["http://111.13.42.235/PLTV/88888888/224/3221226508/1.m3u8"]},
+{"name":"深圳卫视","urls":["http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?"]}
+]}],
 	"sites": [{
 			"key": "csp_Kunyu77",
 			"name": "🌤酷云七七",
