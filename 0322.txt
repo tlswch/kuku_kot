@@ -44,8 +44,8 @@
 
 {"group": "央视","channels": [
 
-{"name":"CCTV1","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?"]},
-{"name":"CCTV1","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?"]},
+{"name":"CCTV1","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?"]},
+{"name":"CCTV2","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?"]},
 {"name":"CCTV3","urls":["http://39.184.224.99:9080/newlive/live/hls/3/live.m3u8"]},
 {"name":"CCTV3","urls":["http://lu1.cc/itv/sjtv/p/migu.php?id=cctv3"]},
 {"name":"CCTV4","urls":["http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?"]},{"name":"CCTV4","urls":["http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?"]},
