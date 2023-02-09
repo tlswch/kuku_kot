@@ -134,6 +134,7 @@
 {"name":"东方财经","urls":["https://live.v1.mk/api/ghyx.php?id=DongFangCaiJingHD_6000"]},
 {"name":"足球频道","urls":["https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000"]}
 ]},
+{"group": "🇨🇳•欣赏","channels": [
 {"name":"抖音姐姐热热","urls":["http://epg.112114.xyz/douyu/8901218"]},
 {"name":"抖音姐姐热舞","urls":["http://epg.112114.xyz/douyu/8759139"]},
 {"name":"抖音姐姐舞舞","urls":["http://epg.112114.xyz/douyu/7971641"]},
