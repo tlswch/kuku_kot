@@ -659,6 +659,7 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 Первый канал,https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
 Первый канал,https://1tv-live-gcore.gcdn.co/dash-live12/streams/1tv/1tvdash.mpd
 Первый канал,http://iptv.ktkru.ru:8001/index.m3u8
+Первый музы канал,http://rtmp.one.by:1200
 КУРТУРА,http://radio-live-mg.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
 КУРТУРА,https://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 КУРТУРА,https://radio-live-mg.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
