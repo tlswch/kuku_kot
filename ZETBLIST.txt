@@ -895,12 +895,14 @@ Sochi Live,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 канал 3,https://livetv.mylifeisgood.ml/channels/tv3
 ПЯТЫЙ КАН,http://iptv.ktkru.ru:8005/index.m3u8
 ТНТ4 Inter,https://sc.id-tv.kz:443/tnt4_34_35.m3u8
-СТС Inter,https://sc.id-tv.kz/STS_34_35.m3u8
+Рен,https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+Рен,http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 Рен Inter,https://sc.id-tv.kz/RenTV.m3u8
 Рен Inter,https://sc.id-tv.kz/RenTV_36_37.m3u8
 СУББОТА,https://livetv.mylifeisgood.ml/channels/subbota
 СУББОТА,https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
 СУББОТА,https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+Пятница,https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
 Пятница,https://livetv.mylifeisgood.ml/channels/friday
 Пятница,https://sc.id-tv.kz:443/friday_34_35.m3u8
 Пятница,http://livetv.mylifeisgood.ml/mfolive.m3u8?media=friday
