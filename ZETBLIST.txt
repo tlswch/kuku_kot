@@ -640,6 +640,7 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 🇷🇺｜РОССИЯ,#genre#
 РОССИЯ-24,https://radio-live-mg.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 РОССИЯ-24,http://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+Россия-24,https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/russia24sd/playlist_sdhigh.m3u8
 РОССИЯ-24,http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 РОССИЯ-24,http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:penza_r24.smil/chunklist_b1000000.m3u8
 РОССИЯ-24,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/ural_r24.smil/chunklist_b3000000.m3u8
@@ -649,6 +650,7 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 РОССИЯ-24,http://rtmp.gtrk.tv/720/tv720.m3u8
 РОССИЯ-24,http://chgtrk.code-red.ru/hls/R24_720p/index.m3u8
 РОССИЯ-24,http://gtrkchita.ru:8080/hls/r24-chita_576p.m3u8 
+РОССИЯ PRP,https://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 РОССИЯ PRP,http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 РОССИЯ PRP,https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
 Первый канал,http://mfe02.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
@@ -669,6 +671,8 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 ЗВЕЗДА,http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 ЗВЕЗДА,http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 ЗВЕЗДА,http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+Россия-1,http://sochi.camera:8080/cam_255/index.m3u8?token=null
+Россия-1,https://radio-live-mg.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 Россия-1,https://radio-live-mg.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
 Россия-1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kuban_r1.smil/chunklist_b1200000.m3u8
 Россия-1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:r1_lipetsk.smil/chunklist_b1500000.m3u8
@@ -1595,13 +1599,55 @@ CCTV17[1920•1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 🎡｜宝岛台湾,#genre#
-TVBS新闻台,http://218.93.208.119:54799/tw/index.php?id=15#http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
-TVBS新闻台,http://218.93.208.119:54799/tw/index.php?id=17#http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
+中天新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv009.stream/playlist.m3u8
+TVBS HD,http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+民视台湾,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+民视,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+民视第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+中视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+华视新闻,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+华视,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
+中视,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
+中视经典,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8
+八大综合,http://www.336699.live:1935/blockfour/4gtv-4gtv039.stream/playlist.m3u8
+八大精彩,http://www.336699.live:1935/blockfour/4gtv-4gtv034.stream/playlist.m3u8
+公视戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8
+ELTA娱乐,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+TVBS欢乐,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
+BRAVO菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+FTV综艺,http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+猪哥嘹亮,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8
+数码影迷,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+靖天国际,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+靖天育乐,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+靖天电影,http://www.336699.live:1935/blockfour/4gtv-4gtv061.stream/playlist.m3u8
+靖天戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
+靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+靖天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+靖天欢乐,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+靖天日本,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8
+靖洋戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+采晶,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+CNEX,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
+K-POP,http://www.336699.live:1935/blockfour/4gtv-4gtv014.stream/playlist.m3u8
+CATCHPLAY,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+TRACE,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+KOREA,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+TRACE URBAN,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+MEZZO,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+GIPX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+HAKKATV,http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
+TVBS新闻台,http://218.93.208.119:54799/tw/index.php?id=15
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
+TVBS新闻台,http://218.93.208.119:54799/tw/index.php?id=17
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8 
-中视新闻,http://218.93.208.119:54799/tw/index.php?id=22#http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841 #http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
+中视新闻,http://218.93.208.119:54799/tw/index.php?id=22
+中视新闻,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841 中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
 纬来体育,http://218.93.208.119:54799/tw/index.php?id=19
 龙祥时代,http://120.84.96.53:808/hls/35/index.m3u8 
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
