@@ -641,7 +641,7 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 РОССИЯ-24,https://radio-live-mg.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 РОССИЯ-24,http://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
 РОССИЯ-24,http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
-Россия-24,https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/russia24sd/playlist_sdhigh.m3u8
+РОССИЯ-24,https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/russia24sd/playlist_sdhigh.m3u8
 РОССИЯ-24,http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 РОССИЯ-24,http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:penza_r24.smil/chunklist_b1000000.m3u8
 РОССИЯ-24,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/ural_r24.smil/chunklist_b3000000.m3u8
