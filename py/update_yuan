@@ -9,6 +9,10 @@
             "name": "💖电视合集"
         },
         {
+            "url": "http://pandown.pro/tvbox/tvbox.json",    
+            "name": "💖巧儿线路"
+        },
+        {
             "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",    
             "name": "💖巧技主线路"
         },
