@@ -873,6 +873,8 @@ CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 ВОЛГАГРАД1,http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/chunklist.m3u8
 ВОЛГАГРАД1,http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 ВОЛГАГРАД1,rtmp://88.87.93.33:2000/live/volgograd1
+Сочи live,http://sochi.camera:8080/cam_359/index.m3u8?token=null 
+Сочи 24,http://sochi.camera:8080/cam_128/index.m3u8?token=null 
 Яросл1,http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdlow.m3u8
 Яросл1,http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
 Яросл1,http://origin5.mediacdn.ru/live/yaroslavskii/index.m3u8
