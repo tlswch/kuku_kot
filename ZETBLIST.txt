@@ -1199,6 +1199,7 @@ R TV,https://e10-ll.facecast.net/rtv/0.m3u8
 ННТВ,http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
 KINO internation,https://autopilot.catcast.tv/content/40381/index.m3u8
 KINO internation,https://kino-1.catcast.tv/content/38617/index.m3u8
+КИНО internation,,https://autopilot.catcast.tv/content/38617/index.m3u8
 Kino Свежаки,https://edge-01.kino.watch/fresh/index.m3u8
 Kino Уже видел,https://edge-01.kino.watch/hit/index.m3u8
 Kino Ужастик, http://edge-01.kino.watch/horror/index.m3u8
@@ -1229,6 +1230,7 @@ Hollywood,https://sc.id-tv.kz:443/Hollywood_34_35.m3u8
 Мужское Кино HD,https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 Родное Кино,https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 Кинопремьера FHD,https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+CINEMA,https://sc.id-tv.kz:443/Cinema_36_37.m3u8
 Cinema,https://sc.id-tv.kz/Cinema_34_35.m3u8
 Bollywood,https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 Bollywood,https://sc.id-tv.kz/bollywood_hd
@@ -1297,6 +1299,7 @@ TV1 Cinemastan HD,http://st.kglive.asia/hls/tv1cinema.m3u8
 Б-Кінозал,http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
 Kinoklub,http://autopilot.catcast.tv/content/39005/index.m3u8
 Видеокассета,https://autopilot.catcast.tv/content/37925/index.m3u8
+Видеокассета2,https://v2.catcast.tv/content/37925/index.m3u8
 Fentezy HD,http://autopilot.catcast.tv/content/38144/index.m3u8
 Фантастика Sci-Fi,https://autopilot.catcast.tv/content/38801/index.m3u8
 СССР ТВ,https://autopilot.catcast.tv/content/38821/index.m3u8
