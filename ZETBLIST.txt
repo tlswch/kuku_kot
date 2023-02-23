@@ -765,7 +765,6 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 Россия 24,http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
 Россия 24,https://sc.id-tv.kz/Rossiya24_34_35.m3u8
 Россия 24,http://78.25.155.47:1309/channel/Ros_24.ts
-Россия К,http://78.25.155.47:1309/channel/Ros_K.ts
 Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia24-sd/index.m3u8
 Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia24-sd/index.m3u8
 Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia24-sd/index.m3u8
@@ -829,6 +828,7 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 Первый канал,http://iptv.ktkru.ru:8001/index.m3u8
 Первый музы канал,http://rtmp.one.by:1200
 Первый канал,http://mfe02.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
+КУРТУРА,http://78.25.155.47:1309/channel/Ros_K.ts
 КУРТУРА,http://radio-live-mg.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
 КУРТУРА,https://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 КУРТУРА,https://radio-live-mg.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
