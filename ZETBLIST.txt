@@ -760,6 +760,7 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8 
 
 🇷🇺｜РОССИЯ,#genre#
+РОССИЯ-24,http://sochi.camera:8080/cam_256/index.m3u8?token=null
 РОССИЯ-24,https://radio-live-mg.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 РОССИЯ-24,http://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
 РОССИЯ-24,http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
