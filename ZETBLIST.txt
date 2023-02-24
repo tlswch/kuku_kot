@@ -842,6 +842,49 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 ЗВЕЗДА,http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 ЗВЕЗДА,http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 Россия-1,http://sochi.camera:8080/cam_255/index.m3u8?token=null
+Россия-1,http://sochi.camera:8080/cam_255/tracks-v1a1/index.m3u8
+Россия 1,http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
+Россия 1,https://live.chechensoft.ru/vainahtv/vaynahtv/playlist.m3u8 
+Россия 1,http://78.25.155.47:1309/channel/Ros1.ts
+Россия 1,http://78.25.155.47:1309/channel/Ros_HD.ts
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/abakan/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/bryansk/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/velikiy-novgorod/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vologda/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/gornoaltaysk/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/grozniy/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ivanovo/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion.cdnvideo.ru/vgtrk/kazan/russia1sd/playlist_sdhigh.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kirov/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion.cdnvideo.ru/vgtrk/krasnodar/russia1sd/playlist_sdhigh.m3u8
+Россия 1,https://vgtrkregion.cdnvideo.ru/vgtrk/krasnoyarsk/russia1sd/playlist_sdhigh.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kurgan/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/lipetsk/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nazran/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/orel/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/penza/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/pskov/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ryazan/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion.cdnvideo.ru/vgtrk/samara/russia1sd/playlist_sdhigh.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/saransk/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion.cdnvideo.ru/vgtrk/simferopol/russia1sd/playlist_sdhigh.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/smolensk/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion.cdnvideo.ru/vgtrk/sochi/russia1sd/playlist_sdhigh.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion.cdnvideo.ru/vgtrk/tumen/russia1sd/playlist_sdhigh.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cheboksar/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/cherkessk/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia1-sd/index.m3u8
+Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-sd/index.m3u8
 Россия-1,https://radio-live-mg.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 Россия-1,https://radio-live-mg.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
 Россия-1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kuban_r1.smil/chunklist_b1200000.m3u8
@@ -849,8 +892,6 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 Россия-1,http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:r1_lipetsk.smil/chunklist_b1500000.m3u8
 Россия-1,https://83tpjqlujs1.a.trbcdn.net/livemaster/ut4ekx5unw_stream3/playlist.m3u8
 Россия-1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:penza_r1.smil/chunklist_b1200000.m3u8
-Россия-1,https://vgtrkregion.cdnvideo.ru/vgtrk/rostovdon/russia1sd/playlist_sdhigh.m3u8
-Россия-1,http://sochi.camera:8080/cam_255/tracks-v1a1/index.m3u8
 Россия-1,http://livetv.mylifeisgood.ml/mfolive.m3u8?media=russia1
 Россия-1,http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 Россия-1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_2.m3u8
@@ -964,6 +1005,12 @@ CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 Кузбасс1,http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
 360 Новости,https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
 360 Новости,https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+360 Новости,http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+360 Новости,http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+360 Новости,http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+360,http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+360,http://flu.ttk.mx:9090/360_HD/index.m3u8?token=orh6o
+360,https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 Союз,http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 ПРЕМЬЕРА,https://autopilot.catcast.tv/content/39161/index.m3u8
 AKUDJI TV,http://hls.goodgame.ru/hls/5346.m3u8
@@ -1163,6 +1210,8 @@ ESILNET,http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 КУБАНЬ 24,http://origin5.mediacdn.ru/live/cuban24/playlist.m3u8
 Донбас,http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
 КРАСНОГОРСК,http://live-krtv.cdnvideo.ru/krtv/krtv.sdp/playlist.m3u8
+Симферополь 24,https://simf.1tvcrimea.ru/simferopol24sd.m3u8
+Симферополь 24,https://simf.1tvcrimea.ru/simferopol24.m3u8
 СИМФЕРОПОЛЬ,http://simf.1tvcrimea.ru:8081/show/simferopol24sd/playlist.m3u8
 СИМФЕРОПОЛЬ,http://simf.1tvcrimea.ru:8081/show/simferopol24/playlist.m3u8
 Дзержинское,https://v.dzertv.ru:8588/dzertv/live_yandex/tracks-v3a1/mono.m3u8
@@ -1222,7 +1271,6 @@ live-saha,http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 ТУГАН,http://92.46.127.146:8080/TuranTV-L3-TRANS/index.m3u8
 Ямал-Регион,http://live-yamalregion.cdnvideo.ru/yamalregion_mc/yamalregion_mc.smil/playlist.m3u8
 САМПО karelia 360,http://iptv-hls.karelia.pro/streams/Sampo360/stream.m3u8
-360,https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 BCT,http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
 Махачкала,https://dagestan.mediacdn.ru/cdn/dagestan/playlist_sdmid.m3u8
 Махачкала,https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
