@@ -55,12 +55,13 @@
 ]},
 {"group": "Россия","channels": [
 
-{"name":"РОССИЯ-24","urls":["https://radio-live-mg.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8"]},
+{"name":"РОССИЯ-24","urls":["http://sochi.camera:8080/cam_256/index.m3u8?token=null"]},
 {"name":"РОССИЯ-PTP","urls":["http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8"]},
 {"name":"Первый канал","urls":["https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8"]},
+{"name":"Первый канал","urls":["https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8"]},
 {"name":"КУРТУРА","urls":["http://radio-live-mg.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8"]},
 {"name":"ЗВЕЗДА","urls":["https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8"]},      
-{"name":"Россия-1","urls":["https://radio-live-mg.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8"]},    
+{"name":"Россия-1","urls":["http://sochi.camera:8080/cam_255/index.m3u8?token=null"]},    
 {"name":"МОСКВА-24","urls":["https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8"]},  
 {"name":"САНКТ ПЕТЕРБУРГ","urls":["https://radio-live-mg.rtr-vesti.ru/hls2/ext_spbtv/playlist_5.m3u8"]},  
 {"name":"ТВЦ","urls":["http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8"]},  
