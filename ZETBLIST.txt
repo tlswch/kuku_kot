@@ -926,6 +926,8 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 НТВ Сериал,https://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8 
 НТВ Сериал,http://ntv-hls-orig.cdnvideo.ru/th_serial/tracks-v1a1/mono.m3u8
 НТВ Право,https://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
+Euronews Russian,https://euronews.alteox.app/hls/ru_stream.m3u8
+Life TV,https://lifetv.bitflip.ee/live/stream1.m3u8
 RT Doc,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 RT Doc,https://hls.rt.com/hls/rtdru.m3u8
 RT Doc,https://hls.rt.com/hls/rtdru360.m3u8
@@ -1216,6 +1218,7 @@ ESILNET,http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 СТВ Севастополь,http://stv92-live.cdnvideo.ru/stv92/stv92/playlist.m3u8
 ИКС Севастополь,http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
 Небеса ТВ7,http://dmi3y-tv.ru/hls/CH_TV7HD720.m3u8
+Небеса ТВ7,https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
 Сургут 86,https://sitv.ru/hls/s86.m3u8
 Сургут 1,https://sitv.ru/hls/stv.m3u8
 Сургут 24,http://video1.in-news.ru/c24/index.m3u8
@@ -1322,12 +1325,14 @@ R TV,https://e10-ll.facecast.net/rtv/0.m3u8
 Время,https://pkvc-hls4.cdnvideo.ru/Vremya/smil:Vremya.smil/chunklist_b3128000_slru.m3u8
 Время,https://sc.id-tv.kz:443/Vremya_36_37.m3u8
 Три Ангела,http://dmi3y-tv.ru/hls/CH_3ANGELAHD.m3u8
+Три Ангела,https://hls.tv.3angels.ru/stream.m3u8
 КОГАЛЫМ,https://kogalimtv.gcdn.co/streams/775_101/360n/index.m3u8
 ДОВЕРЕНИЕ,https://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 МИНИСТ ИДЕЯ,http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 ПРОДВИЖЕНИЕ,http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Kolpashevo/hls/1024x576@1272/playlist.m3u8
 ТИВИСИ,http://live-tvstv.cdnvideo.ru/tvstv/tvstv/playlist.m3u8
 ННТВ,http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+Amga TV,https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 Золотая коллекция,http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
 312 Kino,http://176.126.166.43:1935/live/312kino/playlist.m3u8
 BackusTV Dark,http://stream.backustv.ru/live/btv2/index.m3u8
