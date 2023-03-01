@@ -15,7 +15,7 @@
 },
 
    {   "key": "zhibo0",
-      "name": "🎪4K源 ",
+      "name": "🎪RUSLIST2 ",
       "type": 4,
       "api": "http://120.53.102.254/live?url=https://agit.ai/kuku/kot/raw/branch/master/tv/RUSLI2.txt",
       "searchable": 1,
