@@ -50,6 +50,26 @@
 		}]
 	}],
 	"sites": [{
+            "key": "js豆瓣1",
+            "name": "🌈豆瓣首页",
+            "type": 3,
+            "api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext": "http://id.ganggang.live:63/js/js_drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+	 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
+	 {
+            "key": "csp_新视觉",
+            "name": "🍁新视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/68477/%E6%96%B0%E8%A7%86%E8%A7%89.jar?sign=5hkB9freXo4-WOfuRa3Kc8_eUA4GPuMxVNgKOVUMnhs%3D%3A0"
+        },  
+		{
 			"key": "csp_Kunyu77",
 			"name": "🌤酷云七七",
 			"type": 3,
@@ -79,6 +99,7 @@
 "ext": "https://agit.ai/66666/yueg/raw/branch/master/柠檬TV.json"
 },
 {"key":"csp_xBPQ_dszb","name":"📺电视直播","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://9xi4o.tk/sub/mytv.txt"},
+{"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 	  {
 	"key": "YQK_spider",
 	"name": "一起看TV",
@@ -101,6 +122,59 @@
             "filterable": "1",
             "jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/%E8%82%A5%E7%8C%AB.jar"
         },
+		 {
+            "key": "4K",
+            "name": " 🌸4K资源网",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "playerType": "1",
+            "ext": "http://52bsj.vip:81/api/v3/file/get/71913/4kvm.json?sign=ARtkUUB2LnGr68XHmFwiWgdybX4Kt3fyCI5VpkdTXw0%3D%3A0"
+        },
+		{
+            "key" : "drpy_js_布雷蓝光",
+            "name" : "🎑布雷蓝光",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXbh/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://gitlab.com/ygbh1/666/-/raw/main/json/%E5%B8%83%E9%9B%B7%E8%93%9D%E5%85%89.js"
+        },
+        {
+            "key" : "drpy_js_零度影视",
+            "name" : "🌙零度影视",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXbh/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://gitlab.com/ygbh1/666/-/raw/main/json/%E9%9B%B6%E5%BA%A6%E5%BD%B1%E8%A7%86.js"
+        },
+        {
+            "key" : "drpy_js_1080p",
+            "name" : "☁️1080P影视",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXbh/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://gitlab.com/ygbh1/666/-/raw/main/json/1080P.js"
+        },
+         {
+            "key" : "drpy_js_超前点播",
+            "name" : "🎯超前点播",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXbh/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
+        },
+       {
+            "key" : "drpy_js_子子影视",
+            "name" : "☁️子子影视",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXbh/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.js"
+        },
+        {
+            "key" : "drpy_js_创艺",
+            "name" : "🎞️创艺影视",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXbh/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.js"
+        },
 {
             "key" : "drpy_js_Alist",
             "name" : "Alist（支持搜索）",
@@ -109,7 +183,7 @@
             "ext" : "https://agit.ai/kuku/kot/raw/branch/master/drpy/J.json"
         },
 		{"key":"csp_SP293","name":" 🚀293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/293.jar;md5;E7DC9DEDDBAD6457AEC946B7EFE8F483"},
-{"key":"csp_kuaikan","name":"👀快看┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
 	{
 	"key": "csp_AppTT",
 	"name": "🆗图图影视（SP）",
