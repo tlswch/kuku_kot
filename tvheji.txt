@@ -14,6 +14,14 @@
       "filterable": 1
 },
 
+   {   "key": "zhibo0",
+      "name": "🎪4K源 ",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=https://agit.ai/kuku/kot/raw/branch/master/tv/RUSLI2.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 
    {   "key": "zhibo2",
       "name": "🎪4K源 ",
