@@ -319,22 +319,7 @@
             "playerType": "1",
             "ext": "http://52bsj.vip:81/api/v3/file/get/71913/4kvm.json?sign=ARtkUUB2LnGr68XHmFwiWgdybX4Kt3fyCI5VpkdTXw0%3D%3A0"
         },
-    {
-            "key": "csp_新视觉",
-            "name": "🍁新视觉",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar":"http://52bsj.vip:81/api/v3/file/get/68477/%E6%96%B0%E8%A7%86%E8%A7%89.jar?sign=5hkB9freXo4-WOfuRa3Kc8_eUA4GPuMxVNgKOVUMnhs%3D%3A0"
-        },  
-{
-            "key" : "drpy_js_布雷蓝光",
-            "name" : "🎑布雷蓝光",
-            "type" : 3,
-            "api" : "https://agit.ai/guot54/TVBOXbh/raw/branch/main/JS/lib/drpy.min.js",
-            "ext" : "https://gitlab.com/ygbh1/666/-/raw/main/json/%E5%B8%83%E9%9B%B7%E8%93%9D%E5%85%89.js"
-        },
+   
         {
             "key" : "drpy_js_零度影视",
             "name" : "🌙零度影视",
