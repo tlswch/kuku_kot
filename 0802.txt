@@ -1,5 +1,5 @@
 {
-	"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/xo05.png;md5;7346E48AC1675EA2F11FA4024456F369",
+	"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/0301yg.bmp;md5;9A16C8A45DD1CFD582CD2CAE3C7EABCE",
 	//"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/666666xo27.jar;md5;E80798750ECA57470F29D1942BCE39BB",
 	//"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/1013.jar;md5;4530F349123DF83987FBD55BF166685C",
 	"rules": [{
@@ -91,6 +91,16 @@
 	"ext": "https://api-tx.shumaxc.xyz",
 	"jar": "https://download.kstore.space/download/2883/1121qpy.jar;md5;1c8bcbb4ac6ca9f5926f32fb6c5aff21"
 }, 
+{
+            "key": "csp_panghu",
+            "name": " 🌸胖虎影视",
+            "type": "3",
+            "api": "csp_Panghu",
+            "searchable": "1",
+            "quickSearch": "1",
+            "filterable": "1",
+            "jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/%E8%82%A5%E7%8C%AB.jar"
+        },
 {
             "key" : "drpy_js_Alist",
             "name" : "Alist（支持搜索）",
