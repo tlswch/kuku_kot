@@ -176,7 +176,7 @@
         },
 		{"key":"csp_SP293","name":" 🚀293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/293.jar;md5;E7DC9DEDDBAD6457AEC946B7EFE8F483"},
  
-  {"key":"TutuYs","name":"图图影视qi","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/"},
+  {"key":"TutuYs","name":"图图影视qi","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/","jar":"https://agit.ai/kuku/kot/raw/branch/master/jar/fix230228.jar;md5; 4f2d69de1285efa0a0e72c038de026e2"},
 	{
 	"key": "csp_AppTT",
 	"name": "🆗图图影视（SP）",
@@ -189,7 +189,7 @@
 	"ext": "http://121.205.88.126:7788"
 },
 
-{"key":"AppTT","name":"T3图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
+{"key":"AppTT","name":"T3图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://agit.ai/kuku/kot/raw/branch/master/jar/fix230228.jar;md5; 4f2d69de1285efa0a0e72c038de026e2"},
 {"key":"Zjdr","name":"T3追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/T3.jar;md5; DB0EFA05702AC24DF43CC7E2CAC0C1EC"},
 {"key":"Tian","name":"T3天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392", "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
 {"key":"IKan","name":"T3爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
