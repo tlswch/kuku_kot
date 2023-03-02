@@ -176,7 +176,7 @@
         },
 		{"key":"csp_SP293","name":" 🚀293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/293.jar;md5;E7DC9DEDDBAD6457AEC946B7EFE8F483"},
  
-  {"key":"Tutu_spider","name":"图图影视qi","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/"},
+  {"key":"TutuYs","name":"图图影视qi","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/"},
 	{
 	"key": "csp_AppTT",
 	"name": "🆗图图影视（SP）",
