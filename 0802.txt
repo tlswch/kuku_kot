@@ -1,8 +1,8 @@
 {
-	"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/0301yg.bmp;md5;9A16C8A45DD1CFD582CD2CAE3C7EABCE",
+	"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9",
+	//"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/0301yg.bmp;md5;9A16C8A45DD1CFD582CD2CAE3C7EABCE",
 	//"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/666666xo27.jar;md5;E80798750ECA57470F29D1942BCE39BB",
-	//"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/1013.jar;md5;4530F349123DF83987FBD55BF166685C",
-	"rules": [{
+		"rules": [{
 			"host": "*",
 			"rule": ["douyinvod.com", "/video/tos/cn/"]
 		},
