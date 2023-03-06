@@ -1,7 +1,8 @@
-{
-	"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9",
+{"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/xo05.png;md5;7346E48AC1675EA2F11FA4024456F369",
+	//"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/230222.jar;md5;6FDFFE9B74AE6FA85D5858A2BD9FB6B9",
 	//"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/0301yg.bmp;md5;9A16C8A45DD1CFD582CD2CAE3C7EABCE",
 	//"spider":"https://agit.ai/kuku/kot/raw/branch/master/jar/666666xo27.jar;md5;E80798750ECA57470F29D1942BCE39BB",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 		"rules": [{
 			"host": "*",
 			"rule": ["douyinvod.com", "/video/tos/cn/"]
