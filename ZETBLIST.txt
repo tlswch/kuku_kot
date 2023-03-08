@@ -760,6 +760,19 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 澳门综艺,http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8 
 
 🇷🇺｜РОССИЯ,#genre#
+Россия 24,https://radio-live-mg.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
+Россия 24,http://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+Россия 24,http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
+Россия 24,https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/russia24sd/playlist_sdhigh.m3u8
+Россия 24,http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+Россия 24,http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:penza_r24.smil/chunklist_b1000000.m3u8
+Россия 24,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/ural_r24.smil/chunklist_b3000000.m3u8
+Россия 24,https://vgtrkregion.cdnvideo.ru/vgtrk/rostovdon/russia24sd/playlist_sdhigh.m3u8
+Россия 24,http://sochi.camera:8080/cam_256/tracks-v1a1/index.m3u8
+Россия 24,http://gtrk-volga.ru/media/hr24/stream1.m3u8
+Россия 24,http://rtmp.gtrk.tv/720/tv720.m3u8
+Россия 24,http://chgtrk.code-red.ru/hls/R24_720p/index.m3u8
+Россия 24,http://gtrkchita.ru:8080/hls/r24-chita_576p.m3u8 
 Россия 24,http://78.25.155.47:1309/channel/Ros_24.ts
 Россия 24,http://sochi.camera:8080/cam_256/index.m3u8?token=null
 Россия 24,http://sochi.camera:8080/cam_256/tracks-v1a1/index.m3u8
@@ -805,19 +818,6 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chita/russia24-sd/index.m3u8
 Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia24-sd/index.m3u8
 Россия 24,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia24-sd/index.m3u8
-Россия 24,https://radio-live-mg.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
-Россия 24,http://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
-Россия 24,http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist.m3u8
-Россия 24,https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/russia24sd/playlist_sdhigh.m3u8
-Россия 24,http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-Россия 24,http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:penza_r24.smil/chunklist_b1000000.m3u8
-Россия 24,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/ural_r24.smil/chunklist_b3000000.m3u8
-Россия 24,https://vgtrkregion.cdnvideo.ru/vgtrk/rostovdon/russia24sd/playlist_sdhigh.m3u8
-Россия 24,http://sochi.camera:8080/cam_256/tracks-v1a1/index.m3u8
-Россия 24,http://gtrk-volga.ru/media/hr24/stream1.m3u8
-Россия 24,http://rtmp.gtrk.tv/720/tv720.m3u8
-Россия 24,http://chgtrk.code-red.ru/hls/R24_720p/index.m3u8
-Россия 24,http://gtrkchita.ru:8080/hls/r24-chita_576p.m3u8 
 РОССИЯ PRP,https://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 РОССИЯ PRP,http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 РОССИЯ PRP,https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
@@ -844,8 +844,29 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 ЗВЕЗДА,http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 ЗВЕЗДА,http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 ЗВЕЗДА,http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-Россия-1,http://sochi.camera:8080/cam_255/index.m3u8?token=null
-Россия-1,http://sochi.camera:8080/cam_255/tracks-v1a1/index.m3u8
+Россия 1,https://radio-live-mg.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
+Россия 1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kuban_r1.smil/chunklist_b1200000.m3u8
+Россия 1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:r1_lipetsk.smil/chunklist_b1500000.m3u8
+Россия 1,http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:r1_lipetsk.smil/chunklist_b1500000.m3u8
+Россия 1,https://83tpjqlujs1.a.trbcdn.net/livemaster/ut4ekx5unw_stream3/playlist.m3u8
+Россия 1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:penza_r1.smil/chunklist_b1200000.m3u8
+Россия 1,http://livetv.mylifeisgood.ml/mfolive.m3u8?media=russia1
+Россия 1,http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+Россия 1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_2.m3u8
+Россия 1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_2.m3u8
+Россия 1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_2.m3u8
+Россия 1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus3/playlist_2.m3u8
+Россия 1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus5/playlist_2.m3u8
+Россия 1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_2.m3u8
+Россия 1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus7/playlist_2.m3u8
+Россия 1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_2.m3u8
+Россия 1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_2.m3u8
+Россия 1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/yaroslavl_r1.smil/chunklist_b1200000_slrus.m3u8
+Россия 1,http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+Россия 1,http://chgtrk.code-red.ru/hls/R1_720p/index.m3u8
+Россия 1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_tula1/playlist.m3u8
+Россия 1,http://sochi.camera:8080/cam_255/index.m3u8?token=null
+Россия 1,http://sochi.camera:8080/cam_255/tracks-v1a1/index.m3u8
 Россия 1,http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
 Россия 1,https://live.chechensoft.ru/vainahtv/vaynahtv/playlist.m3u8 
 Россия 1,http://78.25.155.47:1309/channel/Ros1.ts
@@ -889,27 +910,6 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/elista/russia1-sd/index.m3u8
 Россия 1,https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yakutsk/russia1-sd/index.m3u8
 Россия-1,https://radio-live-mg.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
-Россия-1,https://radio-live-mg.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
-Россия-1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kuban_r1.smil/chunklist_b1200000.m3u8
-Россия-1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:r1_lipetsk.smil/chunklist_b1500000.m3u8
-Россия-1,http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:r1_lipetsk.smil/chunklist_b1500000.m3u8
-Россия-1,https://83tpjqlujs1.a.trbcdn.net/livemaster/ut4ekx5unw_stream3/playlist.m3u8
-Россия-1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:penza_r1.smil/chunklist_b1200000.m3u8
-Россия-1,http://livetv.mylifeisgood.ml/mfolive.m3u8?media=russia1
-Россия-1,http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
-Россия-1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_2.m3u8
-Россия-1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_2.m3u8
-Россия-1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_2.m3u8
-Россия-1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus3/playlist_2.m3u8
-Россия-1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus5/playlist_2.m3u8
-Россия-1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_2.m3u8
-Россия-1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus7/playlist_2.m3u8
-Россия-1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_2.m3u8
-Россия-1,http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_2.m3u8
-Россия-1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/yaroslavl_r1.smil/chunklist_b1200000_slrus.m3u8
-Россия-1,http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
-Россия-1,http://chgtrk.code-red.ru/hls/R1_720p/index.m3u8
-Россия-1,https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_tula1/playlist.m3u8
 МОСКВА-24,https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
 МОСКВА-24,https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
 МОСКВА-24,http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
