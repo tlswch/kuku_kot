@@ -992,7 +992,10 @@ CGTN,https://liveru.cgtn.com/1000r/prog_index.m3u8
 КРЫМ-1,http://mr2live.1tvcrimea.ru:8080/1tvcrimea.m3u8
 КРЫМ-24,http://185.205.239.26:8081/show/crimea24test/playlist.m3u8
 КРЫМ-24,http://live.1tvcrimea.ru:8080/switcher.m3u8
+КРЫМ-24,https://mr2live.1tvcrimea.ru/24tvcrimea.m3u8
 КРЫМ-24,http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+Легендарный 24,https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+Симферополь-24 HD,http://46.151.151.245:10001/play/a004/index.m3u8
 К16 Саров,http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 САРАТОВ 24,http://109.248.11.19:8081/web/c24/playlist.m3u8
 САРАТОВ 24,http://saratov24.tv:80/online/playlist.php
@@ -1138,6 +1141,7 @@ LOVE Nature,http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 домашний,http://78.25.155.47:1309/channel/Domash.ts
 домашний,http://iptv.ktkru.ru:8014/index.m3u8
 леной усаиновой,http://edge-01-pub.persik.by:82/live/Ch361pub/index.m3u8
+ПОБЕДА,http://185.23.80.28:8080/Pobeda/index.m3u8
 ПОБЕДА,https://pkvc-hls4.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
 ПОБЕДА,https://sc.id-tv.kz/Pobeda_34_35.m3u8.m3u
 ПОБЕДА,https://sc.id-tv.kz/Pobeda.m3u8
