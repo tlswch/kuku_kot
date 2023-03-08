@@ -19,37 +19,6 @@ DIGI 4K,http://95.217.127.137:88/channel/eb0f46e/index.m3u8?q=b89c95670a116f9349
 Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 Bloomberg TV 4K,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
 
-🇷🇺｜РОССИЯ ФИЛЬМ,#genre#
-
-Мисс Опасност,https://kappa.stream.voidboost.cc/f7c3f98a48dd2b4efa59248e936484d7:2023030107:2a347799-8c10-4016-802e-bb4113145296/7/6/3/2/9/3/efyws.mp4
-Черная метка боевик,https://gamma.stream.voidboost.cc/a36d82caf9e15aa98272c29e46cd5228:2023030107:dbf35de6-84bf-4e05-bd9e-4da08efd9761/7/7/3/3/4/0/uc82e.mp4
- Лютер,https://bk2-hls.kinokrad.co/hls/Luter.2003.HDRip/playlist.m3u8
-Карантин - 19 2022,https://hye1eaipby4w.takedwn.ws/08_09_22/08/09/00/XBA5UNM5/5TNOWAST.mp4/index-v1-a1.m3u8
-Киллергерц 2022г,https://hye1eaipby4w.takedwn.ws/09_23_22/09/23/23/TPP3YL5Y/2ELFDDFD.mp4/index-v1-a1.m3u8
-Последний клиент 2022 триллер,https://hls.kinokrad.cc/hls/Klienten.2022.D.WEB-DLRip.14OOMB/playlist.m3u8
-Белый слон 2022,https://hye1eaipby4w.takedwn.ws/06_04_22/06/04/13/AFO2BZBW/LONR3K5U.mp4/index-a1-v1.m3u8
-Бёрди 2022,https://hye1eaipby4w.takedwn.ws/07_29_22/07/29/00/VJTPJTD4/G3IG7DDU.mp4/index-v1-a1.m3u8
-Кинг Конг 2005,https://hye1eaipby4w.takedwn.ws/08_27_21/08/27/01/63DJFW4K/6SO3NHNQ.mp4/index-v1-a1.m3u8
-Исчезнувший 2021,https://hls-hd.kinokrad.co/hlshd/Ischeznuvshiy.2021.WEB-DLRip.ELEKTRI4KA.UNIONGANG.720p/playlist.m3u8
-Телохранитель 2022,https://hye1eaipby4w.takedwn.ws/05_08_22/05/08/23/K6TS4I44/ZJDYUWRT.mp4/index-v1-a1.m3u8
-2012 2009,https://hye1eaipby4w.takedwn.ws/07_21_20/07/21/16/EYTVOKFX/ZJQJVST5.mp4/index-v1-a1.m3u8
-Взаперти 2022,https://hye1eaipby4w.takedwn.ws/05_11_22/05/11/14/K3A7LDTD/42WUEJCG.mp4/index-v1-a1.m3u8
-Трансформеры 2007,https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/10/M6C4GGWO/2OSIXJRI.mp4/index-v1-a1.m3u8
-Трансформеры 2 2009,https://hye1eaipby4w.takedwn.ws/05_14_21/05/14/22/H6Q3XKS3/MRFTDVP3.mp4/index-v1-a1.m3u8
-Трансформеры 3 2011,https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/07/WULDHMII/U2SVIWOB.mp4/index-v1-a1.m3u8
-Трансформеры 4 2014,https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/10/XPPAK23W/DRDGFDQ6.mp4/index-v1-a1.m3u8
-Трансформеры Последний рыцарь 2017,https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/12/MDZKJFIJ/LDDEYSOQ.mp4/index-v1-a1.m3u8
-Финч Finch 2021,http://kinoteatr.kg/video3/Filmu/7Finch.2021.mp4
-Кодекс киллера/The Protégé,http://kinoteatr.kg/video3/Filmu/7Kodeks%20killera.2021.mp4
-Морской бой/Battleship 2012,http://kinoteatr.kg/video/Filmu/=7Morskoy.Boy.2012.mp4
-Морской бой 60 FPS/Battleship,http://kinoteatr.kg/video2/Filmu/7Battleship.2012.60fps.mp4
-Полицейская академия 1,https://v2.catcast.tv/videos/ch38847/240920201526_51150/video.mp4
-Полицейская академия 3,https://v2.catcast.tv/videos/ch38847/240920201531_51154/video.mp4
-Полицейская академия 4,https://v2.catcast.tv/videos/ch38847/240920201534_51156/video.mp4
-Полицейская академия 5,https://v2.catcast.tv/videos/ch38847/240920201537_51157/video.mp4
-Полицейская академия 6,https://v2.catcast.tv/videos/ch38847/240920201545_51158/video.mp4
-Полицейская академия 7,https://v2.catcast.tv/videos/ch38847/240920201559_51165/video.mp4
-
 🇷🇺｜КИНОКАНАЛ,#genre#
 Русский Роман HD,http://95.217.127.137:88/channel/6a82e21b/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
 Детективы HD,http://95.217.127.137:88/channel/n6d7fd127/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
@@ -63,7 +32,126 @@ YOSSO TV BEST,http://95.217.127.137:88/channel/464b5779/index.m3u8?q=b89c95670a1
 Русский Иллюзион HD,http://95.217.127.137:88/channel/n1e4ba364/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
 Иллюзион + HD,http://95.217.127.137:88/channel/10785a79/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
 Еврокино HD,http://95.217.127.137:88/channel/390de9c0/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
-
+BCU VHS HD,http://95.217.127.137:88/channel/n2d0c4cf7/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+YOSSO TV VHS,http://95.217.127.137:88/channel/1b0afbac/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+CineMan VHS,http://95.217.127.137:88/channel/2dbbdcdc/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+VHS HD,http://95.217.127.137:88/channel/n4c338163/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+BCU Russian HD,http://95.217.127.137:88/channel/n67d750c9/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+BCU RUSerial HD,http://95.217.127.137:88/channel/n69f5a109/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Кино 1 HLS,http://95.217.127.137:88/channel/n2b4d99a/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Кино 1 International,http://kino-1.catcast.tv/content/38617/index.m3u8
+Кино 2 HLS,http://95.217.127.137:88/channel/n2a6c219/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Кино 2 ORG,http://95.217.127.137:88/channel/n2a6a724/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Военное кино HLS,http://95.217.127.137:88/channel/6ac1c335/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Хит HD,http://95.217.127.137:88/channel/6cd7d1cf/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Наше мужское HD,http://95.217.127.137:88/channel/n43c53165/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Киноджем 1 HD,http://95.217.127.137:88/channel/5141f081/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Киноджем 2 HD,http://95.217.127.137:88/channel/514264e0/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Premiere HD 2,http://95.217.127.137:88/channel/n6c41870d/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Black HD,http://95.217.127.137:88/channel/633f3ac9/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Sci-Fi HD,http://95.217.127.137:88/channel/7f6c4619/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Кино ТВ HD,http://95.217.127.137:88/channel/n10a23cf3/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Блокбастер HD,http://95.217.127.137:88/channel/5dcc5409/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Блокбастер HD,http://185.23.80.28:8080/Blockbaster/index.m3u8
+Душевное HD,http://95.217.127.137:88/channel/39a2ff7c/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Комедийное HD,http://95.217.127.137:88/channel/34da55de/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Наше Крутое HD,http://95.217.127.137:88/channel/n2098e65e/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Любимое HD,http://95.217.127.137:88/channel/n75a6173b/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Шокирующее HD,http://95.217.127.137:88/channel/n38280f58/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Романтичное HD,http://95.217.127.137:88/channel/n2bd17d10/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Наш кинопоказ HD,http://95.217.127.137:88/channel/5055dc86/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Кинопоказ HD,http://95.217.127.137:88/channel/nf95cda5/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Киномикс HD,http://95.217.127.137:88/channel/n77ebb1a8/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+КИНОМИКС,http://185.32.44.154/kinomiks/index.m3u8
+Киносемья HD,http://95.217.127.137:88/channel/n16ec5cee/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+КИНОСЕМЬЯ,http://185.32.44.154/kinosemya/index.m3u8
+Кинохит HD,http://95.217.127.137:88/channel/32f64ee/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+КИНОХИТ,http://185.32.44.154/kinoxit/index.m3u8
+Киносвидание HD,http://95.217.127.137:88/channel/4f68f804/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Кинопремьера HD,http://95.217.127.137:88/channel/n4029f786/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Мужское кино HD,http://95.217.127.137:88/channel/53fffafa/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Киноужас HD,http://95.217.127.137:88/channel/n996af29/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Кинокомедия HD,http://95.217.127.137:88/channel/n3820d151/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Наше новое кино HD,http://95.217.127.137:88/channel/n40f81cd9/index.m3u8?
+q=b89c95670a116f93490f61f6cb3cdea4
+НАШЕ НОВОЕ КИНО,http://185.32.44.154/nashenovoekino/index.m3u8
+BCU Premiere HD,http://95.217.127.137:88/channel/n1d9317cb/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Киносерия HD,http://95.217.127.137:88/channel/n1132d086/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Shot TV HD,http://95.217.127.137:88/channel/6a706d6/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Paradise HD,http://95.217.127.137:88/channel/n64aa6f9d/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Paradox HD,http://95.217.127.137:88/channel/n23f1bb4f/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Serial HD,http://95.217.127.137:88/channel/4fdcd646/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Thriller HD,http://95.217.127.137:88/channel/n787b221e/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Premium HD,http://95.217.127.137:88/channel/ne331479/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Victory HD,http://95.217.127.137:88/channel/21bf31ec/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+ViP Megahit HD CEE,http://95.217.127.137:88/channel/n32b9811d/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+ViP COMEDY HD,http://dmi3y-tv.ru/hls/okko/CH_ViPCOMEDYHD.m3u8
+ViP Comedy HD CEE,http://95.217.127.137:88/channel/n157c5eff/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+TV 1000 HD CEE,http://95.217.127.137:88/channel/n7fef73bc/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+TV 1000 World Kino HD,http://95.217.127.137:88/channel/4971a16a/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+KinoLiving HD,http://95.217.127.137:88/channel/7d16e192/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Hollywood HD,http://95.217.127.137:88/channel/n408f01e1/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Фантастика HD,http://95.217.127.137:88/channel/400f0b2c/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Фантастика HD,http://hlss.goodgame.ru/hls/187241.m3u8
+Фантастика 2 HD,http://95.217.127.137:88/channel/786e71da/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Страшное HD,http://95.217.127.137:88/channel/n48c99ea3/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+СТРАХ HD,http://95.217.127.137:88/channel/6a15aaaa/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+LOST HD,http://95.217.127.137:88/channel/n3f32014a/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+НСТ,http://95.217.127.137:88/channel/n6757cc4/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Следствие вели HD,http://95.217.127.137:88/channel/5f74c5c7/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+FunBox UHD,http://95.217.127.137:88/channel/ndc07221/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+SKY HIGH UHD HDR,http://95.217.127.137:88/channel/606f290a/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+SKY HIGH VHS UHD,http://95.217.127.137:88/channel/n69d709eb/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+SKY HIGH Doc UHD,http://95.217.127.137:88/channel/216743cc/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Кино UHD,http://95.217.127.137:88/channel/50e85072/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Сериал UHD,http://95.217.127.137:88/channel/n36e95556/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+BCU Кинозал Premiere 1 HD,http://95.217.127.137:88/channel/53122d87/index.m3u8?
+q=b89c95670a116f93490f61f6cb3cdea4
+BCU Кинозал Premiere 2 HD,http://95.217.127.137:88/channel/5312a1e6/index.m3u8?
+q=b89c95670a116f93490f61f6cb3cdea4
+BCU Кинозал Premiere 3 HD,http://95.217.127.137:88/channel/53131645/index.m3u8?
+q=b89c95670a116f93490f61f6cb3cdea4
+YOSSO TV NEW Кино,http://95.217.127.137:88/channel/n221caacc/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+BCU Сваты HD,http://95.217.127.137:88/channel/n373b709e/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+CineMan Сваты,http://95.217.127.137:88/channel/n1a7e3f1d/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+CineMan ПёС,http://95.217.127.137:88/channel/2dca934a/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+BCU Marvel HD,http://95.217.127.137:88/channel/n5f8db511/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+BCU Stars HD,http://95.217.127.137:88/channel/n1ec3d4d7/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+CineMan Ужасы,http://95.217.127.137:88/channel/n1a603ebe/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+CineMan Катастрофы,http://95.217.127.137:88/channel/74fb024f/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+CineMan Marvel,http://95.217.127.137:88/channel/adf32c4/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+CineMan Рукино,http://95.217.127.137:88/channel/n360a84d9/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Film Zone+ HD,http://95.217.127.137:88/channel/n3a26b969/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Капитан Фантастика HD,http://95.217.127.137:88/channel/54b7f2cc/index.m3u8?
+q=b89c95670a116f93490f61f6cb3cdea4
+Детское кино,http://95.217.127.137:88/channel/n4273378b/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+VHS,https://autopilot.catcast.tv/content/37925/index.m3u8
+VHS TV,https://v2.catcast.tv/content/37925/index.m3u8
+VHS TV 2,https://v2.catcast.tv/content/41530/index.m3u8
+Память,https://iptvplay.catcast.tv/content/38821/index.m3u8
+Ужастик,https://iptvplay.catcast.tv/content/38896/index.m3u8
+Фантастика,https://iptvplay.catcast.tv/content/38801/index.m3u8
+IPTV Play:Promo,https://iptvplay.catcast.tv/content/39161/index.m3u8
+TDM TV - Series TV,http://hlss.goodgame.ru/hls/186021.m3u8
+Кино Север HD,http://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
+Победа,http://185.23.80.28:8080/Pobeda/index.m3u8
+РОДНОЕ КИНО,http://185.32.44.154/rodnoekino/index.m3u8
+КИНОКОМЕДИЯ,http://185.32.44.154/kinokomedia/index.m3u8
+КИНОСВИДАНИЕ,http://185.32.44.154/kinosvidanie/index.m3u8
+Хит HD,http://185.23.80.28:8080/Xit/index.m3u8
+Наше Мужское HD,http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8
+Кинопоказ HD,http://185.23.80.28:8080/Kinopokaz/index.m3u8
+Наш Кинопоказ HD,http://185.23.80.28:8080/NashKinopokaz/index.m3u8
+Туапсе 24 HD,http://185.185.69.62:8084/hls/tuapse24.m3u8
+Trash HD,http://livetv.mylifeisgood.ml/channels/trash.m3u8
+МалдертвХИТ HD,https://cdn.wasd.tv/live/1531130/index.m3u8
+МалдертвТвоё Кино,https://cdn.wasd.tv/live/1632464/index.m3u8
+МалдертвСоветское,https://autopilot.catcast.tv/content/42930/index.m3u8
+МалдертвУжасы франшизы,https://autopilot.catcast.tv/content/42820/index.m3u8
+Z! Horror HD,http://w4v8q5bk.rostelekom.xyz/iptv/7FNHWC5TKQA8P7/14137/index.m3u8
+Z! Comedy HD,http://w4v8q5bk.rostelekom.xyz/iptv/7FNHWC5TKQA8P7/14135/index.m3u8
+TVOE TV HD,http://tvoetv.space:8080/tvoetv/index.m3u8
+TVOE TV HD,http://tvoetv.space:8080/tvoetv/video.m3u8
 Киллер-хранитель 2022,https://hls.kinokrad.cc/hls/Killer.hranitel.2022.WEB-DLRip/playlist.m3u8
 13 район 2005,https://bk2-hls.kinoprofi.vip/hls/13-y-rayon-2004_HDRip/playlist.m3u8
 13 район 2009 Ультиматум,https://bk2-hls.kinoprofi.vip/hls/Banlieue13-Ultimatum.2009hd/playlist.m3u8
@@ -179,7 +267,84 @@ FAN,http://185.23.80.28:8080/FAN/index.m3u8
 Хит,http://185.23.80.28:8080/Xit/index.m3u8
 Про Любовь,http://185.23.80.28:8080/ProLyubov/index.m3u8
 
+🇷🇺｜РОССИЯ ДЕТИ,#genre#
+
+Мульт HD,http://95.217.127.137:88/channel/65caf774/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+МультStream HD,http://95.217.127.137:88/channel/195f75d4/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Мульт Bravo HD,http://95.217.127.137:88/channel/401808ea/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Детский HD,http://95.217.127.137:88/channel/1ff89d23/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Cartoons 90,http://95.217.127.137:88/channel/11505670/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Cartoons Short,http://95.217.127.137:88/channel/n2a7ba59d/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Cartoons Big,http://95.217.127.137:88/channel/18baa0a7/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Cartoon Network,http://95.217.127.137:88/channel/n32380786/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Маша и Медведь,http://95.217.127.137:88/channel/24f35ca6/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Карусель HD,http://95.217.127.137:88/channel/n52905744/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+YOSSO TV Kids,http://95.217.127.137:88/channel/464ff822/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+YOSSO TV Music Hits,http://95.217.127.137:88/channel/n5525b990/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Gulli,https://sc.id-tv.kz:443/Gulli_34_35.m3u8?token=iptv.org.ua
+Gulli,http://195.189.60.181:312/378/index.m3u8
+Tiji,http://195.189.60.181:312/268/index.m3u8
+КАРУСЕЛЬ HD,https://sc.id-tv.kz:443/Karusel_36_37.m3u8?token=iptv.org.ua
+Мультсказки,https://autopilot.catcast.tv/content/38850/index.m3u8
+Nicktoons,http://195.189.60.181:312/58/index.m3u8
+Nickelodeon,https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
+Nickelodeon HD,http://195.189.60.181:312/92/index.m3u8
+Nick Jr,https://sc.id-tv.kz:443/NickJr_36_37.m3u8
+Nick jr,http://195.189.60.181:312/335/index.m3u8
+
+🇷🇺｜РОССИЯ ФИЛЬМ,#genre#
+
+Мисс Опасност,https://kappa.stream.voidboost.cc/f7c3f98a48dd2b4efa59248e936484d7:2023030107:2a347799-8c10-4016-802e-bb4113145296/7/6/3/2/9/3/efyws.mp4
+Черная метка боевик,https://gamma.stream.voidboost.cc/a36d82caf9e15aa98272c29e46cd5228:2023030107:dbf35de6-84bf-4e05-bd9e-4da08efd9761/7/7/3/3/4/0/uc82e.mp4
+ Лютер,https://bk2-hls.kinokrad.co/hls/Luter.2003.HDRip/playlist.m3u8
+Карантин - 19 2022,https://hye1eaipby4w.takedwn.ws/08_09_22/08/09/00/XBA5UNM5/5TNOWAST.mp4/index-v1-a1.m3u8
+Киллергерц 2022г,https://hye1eaipby4w.takedwn.ws/09_23_22/09/23/23/TPP3YL5Y/2ELFDDFD.mp4/index-v1-a1.m3u8
+Последний клиент 2022 триллер,https://hls.kinokrad.cc/hls/Klienten.2022.D.WEB-DLRip.14OOMB/playlist.m3u8
+Белый слон 2022,https://hye1eaipby4w.takedwn.ws/06_04_22/06/04/13/AFO2BZBW/LONR3K5U.mp4/index-a1-v1.m3u8
+Бёрди 2022,https://hye1eaipby4w.takedwn.ws/07_29_22/07/29/00/VJTPJTD4/G3IG7DDU.mp4/index-v1-a1.m3u8
+Кинг Конг 2005,https://hye1eaipby4w.takedwn.ws/08_27_21/08/27/01/63DJFW4K/6SO3NHNQ.mp4/index-v1-a1.m3u8
+Исчезнувший 2021,https://hls-hd.kinokrad.co/hlshd/Ischeznuvshiy.2021.WEB-DLRip.ELEKTRI4KA.UNIONGANG.720p/playlist.m3u8
+Телохранитель 2022,https://hye1eaipby4w.takedwn.ws/05_08_22/05/08/23/K6TS4I44/ZJDYUWRT.mp4/index-v1-a1.m3u8
+2012 2009,https://hye1eaipby4w.takedwn.ws/07_21_20/07/21/16/EYTVOKFX/ZJQJVST5.mp4/index-v1-a1.m3u8
+Взаперти 2022,https://hye1eaipby4w.takedwn.ws/05_11_22/05/11/14/K3A7LDTD/42WUEJCG.mp4/index-v1-a1.m3u8
+Трансформеры 2007,https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/10/M6C4GGWO/2OSIXJRI.mp4/index-v1-a1.m3u8
+Трансформеры 2 2009,https://hye1eaipby4w.takedwn.ws/05_14_21/05/14/22/H6Q3XKS3/MRFTDVP3.mp4/index-v1-a1.m3u8
+Трансформеры 3 2011,https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/07/WULDHMII/U2SVIWOB.mp4/index-v1-a1.m3u8
+Трансформеры 4 2014,https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/10/XPPAK23W/DRDGFDQ6.mp4/index-v1-a1.m3u8
+Трансформеры Последний рыцарь 2017,https://hye1eaipby4w.takedwn.ws/05_11_21/05/11/12/MDZKJFIJ/LDDEYSOQ.mp4/index-v1-a1.m3u8
+Финч Finch 2021,http://kinoteatr.kg/video3/Filmu/7Finch.2021.mp4
+Кодекс киллера/The Protégé,http://kinoteatr.kg/video3/Filmu/7Kodeks%20killera.2021.mp4
+Морской бой/Battleship 2012,http://kinoteatr.kg/video/Filmu/=7Morskoy.Boy.2012.mp4
+Морской бой 60 FPS/Battleship,http://kinoteatr.kg/video2/Filmu/7Battleship.2012.60fps.mp4
+Полицейская академия 1,https://v2.catcast.tv/videos/ch38847/240920201526_51150/video.mp4
+Полицейская академия 3,https://v2.catcast.tv/videos/ch38847/240920201531_51154/video.mp4
+Полицейская академия 4,https://v2.catcast.tv/videos/ch38847/240920201534_51156/video.mp4
+Полицейская академия 5,https://v2.catcast.tv/videos/ch38847/240920201537_51157/video.mp4
+Полицейская академия 6,https://v2.catcast.tv/videos/ch38847/240920201545_51158/video.mp4
+Полицейская академия 7,https://v2.catcast.tv/videos/ch38847/240920201559_51165/video.mp4
+
+
 🇷🇺｜РУКАНАЛ,#genre#
+
+ВОЛГА (HD),http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+Белгород 24 HD,http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+Севастополь 24,http://stv92-live.cdnvideo.ru/stv92/stv92/playlist.m3u8
+Севастополь ТВ,http://live-ikstv.cdnvideo.ru/ikstv/ikstv/playlist.m3u8
+ТВК-6 канал HD Красноярск,https://air.tvk6.ru/tvk24/index.m3u8
+6 ТВ горловка HD,http://91.237.3.3:4022/udp/224.2.2.4:10000
+Крым 24 HD,https://mr2live.1tvcrimea.ru/24tvcrimea.m3u8
+Легендарный 24,https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+Симферополь-24 HD,http://46.151.151.245:10001/play/a004/index.m3u8
+Плюс ТВ BY,http://178.124.179.122:8088/PlusTV/index.m3u8
+ТРК 555 Алушта,http://trk555.tv:8888/live
+Детское Кино International,http://autopilot.catcast.tv/content/38720/index.m3u8
+СТРК HD,http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+Sochi 24 HD,http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+Sochi Live HD,http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+TDM TV - Мультики и сказки,http://hlss.goodgame.ru/hls/198446.m3u8
+Мультсказки,https://iptvplay.catcast.tv/content/38850/index.m3u8
+Kids TV 1,https://v2.catcast.tv/content/40487/index.m3u8
+Своё HD,http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
 Ретро,http://185.23.80.28:8080/Retro/index.m3u8
 Еврокино,http://176.74.80.162:8099/EuroKino/index.m3u8
 ЕВРОКИНО,http://185.32.44.154/eurokino/index.m3u8
@@ -415,6 +580,7 @@ Prima TV,https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8?wowzatokene
 Profit.ro,https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 TVPlus Suceava,http://85.186.146.34:8080
 B1,https://stream.adunity.com/b1/b1.m3u8
+
 JK｜JK,#genre#
 TV Nové Zámky,http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
 TV Nové Zámky,http://s1.media-planet.sk:80/live/novezamky/lihattv.m3u8
@@ -586,6 +752,31 @@ TV 52 alt2,https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
 MC EU TV,https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
 🇷🇺｜ПОЗНАВАТЕЛЬНЫЙ,#genre#
+Конный мир HD,http://bl.uma.media/live/400930/HLS/4614144_4/2/1/playlist.m3u8
+FOX CEE HD,http://95.217.127.137:88/channel/n51aa8554/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Fox Life HD,http://95.217.127.137:88/channel/498c3a4d/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+SKY HIGH Man HD,http://95.217.127.137:88/channel/38f97e7f/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+SKY HIGH DOC HD,http://95.217.127.137:88/channel/288cade1/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Travel Channel HD CEE,http://95.217.127.137:88/channel/naa42ac0/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Travel+Adventure HD,http://95.217.127.137:88/channel/n7d26aee5/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Дикая Охота HD,http://95.217.127.137:88/channel/ceabb64/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Дикая Рыбалка HD,http://95.217.127.137:88/channel/2f0f47a2/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Доктор HD,http://95.217.127.137:88/channel/65bb01a6/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+В мире животных HD,http://95.217.127.137:88/channel/n1a901f06/index.m3u8?
+q=b89c95670a116f93490f61f6cb3cdea4
+History HD,http://95.217.127.137:88/channel/43cdd02a/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Galaxy HD,http://95.217.127.137:88/channel/7360cbaa/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+E HD,http://95.217.127.137:88/channel/35f71839/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Мир Вокруг HD,http://95.217.127.137:88/channel/n6d4e4/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Наука 2.0 HD,http://95.217.127.137:88/channel/n34713e1c/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Ключ HD,http://95.217.127.137:88/channel/n1017dec0/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Discovery CEE HD,http://95.217.127.137:88/channel/7ab84d2b/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Жара HD,http://95.217.127.137:88/channel/8ba27d0/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Живи HD,http://95.217.127.137:88/channel/159f46b2/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Animal Planet CEE HD,http://95.217.127.137:88/channel/2b853ff/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Discovery Science HD CEE,http://95.217.127.137:88/channel/55e9d16d/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Investigation Discovery HD CEE,http://95.217.127.137:88/channel/23f4640f/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+National Geographic CEE HD,http://95.217.127.137:88/channel/n39a0430a/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
 Animal Planet,http://185.32.44.154/animalplanet/index.m3u8
 National Geographic ,http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
 National Geographic HD,http://195.189.60.181:312/143/index.m3u8
@@ -645,16 +836,6 @@ Tennis Channel,https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 Edge Sport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 ПЛЮС ПЛЮС,http://91.146.94.234:10001/play/a04v
 Da Vinci,https://sc.id-tv.kz/DaVinci_34_35.m3u8
-Gulli,https://sc.id-tv.kz:443/Gulli_34_35.m3u8?token=iptv.org.ua
-Gulli,http://195.189.60.181:312/378/index.m3u8
-Tiji,http://195.189.60.181:312/268/index.m3u8
-КАРУСЕЛЬ HD,https://sc.id-tv.kz:443/Karusel_36_37.m3u8?token=iptv.org.ua
-Мультсказки,https://autopilot.catcast.tv/content/38850/index.m3u8
-Nicktoons,http://195.189.60.181:312/58/index.m3u8
-Nickelodeon,https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
-Nickelodeon HD,http://195.189.60.181:312/92/index.m3u8
-Nick Jr,https://sc.id-tv.kz:443/NickJr_36_37.m3u8
-Nick jr,http://195.189.60.181:312/335/index.m3u8
 CTC Kids,http://37.17.14.149:8903/play/a006?token=iptv.org.ua
 Белки в деле 2016,https://hls.kinokrad.co/hls/Belki.v.Dele2015.HDRip/playlist.m3u8
 Бобик в гостях у Барбоса 1977
@@ -855,6 +1036,23 @@ OK Wernigerode (1080p),http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok
 Fashion TV Midnite Secrets HD,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
 🇷🇺｜ВЗЛ,#genre#
+Кино 18+,http://95.217.127.137:88/channel/n19d55e7/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+КИНО 18+ International,https://v2.catcast.tv/content/40381/index.m3u8
+BCU Charm HD,http://95.217.127.137:88/channel/n17a4240d/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+YOSSO TV SEXY,http://95.217.127.137:88/channel/46531268/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Redlight HD,http://95.217.127.137:88/channel/na4b240b/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Barely Legal TV,http://95.217.127.137:88/channel/3d952dc8/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Private HD,http://95.217.127.137:88/channel/5fb134db/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Extasy 4K,http://95.217.127.137:88/channel/46fe57cf/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Blue Hustler,http://95.217.127.137:88/channel/n6dc0ab19/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Hustler TV,http://95.217.127.137:88/channel/312a1bb9/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Hustler HD,http://95.217.127.137:88/channel/312a1a33/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Brazzers HD,http://95.217.127.137:88/channel/n7eebb59b/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Brazzers HD,http://95.217.127.137:88/channel/n7eebb59b/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Babes TV HD,http://95.217.127.137:88/channel/6d419689/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Шалун HD,http://95.217.127.137:88/channel/56c192b1/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Eromania 4K,http://95.217.127.137:88/channel/n69602fb/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Penthouse Quickies HD,http://95.217.127.137:88/channel/22bd0f75/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
 Babestation,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 VISIT-X r,http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
