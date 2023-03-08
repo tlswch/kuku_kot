@@ -1,8 +1,27 @@
+🇷🇺｜РОССИЯ 4K,#genre#
+BCU Premiere Ultra 4K,http://95.217.127.137:88/channel/5196ec24/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+BCU Ultra 4K,http://95.217.127.137:88/channel/2a308d99/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+YOSSO-4K,http://95.217.127.137:88/channel/n609801b3/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+SKY HIGH Nature 4K,http://95.217.127.137:88/channel/n6903696d/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+SKY HIGH Nature 4K HDR,http://95.217.127.137:88/channel/2e8b7c9/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+SKY HIGH Mix 4K,http://95.217.127.137:88/channel/396ec3d8/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Museum 4K,http://95.217.127.137:88/channel/n7c7dd4fd/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Fashion One 4K,http://95.217.127.137:88/channel/n6992ec5/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+HOME 4K,http://95.217.127.137:88/channel/n13264f4a/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Наша Сибирь 4K,http://95.217.127.137:88/channel/n354c1b6/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+TRT 4K,http://95.217.127.137:88/channel/n4f0fd59d/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Love Nature 4K,http://95.217.127.137:88/channel/3893dc84/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Глазами туриста 4K,http://95.217.127.137:88/channel/n68519b5a/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+4K,http://95.217.127.137:88/channel/d34ea03/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Quadro 4K,http://95.217.127.137:88/channel/1a858611/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+4K HERiTAGE,http://95.217.127.137:88/channel/21648dc6/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+DIGI 4K,http://95.217.127.137:88/channel/eb0f46e/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+Bloomberg TV 4K,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
+
 🇷🇺｜РОССИЯ ФИЛЬМ,#genre#
 
 Мисс Опасност,https://kappa.stream.voidboost.cc/f7c3f98a48dd2b4efa59248e936484d7:2023030107:2a347799-8c10-4016-802e-bb4113145296/7/6/3/2/9/3/efyws.mp4
-Царица небесная 1080p,https://sigma.stream.voidboost.cc/837dd2ec6a6a5cfd87e7b68355aadd2a:2023030107:a6d0be6a-0a6b-48b2-8e3d-7b02ab761cf1/7/6/8/8/3/2/rmyn1.mp4
-Царица небесная 480p,https://sigma.stream.voidboost.cc/776919120ac4336199e704ead121e619:2023030107:a6d0be6a-0a6b-48b2-8e3d-7b02ab761cf1/7/6/8/8/3/2/jqe0x.mp4
 Черная метка боевик,https://gamma.stream.voidboost.cc/a36d82caf9e15aa98272c29e46cd5228:2023030107:dbf35de6-84bf-4e05-bd9e-4da08efd9761/7/7/3/3/4/0/uc82e.mp4
  Лютер,https://bk2-hls.kinokrad.co/hls/Luter.2003.HDRip/playlist.m3u8
 Карантин - 19 2022,https://hye1eaipby4w.takedwn.ws/08_09_22/08/09/00/XBA5UNM5/5TNOWAST.mp4/index-v1-a1.m3u8
@@ -32,6 +51,19 @@
 Полицейская академия 7,https://v2.catcast.tv/videos/ch38847/240920201559_51165/video.mp4
 
 🇷🇺｜КИНОКАНАЛ,#genre#
+Русский Роман HD,http://95.217.127.137:88/channel/6a82e21b/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Детективы HD,http://95.217.127.137:88/channel/n6d7fd127/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Мосфильм Золотая коллекция HD,http://95.217.127.137:88/channel/n5c2ab969/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+РуКино HD,http://95.217.127.137:88/channel/n4d90c888/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+USSR HD,http://95.217.127.137:88/channel/n5c477243/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+BCU СССР HD,http://95.217.127.137:88/channel/n6f6c331/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+YOSSO TV Русские фильмы,http://95.217.127.137:88/channel/n32dbe82b/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+YOSSO TV Советские фильмы,http://95.217.127.137:88/channel/6b5de391/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+YOSSO TV BEST,http://95.217.127.137:88/channel/464b5779/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Русский Иллюзион HD,http://95.217.127.137:88/channel/n1e4ba364/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Иллюзион + HD,http://95.217.127.137:88/channel/10785a79/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+Еврокино HD,http://95.217.127.137:88/channel/390de9c0/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
+
 Киллер-хранитель 2022,https://hls.kinokrad.cc/hls/Killer.hranitel.2022.WEB-DLRip/playlist.m3u8
 13 район 2005,https://bk2-hls.kinoprofi.vip/hls/13-y-rayon-2004_HDRip/playlist.m3u8
 13 район 2009 Ультиматум,https://bk2-hls.kinoprofi.vip/hls/Banlieue13-Ultimatum.2009hd/playlist.m3u8
