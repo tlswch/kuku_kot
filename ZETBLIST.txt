@@ -919,10 +919,14 @@ J2,http://120.84.96.152:808/hls/86/index.m3u8
 ТВЦ,http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
 ТВЦ,http://78.25.155.47:1309/channel/TVC.ts
 Че,http://78.25.155.47:1309/channel/Che.ts
+Золотая коллекция,http://95.217.127.137:88/channel/n5c2ab969/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
 Золотая коллекция,http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
+Русский роман,http://95.217.127.137:88/channel/6a82e21b/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
 Русский роман,http://78.25.155.47:1309/channel/Rus_rom.ts
 Русский детектив,http://78.25.155.47:1309/channel/rus_d.ts
+Русский иллюзион,http://95.217.127.137:88/channel/n1e4ba364/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
 Русский иллюзион,http://78.25.155.47:1309/channel/Rus_illuz.ts
+Русский Иллюзион +,http://95.217.127.137:88/channel/10785a79/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
 Телекафе,http://78.25.155.47:1309/channel/Telecafe.ts
 Russian Extreme TV,http://78.25.155.47:1309/channel/Rus_ext.ts
 НТВ  HD,http://78.25.155.47:1309/channel/NTV.ts
@@ -1367,6 +1371,7 @@ FAN,http://94.230.240.17:8080/fan/tracks-v1a1/mono.m3u8
 FilmBox,http://94.230.240.17:8080/film_box/index.m3u8
 Fenix Kino,http://78.25.155.47:1309/channel/Feniks.ts
 TV XXI,http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
+Кинозал BCU СССР,http://95.217.127.137:88/channel/n6f6c331/index.m3u8?q=b89c95670a116f93490f61f6cb3cdea4
 KINO internation,https://autopilot.catcast.tv/content/40381/index.m3u8
 KINO internation,https://kino-1.catcast.tv/content/38617/index.m3u8
 КИНО internation,,https://autopilot.catcast.tv/content/38617/index.m3u8
