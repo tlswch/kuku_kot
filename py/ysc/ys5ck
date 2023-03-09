@@ -1,8 +1,8 @@
 {
 "storeHouse": [
-{"sourceName":"🔥影视仓库①","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/84407/a.txt?sign=fqPExwSAQAgKuU26uf7gEU1fQ4iBVdBHLY_QoBYB_wI%3D%3A0"},
-{"sourceName":"🔥影视仓库②","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/95842/m.json?sign=9VbMEEMffjD51Ls9C8h8DSdaktQAAi2_OyyNDouLie8%3D%3A0"},
-{"sourceName":"🔥影视仓库③","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/84410/b.txt?sign=0WpoEjBc2MpwF3rDG75aUhmAGRFBvf-KTS82Ow_62TA%3D%3A0"},
-{"sourceName":"🔥影视仓库④","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/84409/c.txt?sign=-W8CBDpG6ZEtKwO8ZnYtC0qPGIaqlg4bIanuHwUMVxg%3D%3A0"},
-{"sourceName":"🔥影视仓库⑤","sourceUrl":"http://52bsj.vip:81/api/v3/file/get/84408/d.txt?sign=5dJJffCPikC24JAS_ZCuE_f6pBdUVVPnOnI9vOhKtSo%3D%3A0"}
+{"sourceName":"🔥影视仓库①","sourceUrl":"https://agit.ai/kuku/kot/raw/branch/master/py/ysc/yingshicang1"},
+{"sourceName":"🔥影视仓库②","sourceUrl":"https://agit.ai/kuku/kot/raw/branch/master/py/ysc/yingshicang2"},
+{"sourceName":"🔥影视仓库③","sourceUrl":"https://agit.ai/kuku/kot/raw/branch/master/py/ysc/yingshicang3"},
+{"sourceName":"🔥影视仓库④","sourceUrl":"https://agit.ai/kuku/kot/raw/branch/master/py/ysc/yingshicang4"},
+{"sourceName":"🔥影视仓库⑤","sourceUrl":"https://agit.ai/kuku/kot/raw/branch/master/py/ysc/yingshicang5"}
 ]}
