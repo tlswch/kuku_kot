@@ -240,7 +240,36 @@
 		"sourceName": "派大星20号仓库",
 		"sourceUrl": "http://tv.nxog.top/m/m/20.php?b=派大星"
 	},
-
+"sourceName": "🌹多仓库🌹",
+    "sourceUrl":  "https://notabug.org/kuzniez/kot/raw/master/yscxdc/%e4%bb%93%e5%ba%93.json"
+  },{
+		"sourceName": "公子仓",
+		"sourceUrl": "http://tvmvip110.live/down.php/9cfc027ba5f11cf90df5dfcecb3519ee.json"
+	}, {
+		"sourceName": "大人仓",
+		"sourceUrl": "http://dd.ma/dxzKzSJa"
+	},{
+    "sourceName": "🌹➊天天白嫖仓🌹",
+    "sourceUrl":  "https://agit.ai/1058263215/TVBox/raw/branch/master/TTBaiPiaoXianLuHuiZong.json"
+  }, {
+    "sourceName": "🐮➋大佬牛逼仓🐮",
+    "sourceUrl":  "https://agit.ai/1058263215/TVBox/raw/branch/master/NBDC.json"
+  }, {
+    "sourceName": "🦊🦊➌大佬自建仓🦊🦊",
+    "sourceUrl":  "https://agit.ai/1058263215/TVBox/raw/branch/master/ZJ-DXL.json"
+  }, {
+    "sourceName": "🐷➍大佬备用仓🐷",
+    "sourceUrl":  "https://agit.ai/1058263215/TVBox/raw/branch/master/DC.json"
+  }, {
+    "sourceName": "🐽➎大福普通仓🐽",
+    "sourceUrl":  "https://agit.ai/1058263215/TVBox/raw/branch/master/FL-ZJ-DXL.json"
+  }, {
+    "sourceName": "🥰🥰➏大福精品仓🥰🥰",
+    "sourceUrl":  "https://agit.ai/1058263215/TVBox/raw/branch/master/huahua2.json"
+  }, {
+    "sourceName": "💖➐大福测试仓💖",
+    "sourceUrl":  "https://agit.ai/1058263215/TVBox/raw/branch/master/huahua1.json"
+  }
 {"sourceName":"  ⑳号库
 ","sourceUrl":"      https://gitcode.net/go/go/-/raw/o/ck_2.bin
 "},
